@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InputEntry>
+	<InputSchemeSetting flag="0" object="CBasicInputScheme">
+		<KeyTable name="세벌식 모아치기 호환성" flag="0" from="33" to="126">
+			<Key at="0x21" value="0x21"/>
+			<Key at="0x22" value="0x2F"/>
+			<Key at="0x23" value="0x23"/>
+			<Key at="0x24" value="0x24"/>
+			<Key at="0x25" value="0x25"/>
+			<Key at="0x26" value="0x26"/>
+			<Key at="0x27" value="P ? 0x2F : H3|T_"/>
+			<Key at="0x28" value="0x28"/>
+			<Key at="0x29" value="0x29"/>
+			<Key at="0x2A" value="0x2A"/>
+			<Key at="0x2B" value="P ? 0x3D : 0x2B"/>
+			<Key at="0x2C" value="P ? 0x3C : 0x2C"/>
+			<Key at="0x2D" value="P ? 0x5F : 0x2D"/>
+			<Key at="0x2E" value="P ? 0x3E : 0x2E"/>
+			<Key at="0x2F" value="P ? 0x3F : H3|O_"/>
+			<Key at="0x30" value="P ? 0x29 : H3|K_"/>
+			<Key at="0x31" value="P ? 0x21 : H3|_H"/>
+			<Key at="0x32" value="P ? 0x40 : H3|_SS"/>
+			<Key at="0x33" value="P ? 0x23 : H3|_B"/>
+			<Key at="0x34" value="P ? 0x24 : H3|YO"/>
+			<Key at="0x35" value="P ? 0x25 : H3|YU"/>
+			<Key at="0x36" value="P ? 0x5E : H3|YA"/>
+			<Key at="0x37" value="P ? 0x26 : H3|YE"/>
+			<Key at="0x38" value="P ? 0x2A : H3|EUI"/>
+			<Key at="0x39" value="P ? 0x28 : H3|U_"/>
+			<Key at="0x3A" value="0x34"/>
+			<Key at="0x3B" value="P ? 0x34 : H3|B_"/>
+			<Key at="0x3C" value="P ? 0x2C : 0x3C"/>
+			<Key at="0x3D" value="P ? 0x2B : 0x3D"/>
+			<Key at="0x3E" value="P ? 0x2E : 0x3E"/>
+			<Key at="0x3F" value="0x3F"/>
+			<Key at="0x40" value="0x40"/>
+			<Key at="0x41" value="0x2606"/>
+			<Key at="0x42" value="0x3B"/>
+			<Key at="0x43" value="0x24D2"/>
+			<Key at="0x44" value="0x25B2"/>
+			<Key at="0x45" value="0x2192"/>
+			<Key at="0x46" value="0xB7"/>
+			<Key at="0x47" value="0x3A"/>
+			<Key at="0x48" value="0x30"/>
+			<Key at="0x49" value="0x37"/>
+			<Key at="0x4A" value="0x31"/>
+			<Key at="0x4B" value="0x32"/>
+			<Key at="0x4C" value="0x33"/>
+			<Key at="0x4D" value="0x22"/>
+			<Key at="0x4E" value="0x27"/>
+			<Key at="0x4F" value="0x38"/>
+			<Key at="0x50" value="0x39"/>
+			<Key at="0x51" value="0x2661"/>
+			<Key at="0x52" value="0x2194"/>
+			<Key at="0x53" value="0x25BD"/>
+			<Key at="0x54" value="0x203B"/>
+			<Key at="0x55" value="0x36"/>
+			<Key at="0x56" value="0x25CE"/>
+			<Key at="0x57" value="0x2190"/>
+			<Key at="0x58" value="0x25A1"/>
+			<Key at="0x59" value="0x35"/>
+			<Key at="0x5A" value="0x260E"/>
+			<Key at="0x5B" value="P ? 0x7B : 0x5B"/>
+			<Key at="0x5C" value="P ? 0x7C : 0x5C"/>
+			<Key at="0x5D" value="P ? 0x7D : 0x5D"/>
+			<Key at="0x5E" value="0x5E"/>
+			<Key at="0x5F" value="P ? 0x2D : 0x5F"/>
+			<Key at="0x60" value="P ? 0x7E : 0x60"/>
+			<Key at="0x61" value="P ? 0x2606 : H3|_Q"/>
+			<Key at="0x62" value="P ? 0x3B : H3|U_"/>
+			<Key at="0x63" value="P ? 0x24D2 : H3|E_"/>
+			<Key at="0x64" value="P ? 0x25B2 : H3|I_"/>
+			<Key at="0x65" value="P ? 0x2192 : H3|YEO"/>
+			<Key at="0x66" value="P ? 0xB7 : H3|A_"/>
+			<Key at="0x67" value="P ? 0x3A : H3|EU"/>
+			<Key at="0x68" value="P ? 0x30 : H3|N_"/>
+			<Key at="0x69" value="P ? 0x37 : H3|M_"/>
+			<Key at="0x6A" value="P ? 0x31 : H3|Q_"/>
+			<Key at="0x6B" value="P ? 0x32 : H3|G_"/>
+			<Key at="0x6C" value="P ? 0x33 : H3|J_"/>
+			<Key at="0x6D" value="P ? 0x22 : H3|H_"/>
+			<Key at="0x6E" value="P ? 0x27 : H3|S_"/>
+			<Key at="0x6F" value="P ? 0x38 : H3|C_"/>
+			<Key at="0x70" value="P ? 0x39 : H3|P_"/>
+			<Key at="0x71" value="P ? 0x2661 : H3|_S"/>
+			<Key at="0x72" value="P ? 0x2194 : H3|AE"/>
+			<Key at="0x73" value="P ? 0x25BD : H3|_N"/>
+			<Key at="0x74" value="P ? 0x203B : H3|EO"/>
+			<Key at="0x75" value="P ? 0x36 : H3|D_"/>
+			<Key at="0x76" value="P ? 0x25CE : H3|O_"/>
+			<Key at="0x77" value="P ? 0x2190 : H3|_R"/>
+			<Key at="0x78" value="P ? 0x25A1 : H3|_G"/>
+			<Key at="0x79" value="P ? 0x35 : H3|R_"/>
+			<Key at="0x7A" value="P ? 0x260E : H3|_M"/>
+			<Key at="0x7B" value="0x7B"/>
+			<Key at="0x7C" value="0x7C"/>
+			<Key at="0x7D" value="0x7D"/>
+			<Key at="0x7E" value="0x7E"/>
+		</KeyTable>
+	</InputSchemeSetting>
+	<GeneratorSetting flag="0" object="CNgsIme">
+		<UnitMixTable>
+			<UnitMix unit="CHO" a="G_" b="N_" to="NG"/>
+			<UnitMix unit="CHO" a="G_" b="D_" to="DG"/>
+			<UnitMix unit="CHO" a="G_" b="B_" to="BG"/>
+			<UnitMix unit="CHO" a="G_" b="BS" to="BSG"/>
+			<UnitMix unit="CHO" a="G_" b="S_" to="SG"/>
+			<UnitMix unit="CHO" a="G_" b="Q_" to="GG"/>
+			<UnitMix unit="CHO" a="G_" b="J_" to="wJ"/>
+			<UnitMix unit="CHO" a="G_" b="C_" to="SG"/>
+			<UnitMix unit="CHO" a="G_" b="H_" to="K_"/>
+			<UnitMix unit="CHO" a="N_" b="G_" to="NG"/>
+			<UnitMix unit="CHO" a="N_" b="D_" to="ND"/>
+			<UnitMix unit="CHO" a="N_" b="R_" to="RQ"/>
+			<UnitMix unit="CHO" a="N_" b="M_" to="MQ"/>
+			<UnitMix unit="CHO" a="N_" b="B_" to="BQ"/>
+			<UnitMix unit="CHO" a="N_" b="BB" to="BBQ"/>
+			<UnitMix unit="CHO" a="N_" b="S_" to="SN"/>
+			<UnitMix unit="CHO" a="N_" b="Q_" to="V_"/>
+			<UnitMix unit="CHO" a="N_" b="C_" to="NB"/>
+			<UnitMix unit="CHO" a="N_" b="T_" to="NN"/>
+			<UnitMix unit="CHO" a="N_" b="P_" to="PQ"/>
+			<UnitMix unit="CHO" a="N_" b="H_" to="X_"/>
+			<UnitMix unit="CHO" a="D_" b="G_" to="DG"/>
+			<UnitMix unit="CHO" a="D_" b="N_" to="ND"/>
+			<UnitMix unit="CHO" a="D_" b="B_" to="BD"/>
+			<UnitMix unit="CHO" a="D_" b="BS" to="BSD"/>
+			<UnitMix unit="CHO" a="D_" b="S_" to="SD"/>
+			<UnitMix unit="CHO" a="D_" b="Q_" to="DD"/>
+			<UnitMix unit="CHO" a="D_" b="H_" to="T_"/>
+			<UnitMix unit="CHO" a="R_" b="N_" to="RQ"/>
+			<UnitMix unit="CHO" a="R_" b="S_" to="SR"/>
+			<UnitMix unit="CHO" a="R_" b="C_" to="RN"/>
+			<UnitMix unit="CHO" a="R_" b="T_" to="RR"/>
+			<UnitMix unit="CHO" a="R_" b="H_" to="RH"/>
+			<UnitMix unit="CHO" a="M_" b="N_" to="MQ"/>
+			<UnitMix unit="CHO" a="M_" b="B_" to="MB"/>
+			<UnitMix unit="CHO" a="M_" b="S_" to="SM"/>
+			<UnitMix unit="CHO" a="M_" b="Q_" to="DD"/>
+			<UnitMix unit="CHO" a="M_" b="C_" to="wC"/>
+			<UnitMix unit="CHO" a="B_" b="G_" to="BG"/>
+			<UnitMix unit="CHO" a="B_" b="N_" to="BQ"/>
+			<UnitMix unit="CHO" a="B_" b="D_" to="BD"/>
+			<UnitMix unit="CHO" a="B_" b="M_" to="MB"/>
+			<UnitMix unit="CHO" a="B_" b="S_" to="SB"/>
+			<UnitMix unit="CHO" a="B_" b="SG" to="BSG"/>
+			<UnitMix unit="CHO" a="B_" b="SD" to="BSD"/>
+			<UnitMix unit="CHO" a="B_" b="Q_" to="BB"/>
+			<UnitMix unit="CHO" a="B_" b="V_" to="BBQ"/>
+			<UnitMix unit="CHO" a="B_" b="J_" to="Jw"/>
+			<UnitMix unit="CHO" a="B_" b="C_" to="BJ"/>
+			<UnitMix unit="CHO" a="B_" b="K_" to="BN"/>
+			<UnitMix unit="CHO" a="B_" b="T_" to="BT"/>
+			<UnitMix unit="CHO" a="B_" b="H_" to="P_"/>
+			<UnitMix unit="CHO" a="BG" b="S_" to="BSG"/>
+			<UnitMix unit="CHO" a="BD" b="S_" to="BSD"/>
+			<UnitMix unit="CHO" a="BB" b="N_" to="BBQ"/>
+			<UnitMix unit="CHO" a="BS" b="G_" to="BSG"/>
+			<UnitMix unit="CHO" a="BS" b="D_" to="BSD"/>
+			<UnitMix unit="CHO" a="BT" b="J_" to="JJw"/>
+			<UnitMix unit="CHO" a="BQ" b="Q_" to="BBQ"/>
+			<UnitMix unit="CHO" a="S_" b="G_" to="SG"/>
+			<UnitMix unit="CHO" a="S_" b="N_" to="SN"/>
+			<UnitMix unit="CHO" a="S_" b="D_" to="SD"/>
+			<UnitMix unit="CHO" a="S_" b="R_" to="SR"/>
+			<UnitMix unit="CHO" a="S_" b="M_" to="SM"/>
+			<UnitMix unit="CHO" a="S_" b="B_" to="SB"/>
+			<UnitMix unit="CHO" a="S_" b="BG" to="BSG"/>
+			<UnitMix unit="CHO" a="S_" b="BD" to="BSD"/>
+			<UnitMix unit="CHO" a="S_" b="Q_" to="SS"/>
+			<UnitMix unit="CHO" a="S_" b="J_" to="SJ"/>
+			<UnitMix unit="CHO" a="S_" b="K_" to="SK"/>
+			<UnitMix unit="CHO" a="S_" b="T_" to="ST"/>
+			<UnitMix unit="CHO" a="S_" b="P_" to="BS"/>
+			<UnitMix unit="CHO" a="S_" b="H_" to="Z_"/>
+			<UnitMix unit="CHO" a="SG" b="B_" to="BSG"/>
+			<UnitMix unit="CHO" a="SD" b="B_" to="BSD"/>
+			<UnitMix unit="CHO" a="wS" b="T_" to="wSS"/>
+			<UnitMix unit="CHO" a="Sw" b="T_" to="SSw"/>
+			<UnitMix unit="CHO" a="Q_" b="G_" to="GG"/>
+			<UnitMix unit="CHO" a="Q_" b="N_" to="V_"/>
+			<UnitMix unit="CHO" a="Q_" b="D_" to="DD"/>
+			<UnitMix unit="CHO" a="Q_" b="M_" to="DD"/>
+			<UnitMix unit="CHO" a="Q_" b="B_" to="BB"/>
+			<UnitMix unit="CHO" a="Q_" b="BQ" to="BBQ"/>
+			<UnitMix unit="CHO" a="Q_" b="S_" to="SS"/>
+			<UnitMix unit="CHO" a="Q_" b="J_" to="JJ"/>
+			<UnitMix unit="CHO" a="Q_" b="C_" to="QZ"/>
+			<UnitMix unit="CHO" a="Q_" b="K_" to="QD"/>
+			<UnitMix unit="CHO" a="Q_" b="T_" to="QQ"/>
+			<UnitMix unit="CHO" a="Q_" b="H_" to="QM"/>
+			<UnitMix unit="CHO" a="V_" b="B_" to="BBQ"/>
+			<UnitMix unit="CHO" a="J_" b="G_" to="wJ"/>
+			<UnitMix unit="CHO" a="J_" b="B_" to="Jw"/>
+			<UnitMix unit="CHO" a="J_" b="BT" to="JJw"/>
+			<UnitMix unit="CHO" a="J_" b="S_" to="SJ"/>
+			<UnitMix unit="CHO" a="J_" b="Q_" to="JJ"/>
+			<UnitMix unit="CHO" a="J_" b="H_" to="C_"/>
+			<UnitMix unit="CHO" a="wJ" b="T_" to="wJJ"/>
+			<UnitMix unit="CHO" a="Jw" b="T_" to="JJw"/>
+			<UnitMix unit="CHO" a="C_" b="G_" to="SG"/>
+			<UnitMix unit="CHO" a="C_" b="N_" to="NB"/>
+			<UnitMix unit="CHO" a="C_" b="R_" to="RN"/>
+			<UnitMix unit="CHO" a="C_" b="M_" to="wC"/>
+			<UnitMix unit="CHO" a="C_" b="B_" to="BJ"/>
+			<UnitMix unit="CHO" a="C_" b="Q_" to="QZ"/>
+			<UnitMix unit="CHO" a="C_" b="K_" to="wS"/>
+			<UnitMix unit="CHO" a="C_" b="P_" to="Cw"/>
+			<UnitMix unit="CHO" a="K_" b="B_" to="BN"/>
+			<UnitMix unit="CHO" a="K_" b="S_" to="SK"/>
+			<UnitMix unit="CHO" a="K_" b="Q_" to="QD"/>
+			<UnitMix unit="CHO" a="K_" b="C_" to="wS"/>
+			<UnitMix unit="CHO" a="K_" b="P_" to="Sw"/>
+			<UnitMix unit="CHO" a="T_" b="N_" to="NN"/>
+			<UnitMix unit="CHO" a="T_" b="R_" to="RR"/>
+			<UnitMix unit="CHO" a="T_" b="B_" to="BT"/>
+			<UnitMix unit="CHO" a="T_" b="S_" to="ST"/>
+			<UnitMix unit="CHO" a="T_" b="wS" to="wSS"/>
+			<UnitMix unit="CHO" a="T_" b="Sw" to="SSw"/>
+			<UnitMix unit="CHO" a="T_" b="Q_" to="QQ"/>
+			<UnitMix unit="CHO" a="T_" b="wJ" to="wJJ"/>
+			<UnitMix unit="CHO" a="T_" b="Jw" to="JJw"/>
+			<UnitMix unit="CHO" a="T_" b="H_" to="HH"/>
+			<UnitMix unit="CHO" a="P_" b="N_" to="PQ"/>
+			<UnitMix unit="CHO" a="P_" b="S_" to="BS"/>
+			<UnitMix unit="CHO" a="P_" b="C_" to="Cw"/>
+			<UnitMix unit="CHO" a="P_" b="K_" to="Sw"/>
+			<UnitMix unit="CHO" a="H_" b="G_" to="K_"/>
+			<UnitMix unit="CHO" a="H_" b="N_" to="X_"/>
+			<UnitMix unit="CHO" a="H_" b="D_" to="T_"/>
+			<UnitMix unit="CHO" a="H_" b="R_" to="RH"/>
+			<UnitMix unit="CHO" a="H_" b="B_" to="P_"/>
+			<UnitMix unit="CHO" a="H_" b="S_" to="Z_"/>
+			<UnitMix unit="CHO" a="H_" b="Q_" to="QM"/>
+			<UnitMix unit="CHO" a="H_" b="J_" to="C_"/>
+			<UnitMix unit="CHO" a="H_" b="T_" to="HH"/>
+			<UnitMix unit="JUNG" a="A_" b="AE" to="AO"/>
+			<UnitMix unit="JUNG" a="A_" b="E_" to="U_"/>
+			<UnitMix unit="JUNG" a="A_" b="O_" to="WA"/>
+			<UnitMix unit="JUNG" a="A_" b="YU" to="UA"/>
+			<UnitMix unit="JUNG" a="A_" b="EU" to="F_"/>
+			<UnitMix unit="JUNG" a="A_" b="EUI" to="FI"/>
+			<UnitMix unit="JUNG" a="A_" b="I_" to="FF"/>
+			<UnitMix unit="JUNG" a="AE" b="A_" to="AO"/>
+			<UnitMix unit="JUNG" a="AE" b="YA" to="YAYO"/>
+			<UnitMix unit="JUNG" a="AE" b="EO" to="FEO"/>
+			<UnitMix unit="JUNG" a="AE" b="E_" to="OEO"/>
+			<UnitMix unit="JUNG" a="AE" b="O_" to="WAE"/>
+			<UnitMix unit="JUNG" a="AE" b="YO" to="YOYAE"/>
+			<UnitMix unit="JUNG" a="AE" b="YOI" to="YOYAE"/>
+			<UnitMix unit="JUNG" a="AE" b="U_" to="FU"/>
+			<UnitMix unit="JUNG" a="AE" b="YU" to="YUYE"/>
+			<UnitMix unit="JUNG" a="AE" b="EU" to="IEU"/>
+			<UnitMix unit="JUNG" a="AE" b="I_" to="YAE"/>
+			<UnitMix unit="JUNG" a="YA" b="AE" to="YAYO"/>
+			<UnitMix unit="JUNG" a="YA" b="O_" to="YAO"/>
+			<UnitMix unit="JUNG" a="YA" b="YO" to="YOYA"/>
+			<UnitMix unit="JUNG" a="YA" b="I_" to="YAE"/>
+			<UnitMix unit="JUNG" a="EO" b="AE" to="FEO"/>
+			<UnitMix unit="JUNG" a="EO" b="E_" to="EOEU"/>
+			<UnitMix unit="JUNG" a="EO" b="O_" to="EOO"/>
+			<UnitMix unit="JUNG" a="EO" b="YO" to="YUEO"/>
+			<UnitMix unit="JUNG" a="EO" b="U_" to="UEO"/>
+			<UnitMix unit="JUNG" a="EO" b="EU" to="EUEO"/>
+			<UnitMix unit="JUNG" a="E_" b="A_" to="U_"/>
+			<UnitMix unit="JUNG" a="E_" b="AE" to="OEO"/>
+			<UnitMix unit="JUNG" a="E_" b="EO" to="EOEU"/>
+			<UnitMix unit="JUNG" a="E_" b="O_" to="OYE"/>
+			<UnitMix unit="JUNG" a="E_" b="U_" to="WE"/>
+			<UnitMix unit="JUNG" a="E_" b="YU" to="YUE"/>
+			<UnitMix unit="JUNG" a="E_" b="I_" to="YE"/>
+			<UnitMix unit="JUNG" a="YEO" b="O_" to="YEOO"/>
+			<UnitMix unit="JUNG" a="YEO" b="YO" to="YOYEO"/>
+			<UnitMix unit="JUNG" a="YEO" b="U_" to="YEOU"/>
+			<UnitMix unit="JUNG" a="YEO" b="YU" to="YUYEO"/>
+			<UnitMix unit="JUNG" a="YEO" b="I_" to="YE"/>
+			<UnitMix unit="JUNG" a="YE" b="YU" to="YUYE"/>
+			<UnitMix unit="JUNG" a="O_" b="A_" to="WA"/>
+			<UnitMix unit="JUNG" a="O_" b="AE" to="WAE"/>
+			<UnitMix unit="JUNG" a="O_" b="YA" to="YAO"/>
+			<UnitMix unit="JUNG" a="O_" b="EO" to="EOO"/>
+			<UnitMix unit="JUNG" a="O_" b="E_" to="OYE"/>
+			<UnitMix unit="JUNG" a="O_" b="YEO" to="YEOO"/>
+			<UnitMix unit="JUNG" a="O_" b="YO" to="YOO"/>
+			<UnitMix unit="JUNG" a="O_" b="U_" to="YU"/>
+			<UnitMix unit="JUNG" a="O_" b="EU" to="OU"/>
+			<UnitMix unit="JUNG" a="O_" b="I_" to="OI"/>
+			<UnitMix unit="JUNG" a="YO" b="AE" to="YOYAE"/>
+			<UnitMix unit="JUNG" a="YO" b="YA" to="YOYA"/>
+			<UnitMix unit="JUNG" a="YO" b="EO" to="YUEO"/>
+			<UnitMix unit="JUNG" a="YO" b="YEO" to="YOYEO"/>
+			<UnitMix unit="JUNG" a="YO" b="O_" to="YOO"/>
+			<UnitMix unit="JUNG" a="YO" b="I_" to="YOI"/>
+			<UnitMix unit="JUNG" a="YOI" b="AE" to="YOYAE"/>
+			<UnitMix unit="JUNG" a="U_" b="AE" to="FU"/>
+			<UnitMix unit="JUNG" a="U_" b="EO" to="UEO"/>
+			<UnitMix unit="JUNG" a="U_" b="E_" to="WE"/>
+			<UnitMix unit="JUNG" a="U_" b="YEO" to="YEOU"/>
+			<UnitMix unit="JUNG" a="U_" b="O_" to="YU"/>
+			<UnitMix unit="JUNG" a="U_" b="EU" to="EUU"/>
+			<UnitMix unit="JUNG" a="U_" b="I_" to="WI"/>
+			<UnitMix unit="JUNG" a="YU" b="A_" to="UA"/>
+			<UnitMix unit="JUNG" a="YU" b="AE" to="YUYE"/>
+			<UnitMix unit="JUNG" a="YU" b="E_" to="YUE"/>
+			<UnitMix unit="JUNG" a="YU" b="YEO" to="YUYEO"/>
+			<UnitMix unit="JUNG" a="YU" b="YE" to="YUYE"/>
+			<UnitMix unit="JUNG" a="YU" b="I_" to="YUI"/>
+			<UnitMix unit="JUNG" a="EU" b="A_" to="F_"/>
+			<UnitMix unit="JUNG" a="EU" b="AE" to="IEU"/>
+			<UnitMix unit="JUNG" a="EU" b="EO" to="EUEO"/>
+			<UnitMix unit="JUNG" a="EU" b="O_" to="OU"/>
+			<UnitMix unit="JUNG" a="EU" b="U_" to="EUU"/>
+			<UnitMix unit="JUNG" a="EU" b="I_" to="EUI"/>
+			<UnitMix unit="JUNG" a="EU" b="FF" to="FI"/>
+			<UnitMix unit="JUNG" a="EUI" b="A_" to="FI"/>
+			<UnitMix unit="JUNG" a="I_" b="A_" to="FF"/>
+			<UnitMix unit="JUNG" a="I_" b="AE" to="YAE"/>
+			<UnitMix unit="JUNG" a="I_" b="YA" to="YAE"/>
+			<UnitMix unit="JUNG" a="I_" b="E_" to="YE"/>
+			<UnitMix unit="JUNG" a="I_" b="YEO" to="YE"/>
+			<UnitMix unit="JUNG" a="I_" b="O_" to="OI"/>
+			<UnitMix unit="JUNG" a="I_" b="YO" to="YOI"/>
+			<UnitMix unit="JUNG" a="I_" b="U_" to="WI"/>
+			<UnitMix unit="JUNG" a="I_" b="YU" to="YUI"/>
+			<UnitMix unit="JUNG" a="I_" b="EU" to="EUI"/>
+			<UnitMix unit="JUNG" a="I_" b="F_" to="FI"/>
+			<UnitMix unit="JUNG" a="F_" b="I_" to="FI"/>
+			<UnitMix unit="JUNG" a="FF" b="EU" to="FI"/>
+			<UnitMix unit="JONG" a="G_" b="N_" to="ND"/>
+			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
+			<UnitMix unit="JONG" a="G_" b="M_" to="C_"/>
+			<UnitMix unit="JONG" a="G_" b="B_" to="NJ"/>
+			<UnitMix unit="JONG" a="G_" b="S_" to="GS"/>
+			<UnitMix unit="JONG" a="G_" b="SS" to="SG"/>
+			<UnitMix unit="JONG" a="G_" b="Q_" to="RG"/>
+			<UnitMix unit="JONG" a="G_" b="P_" to="RGS"/>
+			<UnitMix unit="JONG" a="G_" b="H_" to="K_"/>
+			<UnitMix unit="JONG" a="GS" b="R_" to="RGS"/>
+			<UnitMix unit="JONG" a="N_" b="G_" to="ND"/>
+			<UnitMix unit="JONG" a="N_" b="R_" to="RP"/>
+			<UnitMix unit="JONG" a="N_" b="RH" to="RD"/>
+			<UnitMix unit="JONG" a="N_" b="M_" to="RM"/>
+			<UnitMix unit="JONG" a="N_" b="B_" to="NJ"/>
+			<UnitMix unit="JONG" a="N_" b="S_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="SS" to="NS"/>
+			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
+			<UnitMix unit="JONG" a="N_" b="Q_" to="D_"/>
+			<UnitMix unit="JONG" a="N_" b="V_" to="MQ"/>
+			<UnitMix unit="JONG" a="N_" b="VS" to="SD"/>
+			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
+			<UnitMix unit="JONG" a="NS" b="M_" to="NZ"/>
+			<UnitMix unit="JONG" a="NH" b="Q_" to="SD"/>
+			<UnitMix unit="JONG" a="D_" b="R_" to="RD"/>
+			<UnitMix unit="JONG" a="D_" b="M_" to="MQ"/>
+			<UnitMix unit="JONG" a="D_" b="S_" to="SD"/>
+			<UnitMix unit="JONG" a="R_" b="G_" to="RG"/>
+			<UnitMix unit="JONG" a="R_" b="GS" to="RGS"/>
+			<UnitMix unit="JONG" a="R_" b="N_" to="RP"/>
+			<UnitMix unit="JONG" a="R_" b="D_" to="RD"/>
+			<UnitMix unit="JONG" a="R_" b="R_" to="RT"/>
+			<UnitMix unit="JONG" a="R_" b="M_" to="RM"/>
+			<UnitMix unit="JONG" a="R_" b="B_" to="RB"/>
+			<UnitMix unit="JONG" a="R_" b="BS" to="RBS"/>
+			<UnitMix unit="JONG" a="R_" b="S_" to="P_"/>
+			<UnitMix unit="JONG" a="R_" b="SS" to="RS"/>
+			<UnitMix unit="JONG" a="R_" b="Z_" to="RZ"/>
+			<UnitMix unit="JONG" a="R_" b="Q_" to="RH"/>
+			<UnitMix unit="JONG" a="R_" b="V_" to="RQ"/>
+			<UnitMix unit="JONG" a="R_" b="VS" to="PQ"/>
+			<UnitMix unit="JONG" a="R_" b="J_" to="RR"/>
+			<UnitMix unit="JONG" a="R_" b="T_" to="BQ"/>
+			<UnitMix unit="JONG" a="R_" b="P_" to="RP"/>
+			<UnitMix unit="JONG" a="R_" b="H_" to="RT"/>
+			<UnitMix unit="JONG" a="RG" b="S_" to="RGS"/>
+			<UnitMix unit="JONG" a="RR" b="S_" to="PQ"/>
+			<UnitMix unit="JONG" a="RM" b="SS" to="RZ"/>
+			<UnitMix unit="JONG" a="RM" b="Q_" to="RQ"/>
+			<UnitMix unit="JONG" a="RB" b="S_" to="RBS"/>
+			<UnitMix unit="JONG" a="RB" b="SS" to="RR"/>
+			<UnitMix unit="JONG" a="RB" b="Q_" to="BQ"/>
+			<UnitMix unit="JONG" a="RS" b="M_" to="RZ"/>
+			<UnitMix unit="JONG" a="RS" b="B_" to="RR"/>
+			<UnitMix unit="JONG" a="RP" b="Q_" to="RD"/>
+			<UnitMix unit="JONG" a="RH" b="N_" to="RD"/>
+			<UnitMix unit="JONG" a="RH" b="M_" to="RQ"/>
+			<UnitMix unit="JONG" a="RH" b="S_" to="PQ"/>
+			<UnitMix unit="JONG" a="M_" b="G_" to="C_"/>
+			<UnitMix unit="JONG" a="M_" b="N_" to="RM"/>
+			<UnitMix unit="JONG" a="M_" b="NS" to="NZ"/>
+			<UnitMix unit="JONG" a="M_" b="D_" to="MQ"/>
+			<UnitMix unit="JONG" a="M_" b="R_" to="RM"/>
+			<UnitMix unit="JONG" a="M_" b="RS" to="RZ"/>
+			<UnitMix unit="JONG" a="M_" b="RT" to="RQ"/>
+			<UnitMix unit="JONG" a="M_" b="RH" to="RQ"/>
+			<UnitMix unit="JONG" a="M_" b="B_" to="MB"/>
+			<UnitMix unit="JONG" a="M_" b="S_" to="MS"/>
+			<UnitMix unit="JONG" a="M_" b="SS" to="Z_"/>
+			<UnitMix unit="JONG" a="M_" b="Q_" to="V_"/>
+			<UnitMix unit="JONG" a="M_" b="VS" to="VZ"/>
+			<UnitMix unit="JONG" a="M_" b="J_" to="MZ"/>
+			<UnitMix unit="JONG" a="M_" b="H_" to="X_"/>
+			<UnitMix unit="JONG" a="MB" b="SS" to="MZ"/>
+			<UnitMix unit="JONG" a="MS" b="Q_" to="VZ"/>
+			<UnitMix unit="JONG" a="B_" b="G_" to="NJ"/>
+			<UnitMix unit="JONG" a="B_" b="N_" to="NJ"/>
+			<UnitMix unit="JONG" a="B_" b="R_" to="RB"/>
+			<UnitMix unit="JONG" a="B_" b="RS" to="RR"/>
+			<UnitMix unit="JONG" a="B_" b="M_" to="MB"/>
+			<UnitMix unit="JONG" a="B_" b="S_" to="BS"/>
+			<UnitMix unit="JONG" a="B_" b="SS" to="J_"/>
+			<UnitMix unit="JONG" a="B_" b="Z_" to="MZ"/>
+			<UnitMix unit="JONG" a="B_" b="Q_" to="BQ"/>
+			<UnitMix unit="JONG" a="B_" b="T_" to="SB"/>
+			<UnitMix unit="JONG" a="B_" b="P_" to="RBS"/>
+			<UnitMix unit="JONG" a="B_" b="H_" to="P_"/>
+			<UnitMix unit="JONG" a="BS" b="R_" to="RBS"/>
+			<UnitMix unit="JONG" a="BS" b="SS" to="SB"/>
+			<UnitMix unit="JONG" a="S_" b="G_" to="GS"/>
+			<UnitMix unit="JONG" a="S_" b="N_" to="NH"/>
+			<UnitMix unit="JONG" a="S_" b="D_" to="SD"/>
+			<UnitMix unit="JONG" a="S_" b="R_" to="P_"/>
+			<UnitMix unit="JONG" a="S_" b="RG" to="RGS"/>
+			<UnitMix unit="JONG" a="S_" b="RR" to="PQ"/>
+			<UnitMix unit="JONG" a="S_" b="RB" to="RBS"/>
+			<UnitMix unit="JONG" a="S_" b="RH" to="PQ"/>
+			<UnitMix unit="JONG" a="S_" b="M_" to="MS"/>
+			<UnitMix unit="JONG" a="S_" b="B_" to="BS"/>
+			<UnitMix unit="JONG" a="S_" b="SS" to="T_"/>
+			<UnitMix unit="JONG" a="S_" b="Q_" to="VS"/>
+			<UnitMix unit="JONG" a="S_" b="V_" to="VZ"/>
+			<UnitMix unit="JONG" a="S_" b="J_" to="SB"/>
+			<UnitMix unit="JONG" a="S_" b="H_" to="RX"/>
+			<UnitMix unit="JONG" a="SS" b="G_" to="SG"/>
+			<UnitMix unit="JONG" a="SS" b="N_" to="NS"/>
+			<UnitMix unit="JONG" a="SS" b="R_" to="RS"/>
+			<UnitMix unit="JONG" a="SS" b="RM" to="RZ"/>
+			<UnitMix unit="JONG" a="SS" b="RB" to="RR"/>
+			<UnitMix unit="JONG" a="SS" b="M_" to="Z_"/>
+			<UnitMix unit="JONG" a="SS" b="MB" to="MZ"/>
+			<UnitMix unit="JONG" a="SS" b="B_" to="J_"/>
+			<UnitMix unit="JONG" a="SS" b="BS" to="SB"/>
+			<UnitMix unit="JONG" a="SS" b="S_" to="T_"/>
+			<UnitMix unit="JONG" a="SS" b="Q_" to="RR"/>
+			<UnitMix unit="JONG" a="SS" b="VS" to="PQ"/>
+			<UnitMix unit="JONG" a="SS" b="H_" to="GG"/>
+			<UnitMix unit="JONG" a="Z_" b="N_" to="NZ"/>
+			<UnitMix unit="JONG" a="Z_" b="R_" to="RZ"/>
+			<UnitMix unit="JONG" a="Z_" b="B_" to="MZ"/>
+			<UnitMix unit="JONG" a="Q_" b="G_" to="RG"/>
+			<UnitMix unit="JONG" a="Q_" b="N_" to="D_"/>
+			<UnitMix unit="JONG" a="Q_" b="NH" to="SD"/>
+			<UnitMix unit="JONG" a="Q_" b="R_" to="RH"/>
+			<UnitMix unit="JONG" a="Q_" b="RM" to="RQ"/>
+			<UnitMix unit="JONG" a="Q_" b="RB" to="BQ"/>
+			<UnitMix unit="JONG" a="Q_" b="RP" to="RD"/>
+			<UnitMix unit="JONG" a="Q_" b="M_" to="V_"/>
+			<UnitMix unit="JONG" a="Q_" b="MS" to="VZ"/>
+			<UnitMix unit="JONG" a="Q_" b="B_" to="BQ"/>
+			<UnitMix unit="JONG" a="Q_" b="S_" to="VS"/>
+			<UnitMix unit="JONG" a="Q_" b="SS" to="RR"/>
+			<UnitMix unit="JONG" a="Q_" b="T_" to="PQ"/>
+			<UnitMix unit="JONG" a="Q_" b="P_" to="PQ"/>
+			<UnitMix unit="JONG" a="Q_" b="H_" to="T_"/>
+			<UnitMix unit="JONG" a="V_" b="N_" to="MQ"/>
+			<UnitMix unit="JONG" a="V_" b="R_" to="RQ"/>
+			<UnitMix unit="JONG" a="V_" b="S_" to="VZ"/>
+			<UnitMix unit="JONG" a="VS" b="N_" to="SD"/>
+			<UnitMix unit="JONG" a="VS" b="R_" to="PQ"/>
+			<UnitMix unit="JONG" a="VS" b="M_" to="VZ"/>
+			<UnitMix unit="JONG" a="VS" b="SS" to="PQ"/>
+			<UnitMix unit="JONG" a="J_" b="R_" to="RR"/>
+			<UnitMix unit="JONG" a="J_" b="M_" to="MZ"/>
+			<UnitMix unit="JONG" a="J_" b="S_" to="SB"/>
+			<UnitMix unit="JONG" a="T_" b="R_" to="BQ"/>
+			<UnitMix unit="JONG" a="T_" b="B_" to="SB"/>
+			<UnitMix unit="JONG" a="T_" b="Q_" to="PQ"/>
+			<UnitMix unit="JONG" a="P_" b="G_" to="RGS"/>
+			<UnitMix unit="JONG" a="P_" b="B_" to="RBS"/>
+			<UnitMix unit="JONG" a="P_" b="Q_" to="PQ"/>
+			<UnitMix unit="JONG" a="H_" b="G_" to="K_"/>
+			<UnitMix unit="JONG" a="H_" b="N_" to="NH"/>
+			<UnitMix unit="JONG" a="H_" b="R_" to="RT"/>
+			<UnitMix unit="JONG" a="H_" b="M_" to="X_"/>
+			<UnitMix unit="JONG" a="H_" b="B_" to="P_"/>
+			<UnitMix unit="JONG" a="H_" b="S_" to="RX"/>
+			<UnitMix unit="JONG" a="H_" b="SS" to="GG"/>
+			<UnitMix unit="JONG" a="H_" b="Q_" to="T_"/>
+		</UnitMixTable>
+		<VirtualUnitTable/>
+		<UnitAbbrTable/>
+		<AutomataTable default="0">
+			<Automata state="0" value="A ? 1 : B|C ? 2 : 0" default="0" remark="초기 상태"/>
+			<Automata state="1" value="A ? 1 : B|C ? 3 : 0" default="0" remark="초성"/>
+			<Automata state="2" value="A ? 3 : B|C ? 2 : 0" default="0" remark="중성|종성"/>
+			<Automata state="3" value="A ? 3 : B|C ? 3 : 0" default="0" remark="초성 + (중성|종성)"/>
+		</AutomataTable>
+		<Extra>
+			<Bksp key="1" value1="ByUnitStep" value2="BySyllable" condition1="0" condition2="0"/>
+			<Bksp key="2" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
+			<Bksp key="3" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
+			<Bksp key="4" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
+		</Extra>
+	</GeneratorSetting>
+</InputEntry>
