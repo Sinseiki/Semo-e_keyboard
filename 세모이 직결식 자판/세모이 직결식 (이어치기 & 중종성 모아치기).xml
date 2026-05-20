@@ -1,97 +1,97 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="0" remark="&#x01;세벌식 모아치기 2015 - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판이다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 한다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에 있다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰인다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능하다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장된다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰인다.&#x0D;&#x0A;    ●일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 된다. &#x0D;&#x0A;    ●특이한 조합은 다음 세 개가 있다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ 로 입력할 수 있다.&#x0D;&#x0A;&#x0D;&#x0A;- 옛한글 입력&#x0D;&#x0A;    ● 호환용 한글 자모를 중심으로 약 85개의 옛한글을 모두모아치기로 입력할 수 있다.&#x0D;&#x0A;    ● 숫자열은 Capslock 이 꺼져 있으면 숫자로, Capslock 이 켜져 있으면 한글로 나온다.&#x0D;&#x0A;    ● Capslock 이 켜져 있으면 Shift + Y, U 는 방점으로 바뀐다.&#x0D;&#x0A;    ● 일반적인 합용병서는 구성하는 글자를 함께 쳐서 입력한다.&#x0D;&#x0A;    단, ㅇ합용병서는 ㆀ과 함께 눌러서 입력한다.&#x0D;&#x0A;    ● 첫소리 ㄴ, 가운뎃소리 ㆎ, 끝소리 ㅭ 는 옛한글 확장 키로도 사용된다.&#x0D;&#x0A;    ● 첫소리 ㅿ는 치두음 합성에, ㅄ는 정치음 합성에 사용된다.&#x0D;&#x0A;    ● 옛한글 된소리 (ㅥ, ᄽ, ᄿ, ᅏ, ᅏ, ㆅ) ← ㆀ + ㄴ, ᄼ, ᄾ, ᅎ, ᅐ, ㅎ&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: http://ssg.wo.tc/220239514856&#x0D;&#x0A;- 자판 설명: http://ssg.wo.tc/30187905646" object="CBasicInputScheme">
-		<KeyTable name="세벌식 모아치기 2015" flag="0" from="33" to="126">
+	<InputSchemeSetting flag="VAR_N_EXTEND" remark="&#x01;세모이(세벌식 모아치기 2015) 직결식 - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판을 직결식 타자기에 적용 가능하도록 변형시킨 자판입니다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 합니다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에 있습니다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다. &#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ 로 입력할 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 옛한글 입력&#x0D;&#x0A;    ● 호환용 한글 자모를 중심으로 약 85개의 옛한글을 모아치기로 입력할 수 있습니다.&#x0D;&#x0A;    ● ScrollLock 이 켜져 있으면 Shift + Y, U 는 방점으로 바뀝니다.&#x0D;&#x0A;    ● 일반적인 합용병서는 구성하는 글자를 함께 쳐서 입력합니다.&#x0D;&#x0A;    단, ㅇ합용병서는 ㆀ과 함께 눌러서 입력합니다.&#x0D;&#x0A;    ● 첫소리 ㄴ, 가운뎃소리 ㆎ, 끝소리 ㅭ 는 옛한글 확장 키로도 사용됩니다.&#x0D;&#x0A;    ● 첫소리 ㅿ는 치두음 합성에, ㅄ는 정치음 합성에 사용됩니다.&#x0D;&#x0A;    ● 옛한글 된소리 (ㅥ, ᄽ, ᄿ, ᅏ, ᅏ, ㆅ) ← ㆀ + ㄴ, ᄼ, ᄾ, ᅎ, ᅐ, ㅎ&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: http://ssg.wo.tc/220239514856&#x0D;&#x0A;- 자판 설명: http://ssg.wo.tc/30187905646" object="CBasicInputScheme">
+		<KeyTable name="세모이 직결식" flag="0" from="33" to="126">
 			<Key at="0x21" value="0x21"/>
 			<Key at="0x22" value="0x22"/>
 			<Key at="0x23" value="0x23"/>
 			<Key at="0x24" value="0x24"/>
 			<Key at="0x25" value="0x25"/>
 			<Key at="0x26" value="0x26"/>
-			<Key at="0x27" value="H3|O_"/>
+			<Key at="0x27" value="P ? 0x22 : H3|U_"/>
 			<Key at="0x28" value="0x28"/>
 			<Key at="0x29" value="0x29"/>
 			<Key at="0x2A" value="0x2A"/>
 			<Key at="0x2B" value="0x2B"/>
-			<Key at="0x2C" value="0x2C"/>
-			<Key at="0x2D" value="0x2D"/>
-			<Key at="0x2E" value="0x2E"/>
-			<Key at="0x2F" value="0x2F"/>
-			<Key at="0x30" value="!P ? 0x30 : H3|BS"/>
-			<Key at="0x31" value="!P ? 0x31 : H3|_Z"/>
-			<Key at="0x32" value="!P ? 0x32 : H3|_V"/>
-			<Key at="0x33" value="!P ? 0x33 : H3|_RX"/>
-			<Key at="0x34" value="!P ? 0x34 : H3|_RS"/>
-			<Key at="0x35" value="!P ? 0x35 : H3|YOI"/>
-			<Key at="0x36" value="!P ? 0x36 : H3|YUI"/>
-			<Key at="0x37" value="!P ? 0x37 : H3|FI"/>
-			<Key at="0x38" value="!P ? 0x38 : H3|Z_"/>
-			<Key at="0x39" value="!P ? 0x39 : H3|QQ"/>
+			<Key at="0x2C" value="P ? 0x3C : 0x2C"/>
+			<Key at="0x2D" value="P ? 0x5F : 0x2D"/>
+			<Key at="0x2E" value="P ? 0x3E : 0x2E"/>
+			<Key at="0x2F" value="P ? 0x3F : 0x2F"/>
+			<Key at="0x30" value="P ? 0x29 : N&amp;2 ? H3|BS : 0x30"/>
+			<Key at="0x31" value="P ? 0x21 : N&amp;2 ? H3|_Z : 0x31"/>
+			<Key at="0x32" value="P ? 0x40 : N&amp;2 ? H3|_V : 0x32"/>
+			<Key at="0x33" value="P ? 0x23 : N&amp;2 ? H3|_RX : 0x33"/>
+			<Key at="0x34" value="P ? 0x24 : N&amp;2 ? H3|_RS : 0x34"/>
+			<Key at="0x35" value="P ? 0x25 : N&amp;2 ? H3|YOI : 0x35"/>
+			<Key at="0x36" value="P ? 0x5E : N&amp;2 ? H3|YUI : 0x36"/>
+			<Key at="0x37" value="P ? 0x26 : N&amp;2 ? H3|FI : 0x37"/>
+			<Key at="0x38" value="P ? 0x2A : N&amp;2 ? H3|Z_ : 0x38"/>
+			<Key at="0x39" value="P ? 0x28 : N&amp;2 ? H3|QQ : 0x39"/>
 			<Key at="0x3A" value="0x3A"/>
-			<Key at="0x3B" value="H3|_SS"/>
+			<Key at="0x3B" value="P ? 0x3A : H3|_SS"/>
 			<Key at="0x3C" value="0x3C"/>
-			<Key at="0x3D" value="0x3D"/>
+			<Key at="0x3D" value="P ? 0x2B : N&amp;2 ? 0x2260 : 0x3D"/>
 			<Key at="0x3E" value="0x3E"/>
 			<Key at="0x3F" value="0x3F"/>
 			<Key at="0x40" value="0x40"/>
-			<Key at="0x41" value="0x2606"/>
-			<Key at="0x42" value="0x27"/>
-			<Key at="0x43" value="0x300C"/>
-			<Key at="0x44" value="0x25B3"/>
-			<Key at="0x45" value="0x2192"/>
-			<Key at="0x46" value="0x25CB"/>
-			<Key at="0x47" value="0xD7"/>
+			<Key at="0x41" value="H3|_T"/>
+			<Key at="0x42" value="H3|YU"/>
+			<Key at="0x43" value="H3|YE"/>
+			<Key at="0x44" value="0x203B"/>
+			<Key at="0x45" value="H3|_J"/>
+			<Key at="0x46" value="H3|F_"/>
+			<Key at="0x47" value="H3|EU"/>
 			<Key at="0x48" value="0x3008"/>
-			<Key at="0x49" value="0x2026"/>
+			<Key at="0x49" value="H3|T_"/>
 			<Key at="0x4A" value="0x3009"/>
-			<Key at="0x4B" value="0xB7"/>
-			<Key at="0x4C" value="0x3B"/>
-			<Key at="0x4D" value="0x300F"/>
-			<Key at="0x4E" value="0x300E"/>
-			<Key at="0x4F" value="0x2191"/>
-			<Key at="0x50" value="0x2193"/>
-			<Key at="0x51" value="0x2661"/>
-			<Key at="0x52" value="0x2194"/>
-			<Key at="0x53" value="0x25BD"/>
-			<Key at="0x54" value="0x203B"/>
-			<Key at="0x55" value="P ? 0x302E : 0x300B"/>
-			<Key at="0x56" value="0x300D"/>
-			<Key at="0x57" value="0x2190"/>
-			<Key at="0x58" value="0x25CE"/>
-			<Key at="0x59" value="P ? 0x302F : 0x300A"/>
-			<Key at="0x5A" value="0x25A1"/>
-			<Key at="0x5B" value="0x5B"/>
-			<Key at="0x5C" value="0x5C"/>
-			<Key at="0x5D" value="0x5D"/>
+			<Key at="0x4B" value="H3|K_"/>
+			<Key at="0x4C" value="H3|C_"/>
+			<Key at="0x4D" value="0xB7"/>
+			<Key at="0x4E" value="0x27"/>
+			<Key at="0x4F" value="H3|P_"/>
+			<Key at="0x50" value="0x3B"/>
+			<Key at="0x51" value="H3|_C"/>
+			<Key at="0x52" value="H3|YA"/>
+			<Key at="0x53" value="H3|_H"/>
+			<Key at="0x54" value="H3|YAE"/>
+			<Key at="0x55" value="N&amp;2 ? 0x302E : 0x300B"/>
+			<Key at="0x56" value="H3|YO"/>
+			<Key at="0x57" value="H3|_P"/>
+			<Key at="0x58" value="H3|_K"/>
+			<Key at="0x59" value="N&amp;2 ? 0x302F : 0x300A"/>
+			<Key at="0x5A" value="H3|_D"/>
+			<Key at="0x5B" value="P ? 0x7B : 0x5B"/>
+			<Key at="0x5C" value="P ? 0x7C : 0x5C"/>
+			<Key at="0x5D" value="P ? 0x7D : 0x5D"/>
 			<Key at="0x5E" value="0x5E"/>
 			<Key at="0x5F" value="0x5F"/>
 			<Key at="0x60" value="P ? 0x7E : 0x60"/>
-			<Key at="0x61" value="H3|_Q"/>
-			<Key at="0x62" value="H3|U_"/>
-			<Key at="0x63" value="H3|E_"/>
-			<Key at="0x64" value="H3|I_"/>
-			<Key at="0x65" value="H3|_R"/>
-			<Key at="0x66" value="H3|A_"/>
+			<Key at="0x61" value="P ? H3|_T : H3|_Q"/>
+			<Key at="0x62" value="P ? H3|YU : H3|U_"/>
+			<Key at="0x63" value="P ? H3|YE : H3|E_"/>
+			<Key at="0x64" value="P ? 0x203B : H3|I_"/>
+			<Key at="0x65" value="P ? H3|_J : H3|_R"/>
+			<Key at="0x66" value="P ? H3|F_ : H3|A_"/>
 			<Key at="0x67" value="H3|EU"/>
-			<Key at="0x68" value="H3|S_"/>
-			<Key at="0x69" value="H3|D_"/>
-			<Key at="0x6A" value="H3|Q_"/>
-			<Key at="0x6B" value="H3|G_"/>
-			<Key at="0x6C" value="H3|J_"/>
-			<Key at="0x6D" value="H3|R_"/>
-			<Key at="0x6E" value="H3|H_"/>
-			<Key at="0x6F" value="H3|B_"/>
-			<Key at="0x70" value="H3|U_"/>
-			<Key at="0x71" value="H3|_S"/>
-			<Key at="0x72" value="H3|EO"/>
-			<Key at="0x73" value="H3|_N"/>
-			<Key at="0x74" value="H3|YEO"/>
-			<Key at="0x75" value="H3|N_"/>
-			<Key at="0x76" value="H3|O_"/>
-			<Key at="0x77" value="H3|_B"/>
-			<Key at="0x78" value="H3|_G"/>
-			<Key at="0x79" value="H3|M_"/>
-			<Key at="0x7A" value="H3|_M"/>
+			<Key at="0x68" value="P ? 0x3008 : H3|S_"/>
+			<Key at="0x69" value="P ? H3|T_ : H3|D_"/>
+			<Key at="0x6A" value="P ? 0x3009 : H3|Q_"/>
+			<Key at="0x6B" value="P ? H3|K_ : H3|G_"/>
+			<Key at="0x6C" value="P ? H3|C_ : H3|J_"/>
+			<Key at="0x6D" value="P ? 0xB7 : H3|R_"/>
+			<Key at="0x6E" value="P ? 0x27 : H3|H_"/>
+			<Key at="0x6F" value="P ? H3|P_ : H3|B_"/>
+			<Key at="0x70" value="P ? 0x3B : H3|O_"/>
+			<Key at="0x71" value="P ? H3|_C : H3|_S"/>
+			<Key at="0x72" value="P ? H3|YA : H3|EO"/>
+			<Key at="0x73" value="P ? H3|_H : H3|_N"/>
+			<Key at="0x74" value="P ? H3|YAE : H3|YEO"/>
+			<Key at="0x75" value="P ? N&amp;2 ? 0x302E : 0x300B : H3|N_"/>
+			<Key at="0x76" value="P ? H3|YO : H3|O_"/>
+			<Key at="0x77" value="P ? H3|_P : H3|_B"/>
+			<Key at="0x78" value="P ? H3|_K : H3|_G"/>
+			<Key at="0x79" value="P ? N&amp;2 ? 0x302F : 0x300A : H3|M_"/>
+			<Key at="0x7A" value="P ? H3|_D : H3|_M"/>
 			<Key at="0x7B" value="0x7B"/>
 			<Key at="0x7C" value="0x7C"/>
 			<Key at="0x7D" value="0x7D"/>
@@ -100,6 +100,7 @@
 	</InputSchemeSetting>
 	<GeneratorSetting flag="0" object="CNgsImeEx" flagex="0">
 		<UnitMixTable>
+			<UnitMix unit="CHO" a="G_" b="G_" to="GG"/>
 			<UnitMix unit="CHO" a="G_" b="N_" to="BT"/>
 			<UnitMix unit="CHO" a="G_" b="B_" to="BG"/>
 			<UnitMix unit="CHO" a="G_" b="BS" to="BSG"/>
@@ -121,6 +122,7 @@
 			<UnitMix unit="CHO" a="N_" b="J_" to="PQ"/>
 			<UnitMix unit="CHO" a="N_" b="H_" to="X_"/>
 			<UnitMix unit="CHO" a="D_" b="N_" to="ND"/>
+			<UnitMix unit="CHO" a="D_" b="D_" to="DD"/>
 			<UnitMix unit="CHO" a="D_" b="R_" to="DR"/>
 			<UnitMix unit="CHO" a="D_" b="B_" to="BD"/>
 			<UnitMix unit="CHO" a="D_" b="BS" to="BSD"/>
@@ -138,6 +140,7 @@
 			<UnitMix unit="CHO" a="B_" b="N_" to="BQ"/>
 			<UnitMix unit="CHO" a="B_" b="D_" to="BD"/>
 			<UnitMix unit="CHO" a="B_" b="M_" to="MB"/>
+			<UnitMix unit="CHO" a="B_" b="B_" to="BB"/>
 			<UnitMix unit="CHO" a="B_" b="S_" to="SB"/>
 			<UnitMix unit="CHO" a="B_" b="Q_" to="BB"/>
 			<UnitMix unit="CHO" a="B_" b="QQ" to="QB"/>
@@ -159,6 +162,7 @@
 			<UnitMix unit="CHO" a="S_" b="D_" to="SD"/>
 			<UnitMix unit="CHO" a="S_" b="B_" to="SB"/>
 			<UnitMix unit="CHO" a="S_" b="BS" to="Sw"/>
+			<UnitMix unit="CHO" a="S_" b="S_" to="SS"/>
 			<UnitMix unit="CHO" a="S_" b="Z_" to="wS"/>
 			<UnitMix unit="CHO" a="S_" b="Q_" to="SS"/>
 			<UnitMix unit="CHO" a="S_" b="QQ" to="QS"/>
@@ -206,6 +210,7 @@
 			<UnitMix unit="CHO" a="J_" b="Z_" to="wJ"/>
 			<UnitMix unit="CHO" a="J_" b="Q_" to="JJ"/>
 			<UnitMix unit="CHO" a="J_" b="QQ" to="JJ"/>
+			<UnitMix unit="CHO" a="J_" b="J_" to="JJ"/>
 			<UnitMix unit="CHO" a="J_" b="wC" to="wJJ"/>
 			<UnitMix unit="CHO" a="J_" b="Cw" to="JJw"/>
 			<UnitMix unit="CHO" a="J_" b="H_" to="C_"/>
@@ -297,6 +302,7 @@
 			<UnitMix unit="JUNG" a="FI" b="O_" to="YAO"/>
 			<UnitMix unit="JUNG" a="FI" b="EU" to="EUEO"/>
 			<UnitMix unit="JUNG" a="FI" b="I_" to="IEU"/>
+			<UnitMix unit="JONG" a="G_" b="G_" to="GG"/>
 			<UnitMix unit="JONG" a="G_" b="N_" to="GN"/>
 			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
 			<UnitMix unit="JONG" a="G_" b="RS" to="RGS"/>
@@ -316,6 +322,7 @@
 			<UnitMix unit="JONG" a="N_" b="SS" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="J_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
 			<UnitMix unit="JONG" a="D_" b="RH" to="RT"/>
 			<UnitMix unit="JONG" a="D_" b="Q_" to="RT"/>
@@ -328,6 +335,9 @@
 			<UnitMix unit="JONG" a="R_" b="S_" to="RS"/>
 			<UnitMix unit="JONG" a="R_" b="SS" to="J_"/>
 			<UnitMix unit="JONG" a="R_" b="Z_" to="RZ"/>
+			<UnitMix unit="JONG" a="R_" b="T_" to="RT"/>
+			<UnitMix unit="JONG" a="R_" b="P_" to="RP"/>
+			<UnitMix unit="JONG" a="R_" b="H_" to="RH"/>
 			<UnitMix unit="JONG" a="RS" b="G_" to="RGS"/>
 			<UnitMix unit="JONG" a="RS" b="RX" to="SB"/>
 			<UnitMix unit="JONG" a="RS" b="B_" to="RBS"/>
@@ -403,12 +413,11 @@
 		<UnitAbbrTable/>
 		<AutomataTable default="0">
 			<Automata state="0" value="A ? 1 : B|C ? 2 : 0" default="0" remark="초기 상태"/>
-			<Automata state="1" value="A ? 1 : B|C ? 3 : 0" default="0" remark="초성"/>
-			<Automata state="2" value="A ? 3 : B|C ? 2 : 0" default="0" remark="중성|종성"/>
-			<Automata state="3" value="A ? 3 : B|C ? 3 : 0" default="0" remark="초성 + (중성|종성)"/>
+			<Automata state="1" value="A ? 1 : B|C ? 2 : 0" default="0" remark="초성"/>
+			<Automata state="2" value="B|C ? 2 : 0" default="0" remark="중성 + 종성"/>
 		</AutomataTable>
 		<Extra>
-			<Bksp key="1" value1="ByUnitStep" value2="BySyllable" condition1="0" condition2="0"/>
+			<Bksp key="1" value1="ByUnitStep" value2="BySyllable|BkspAttach" condition1="0" condition2="0"/>
 			<Bksp key="2" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
 			<Bksp key="3" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
 			<Bksp key="4" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
