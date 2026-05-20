@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND" remark="&#x01;세모이(세벌식 모아치기 e-2016) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 합니다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에 있습니다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다. &#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄼ+ㅆ, ㄳ=ㅄ+ㅆ, ㄻ=ㄽ+ㅆ 로 입력할 수 있습니다.(fetrantium 님의 제안)&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;- 옛한글 입력&#x0D;&#x0A;    ● 호환용 한글 자모를 중심으로 약 85개의 옛한글을 모아치기로 입력할 수 있습니다.&#x0D;&#x0A;    ● ScrollLock 이 켜져 있으면 Shift + Y, U 는 방점으로 바뀝니다.&#x0D;&#x0A;    ● 일반적인 합용병서는 구성하는 글자를 함께 쳐서 입력합니다.&#x0D;&#x0A;    단, ㅇ합용병서는 ㆀ과 함께 눌러서 입력합니다.&#x0D;&#x0A;    ● 첫소리 ㄴ, 가운뎃소리 ㆎ, 끝소리 ㅭ 는 옛한글 확장 키로도 사용됩니다.&#x0D;&#x0A;    ● 첫소리 ㅿ는 치두음 합성에, ㅄ는 정치음 합성에 사용됩니다.&#x0D;&#x0A;    ● 옛한글 된소리 (ㅥ, ᄽ, ᄿ, ᅏ, ᅏ, ㆅ) ← ㆀ + ㄴ, ᄼ, ᄾ, ᅎ, ᅐ, ㅎ&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: http://ssg.wo.tc/220239514856&#x0D;&#x0A;- 자판 설명: http://ssg.wo.tc/30187905646" object="CBasicInputScheme">
-		<KeyTable name="세벌식 모아치기 e-2016 (세모이) 옛한글 모아치기" flag="0" from="33" to="126">
+	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND" remark="&#x01;세모이(세벌식 모아치기 e-2016) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 합니다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에 있습니다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다. &#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄼ+ㅆ, ㄳ=ㄺ+ㅆ, ㄻ=ㄽ+ㅆ 로 입력할 수 있습니다.(fetrantium 님의 제안)&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;- 옛한글 입력&#x0D;&#x0A;    ● 호환용 한글 자모를 중심으로 약 85개의 옛한글을 모아치기로 입력할 수 있습니다.&#x0D;&#x0A;    ● ScrollLock 이 켜져 있으면 Shift + Y, U 는 방점으로 바뀝니다.&#x0D;&#x0A;    ● 일반적인 합용병서는 구성하는 글자를 함께 쳐서 입력합니다.&#x0D;&#x0A;    단, ㅇ합용병서는 ㆀ과 함께 눌러서 입력합니다.&#x0D;&#x0A;    ● 첫소리 ㄴ, 가운뎃소리 ㆎ, 끝소리 ㅭ 는 옛한글 확장 키로도 사용됩니다.&#x0D;&#x0A;    ● 첫소리 ㅿ는 치두음 합성에, ㅄ는 정치음 합성에 사용됩니다.&#x0D;&#x0A;    ● 옛한글 된소리 (ㅥ, ᄽ, ᄿ, ᅏ, ᅏ, ㆅ) ← ㆀ + ㄴ, ᄼ, ᄾ, ᅎ, ᅐ, ㅎ&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: http://ssg.wo.tc/220239514856&#x0D;&#x0A;- 자판 설명: http://ssg.wo.tc/30187905646" object="CBasicInputScheme">
+		<KeyTable name="세벌식 모아치기 e-2016 옛한글 (세모이)" flag="0" from="33" to="126">
 			<Key at="0x21" value="T==101 ? 0x2160 : T==102 ? 0x2081 : T==103 ? 0xB9 : 0x21"/>
 			<Key at="0x22" value="T==101 ? 0 : T==102 ? 0 : T==103 ? 0 : N&amp;2 ? 0x3003 : 0x22"/>
 			<Key at="0x23" value="T==101 ? 0x2162 : T==102 ? 0x2083 : T==103 ? 0xB3 : 0x23"/>
@@ -54,11 +54,11 @@
 			<Key at="0x52" value="T==101 ? 0x3C1 : T==102 ? 0xAC : T==103 ? 0x2202 : N&amp;2 ? 0x2605 : 0x2606"/>
 			<Key at="0x53" value="T==101 ? 0x3C3 : T==102 ? 0x2211 : T==103 ? 0x220F : N&amp;2 ? 0x21E9 : 0x2193"/>
 			<Key at="0x54" value="T==101 ? 0x3C4 : T==102 ? 0x22A4 : T==103 ? 0x22A5 : N&amp;2 ? 0x2030 : 0x203B"/>
-			<Key at="0x55" value="T==101 ? 0x3C5 : T==102 ? 0x222A : T==103 ? 0x221D : N&amp;2 ? 0x302E : 0x3009"/>
+			<Key at="0x55" value="T==101 ? 0x3C5 : T==102 ? 0x222A : T==103 ? 0x221D : N&amp;2 ? 0x3011 : 0x3009"/>
 			<Key at="0x56" value="T==101 ? 0x22C5 : T==102 ? 0x2218 : T==103 ? 0x2219 : N&amp;2 ? 0x25B7 : 0x300D"/>
 			<Key at="0x57" value="T==101 ? 0x3C9 : T==102 ? 0x220B : T==103 ? 0x220C : N&amp;2 ? 0x21E7 : 0x2191"/>
 			<Key at="0x58" value="T==101 ? 0x3BE : T==102 ? 0x21AE : T==103 ? 0x2295 : N&amp;2 ? 0x25C9 : 0x25CE"/>
-			<Key at="0x59" value="T==101 ? 0x3C8 : T==102 ? 0x22A2 : T==103 ? 0x22A8 : N&amp;2 ? 0x302F : 0x3008"/>
+			<Key at="0x59" value="T==101 ? 0x3C8 : T==102 ? 0x22A2 : T==103 ? 0x22A8 : N&amp;2 ? 0x3010 : 0x3008"/>
 			<Key at="0x5A" value="T==101 ? 0x3B6 : T==102 ? 0x219A : T==103 ? 0x2220 : N&amp;2 ? 0x25A0 : 0x25A1"/>
 			<Key at="0x5B" value="T==101 ? 0x3010 : T==102 ? 0x3014 : T==103 ? 0x2600 : P ? 0x7B : H3|O_"/>
 			<Key at="0x5C" value="T==101 ? 0x2252 : T==102 ? 0xB6 : T==103 ? 0xA6 : P ? 0x7C : 0x5C"/>
@@ -346,6 +346,7 @@
 			<UnitMix unit="JUNG" a="FI" b="EU" to="EUEO"/>
 			<UnitMix unit="JUNG" a="FI" b="I_" to="IEU"/>
 			<UnitMix unit="JONG" a="G_" b="N_" to="GN"/>
+			<UnitMix unit="JONG" a="G_" b="D_" to="GS"/>
 			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
 			<UnitMix unit="JONG" a="G_" b="RS" to="RGS"/>
 			<UnitMix unit="JONG" a="G_" b="RX" to="SG"/>
@@ -366,6 +367,7 @@
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
+			<UnitMix unit="JONG" a="D_" b="G_" to="GS"/>
 			<UnitMix unit="JONG" a="D_" b="RH" to="RT"/>
 			<UnitMix unit="JONG" a="D_" b="Q_" to="RT"/>
 			<UnitMix unit="JONG" a="D_" b="H_" to="T_"/>
@@ -380,6 +382,7 @@
 			<UnitMix unit="JONG" a="R_" b="Q_" to="G_"/>
 			<UnitMix unit="JONG" a="R_" b="C_" to="RM"/>
 			<UnitMix unit="JONG" a="R_" b="P_" to="GG"/>
+			<UnitMix unit="JONG" a="RG" b="SS" to="GS"/>
 			<UnitMix unit="JONG" a="RB" b="SS" to="GG"/>
 			<UnitMix unit="JONG" a="RS" b="G_" to="RGS"/>
 			<UnitMix unit="JONG" a="RS" b="RX" to="SB"/>
@@ -406,6 +409,7 @@
 			<UnitMix unit="JONG" a="M_" b="SS" to="D_"/>
 			<UnitMix unit="JONG" a="M_" b="Z_" to="MZ"/>
 			<UnitMix unit="JONG" a="M_" b="Q_" to="RT"/>
+			<UnitMix unit="JONG" a="M_" b="K_" to="GS"/>
 			<UnitMix unit="JONG" a="B_" b="G_" to="GB"/>
 			<UnitMix unit="JONG" a="B_" b="N_" to="P_"/>
 			<UnitMix unit="JONG" a="B_" b="R_" to="RB"/>
@@ -417,9 +421,7 @@
 			<UnitMix unit="JONG" a="B_" b="SS" to="P_"/>
 			<UnitMix unit="JONG" a="B_" b="Q_" to="RP"/>
 			<UnitMix unit="JONG" a="B_" b="J_" to="GG"/>
-			<UnitMix unit="JONG" a="B_" b="C_" to="GS"/>
 			<UnitMix unit="JONG" a="B_" b="H_" to="P_"/>
-			<UnitMix unit="JONG" a="BS" b="SS" to="GS"/>
 			<UnitMix unit="JONG" a="S_" b="G_" to="GS"/>
 			<UnitMix unit="JONG" a="S_" b="N_" to="NS"/>
 			<UnitMix unit="JONG" a="S_" b="R_" to="RS"/>
@@ -430,16 +432,15 @@
 			<UnitMix unit="JONG" a="S_" b="Q_" to="SS"/>
 			<UnitMix unit="JONG" a="S_" b="V_" to="VS"/>
 			<UnitMix unit="JONG" a="S_" b="J_" to="RM"/>
-			<UnitMix unit="JONG" a="S_" b="P_" to="GS"/>
 			<UnitMix unit="JONG" a="SS" b="G_" to="K_"/>
 			<UnitMix unit="JONG" a="SS" b="N_" to="H_"/>
 			<UnitMix unit="JONG" a="SS" b="D_" to="T_"/>
 			<UnitMix unit="JONG" a="SS" b="R_" to="J_"/>
+			<UnitMix unit="JONG" a="SS" b="RG" to="GS"/>
 			<UnitMix unit="JONG" a="SS" b="RB" to="GG"/>
 			<UnitMix unit="JONG" a="SS" b="RS" to="RM"/>
 			<UnitMix unit="JONG" a="SS" b="M_" to="D_"/>
 			<UnitMix unit="JONG" a="SS" b="B_" to="P_"/>
-			<UnitMix unit="JONG" a="SS" b="BS" to="GS"/>
 			<UnitMix unit="JONG" a="SS" b="S_" to="C_"/>
 			<UnitMix unit="JONG" a="SS" b="Q_" to="RH"/>
 			<UnitMix unit="JONG" a="Z_" b="N_" to="NZ"/>
@@ -461,9 +462,8 @@
 			<UnitMix unit="JONG" a="J_" b="B_" to="GG"/>
 			<UnitMix unit="JONG" a="J_" b="S_" to="RM"/>
 			<UnitMix unit="JONG" a="C_" b="R_" to="RM"/>
-			<UnitMix unit="JONG" a="C_" b="B_" to="GS"/>
+			<UnitMix unit="JONG" a="K_" b="M_" to="GS"/>
 			<UnitMix unit="JONG" a="P_" b="R_" to="GG"/>
-			<UnitMix unit="JONG" a="P_" b="S_" to="GS"/>
 			<UnitMix unit="JONG" a="H_" b="G_" to="K_"/>
 			<UnitMix unit="JONG" a="H_" b="N_" to="NH"/>
 			<UnitMix unit="JONG" a="H_" b="D_" to="T_"/>
@@ -478,8 +478,8 @@
 			<Automata state="3" value="A ? 3 : B|C ? 3 : 0" default="0" remark="초성 + (중성|종성)"/>
 		</AutomataTable>
 		<Extra>
-			<Bksp key="1" value1="ByUnitStep" value2="BySyllable|BkspAttach" condition1="0" condition2="0"/>
-			<Bksp key="2" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
+			<Bksp key="1" value1="BySyllable" value2="BySyllable" condition1="0" condition2="0"/>
+			<Bksp key="2" value1="BySyllable" value2="BySyllable" condition1="0" condition2="0"/>
 			<Bksp key="3" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
 			<Bksp key="4" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
 		</Extra>
