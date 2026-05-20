@@ -226,6 +226,7 @@
 	</InputSchemeSetting>
 	<GeneratorSetting flag="AUTOMATIC_TIMER" object="CNgsImeEx" flagex="0">
 		<UnitMixTable>
+			<UnitMix unit="CHO" a="G_" b="G_" to="GG"/>
 			<UnitMix unit="CHO" a="G_" b="N_" to="BT"/>
 			<UnitMix unit="CHO" a="G_" b="D_" to="DG"/>
 			<UnitMix unit="CHO" a="G_" b="R_" to="RG"/>
@@ -236,6 +237,7 @@
 			<UnitMix unit="CHO" a="G_" b="QQ" to="QG"/>
 			<UnitMix unit="CHO" a="G_" b="J_" to="GC"/>
 			<UnitMix unit="CHO" a="G_" b="H_" to="K_"/>
+			<UnitMix unit="CHO" a="GG" b="G_" to="K_"/>
 			<UnitMix unit="CHO" a="N_" b="G_" to="BT"/>
 			<UnitMix unit="CHO" a="N_" b="D_" to="ND"/>
 			<UnitMix unit="CHO" a="N_" b="R_" to="RQ"/>
@@ -251,6 +253,7 @@
 			<UnitMix unit="CHO" a="N_" b="H_" to="X_"/>
 			<UnitMix unit="CHO" a="D_" b="G_" to="DG"/>
 			<UnitMix unit="CHO" a="D_" b="N_" to="ND"/>
+			<UnitMix unit="CHO" a="D_" b="D_" to="DD"/>
 			<UnitMix unit="CHO" a="D_" b="R_" to="DR"/>
 			<UnitMix unit="CHO" a="D_" b="M_" to="MD"/>
 			<UnitMix unit="CHO" a="D_" b="B_" to="BD"/>
@@ -260,6 +263,7 @@
 			<UnitMix unit="CHO" a="D_" b="QQ" to="QD"/>
 			<UnitMix unit="CHO" a="D_" b="J_" to="DJ"/>
 			<UnitMix unit="CHO" a="D_" b="H_" to="T_"/>
+			<UnitMix unit="CHO" a="DD" b="D_" to="T_"/>
 			<UnitMix unit="CHO" a="R_" b="G_" to="RG"/>
 			<UnitMix unit="CHO" a="R_" b="N_" to="RQ"/>
 			<UnitMix unit="CHO" a="R_" b="D_" to="DR"/>
@@ -282,6 +286,7 @@
 			<UnitMix unit="CHO" a="B_" b="D_" to="BD"/>
 			<UnitMix unit="CHO" a="B_" b="R_" to="RB"/>
 			<UnitMix unit="CHO" a="B_" b="M_" to="MB"/>
+			<UnitMix unit="CHO" a="B_" b="B_" to="BB"/>
 			<UnitMix unit="CHO" a="B_" b="S_" to="BS"/>
 			<UnitMix unit="CHO" a="B_" b="Q_" to="BB"/>
 			<UnitMix unit="CHO" a="B_" b="QQ" to="QB"/>
@@ -289,6 +294,7 @@
 			<UnitMix unit="CHO" a="B_" b="J_" to="BJ"/>
 			<UnitMix unit="CHO" a="B_" b="H_" to="P_"/>
 			<UnitMix unit="CHO" a="BB" b="N_" to="BBQ"/>
+			<UnitMix unit="CHO" a="BB" b="B_" to="P_"/>
 			<UnitMix unit="CHO" a="BS" b="G_" to="BSG"/>
 			<UnitMix unit="CHO" a="BS" b="N_" to="QP"/>
 			<UnitMix unit="CHO" a="BS" b="D_" to="BSD"/>
@@ -305,6 +311,7 @@
 			<UnitMix unit="CHO" a="S_" b="M_" to="SM"/>
 			<UnitMix unit="CHO" a="S_" b="B_" to="BS"/>
 			<UnitMix unit="CHO" a="S_" b="BS" to="Sw"/>
+			<UnitMix unit="CHO" a="S_" b="S_" to="SS"/>
 			<UnitMix unit="CHO" a="S_" b="Z_" to="wS"/>
 			<UnitMix unit="CHO" a="S_" b="Q_" to="SS"/>
 			<UnitMix unit="CHO" a="S_" b="QQ" to="QS"/>
@@ -357,11 +364,13 @@
 			<UnitMix unit="CHO" a="J_" b="Z_" to="wJ"/>
 			<UnitMix unit="CHO" a="J_" b="Q_" to="JJ"/>
 			<UnitMix unit="CHO" a="J_" b="QQ" to="JJ"/>
+			<UnitMix unit="CHO" a="J_" b="J_" to="JJ"/>
 			<UnitMix unit="CHO" a="J_" b="wC" to="wJJ"/>
 			<UnitMix unit="CHO" a="J_" b="Cw" to="JJw"/>
 			<UnitMix unit="CHO" a="J_" b="H_" to="C_"/>
 			<UnitMix unit="CHO" a="JJ" b="BS" to="JJw"/>
 			<UnitMix unit="CHO" a="JJ" b="Z_" to="wJJ"/>
+			<UnitMix unit="CHO" a="JJ" b="J_" to="C_"/>
 			<UnitMix unit="CHO" a="wJ" b="QQ" to="wJJ"/>
 			<UnitMix unit="CHO" a="Jw" b="QQ" to="JJw"/>
 			<UnitMix unit="CHO" a="wC" b="S_" to="wSS"/>
@@ -378,6 +387,7 @@
 			<UnitMix unit="CHO" a="H_" b="Q_" to="QT"/>
 			<UnitMix unit="CHO" a="H_" b="QQ" to="HH"/>
 			<UnitMix unit="CHO" a="H_" b="J_" to="C_"/>
+			<UnitMix unit="JUNG" a="A_" b="A_" to="YA"/>
 			<UnitMix unit="JUNG" a="A_" b="EO" to="YO"/>
 			<UnitMix unit="JUNG" a="A_" b="E_" to="IA"/>
 			<UnitMix unit="JUNG" a="A_" b="O_" to="WA"/>
@@ -394,6 +404,7 @@
 			<UnitMix unit="JUNG" a="AE" b="500" to="WAE"/>
 			<UnitMix unit="JUNG" a="YA" b="EU" to="FF"/>
 			<UnitMix unit="JUNG" a="EO" b="A_" to="YO"/>
+			<UnitMix unit="JUNG" a="EO" b="EO" to="UEO"/>
 			<UnitMix unit="JUNG" a="EO" b="E_" to="IYEO"/>
 			<UnitMix unit="JUNG" a="EO" b="YEO" to="II"/>
 			<UnitMix unit="JUNG" a="EO" b="O_" to="UEO"/>
@@ -405,6 +416,7 @@
 			<UnitMix unit="JUNG" a="EO" b="500" to="UEO"/>
 			<UnitMix unit="JUNG" a="E_" b="A_" to="IA"/>
 			<UnitMix unit="JUNG" a="E_" b="EO" to="IYEO"/>
+			<UnitMix unit="JUNG" a="E_" b="E_" to="YE"/>
 			<UnitMix unit="JUNG" a="E_" b="YEO" to="IYAE"/>
 			<UnitMix unit="JUNG" a="E_" b="O_" to="YE"/>
 			<UnitMix unit="JUNG" a="E_" b="OI" to="IYE"/>
@@ -416,6 +428,7 @@
 			<UnitMix unit="JUNG" a="E_" b="500" to="YE"/>
 			<UnitMix unit="JUNG" a="YEO" b="EO" to="II"/>
 			<UnitMix unit="JUNG" a="YEO" b="E_" to="IYAE"/>
+			<UnitMix unit="JUNG" a="YEO" b="YEO" to="YAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="O_" to="YAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="YOI" to="YOYAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="U_" to="YEOU"/>
@@ -450,6 +463,7 @@
 			<UnitMix unit="JUNG" a="U_" b="YEO" to="YEOU"/>
 			<UnitMix unit="JUNG" a="U_" b="O_" to="YU"/>
 			<UnitMix unit="JUNG" a="U_" b="OI" to="IYE"/>
+			<UnitMix unit="JUNG" a="U_" b="U_" to="YU"/>
 			<UnitMix unit="JUNG" a="U_" b="EU" to="EUU"/>
 			<UnitMix unit="JUNG" a="U_" b="I_" to="WI"/>
 			<UnitMix unit="JUNG" a="U_" b="500" to="YU"/>
@@ -469,6 +483,7 @@
 			<UnitMix unit="JUNG" a="EU" b="YEO" to="OYEO"/>
 			<UnitMix unit="JUNG" a="EU" b="O_" to="EUO"/>
 			<UnitMix unit="JUNG" a="EU" b="U_" to="EUU"/>
+			<UnitMix unit="JUNG" a="EU" b="EU" to="YA"/>
 			<UnitMix unit="JUNG" a="EU" b="I_" to="EUI"/>
 			<UnitMix unit="JUNG" a="EU" b="FI" to="EUEO"/>
 			<UnitMix unit="JUNG" a="EU" b="500" to="YA"/>
@@ -505,6 +520,7 @@
 			<UnitMix unit="JUNG" a="500" b="I_" to="OI"/>
 			<UnitMix unit="JUNG" a="500" b="FI" to="YAO"/>
 			<UnitMix unit="JUNG" a="500" b="500" to="YO"/>
+			<UnitMix unit="JONG" a="G_" b="G_" to="GG"/>
 			<UnitMix unit="JONG" a="G_" b="N_" to="GN"/>
 			<UnitMix unit="JONG" a="G_" b="D_" to="GS"/>
 			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
@@ -516,8 +532,9 @@
 			<UnitMix unit="JONG" a="G_" b="SS" to="K_"/>
 			<UnitMix unit="JONG" a="G_" b="Q_" to="GG"/>
 			<UnitMix unit="JONG" a="G_" b="H_" to="K_"/>
+			<UnitMix unit="JONG" a="GG" b="G_" to="K_"/>
 			<UnitMix unit="JONG" a="N_" b="G_" to="GN"/>
-			<UnitMix unit="JONG" a="N_" b="N_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="N_" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="R_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="RX" to="ND"/>
 			<UnitMix unit="JONG" a="N_" b="M_" to="T_"/>
@@ -527,12 +544,15 @@
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
+			<UnitMix unit="JONG" a="NJ" b="N_" to="RH"/>
 			<UnitMix unit="JONG" a="D_" b="G_" to="GS"/>
 			<UnitMix unit="JONG" a="D_" b="RH" to="RT"/>
+			<UnitMix unit="JONG" a="D_" b="M_" to="T_"/>
 			<UnitMix unit="JONG" a="D_" b="Q_" to="RT"/>
 			<UnitMix unit="JONG" a="D_" b="H_" to="T_"/>
 			<UnitMix unit="JONG" a="R_" b="G_" to="RG"/>
 			<UnitMix unit="JONG" a="R_" b="N_" to="NJ"/>
+			<UnitMix unit="JONG" a="R_" b="R_" to="J_"/>
 			<UnitMix unit="JONG" a="R_" b="RX" to="RD"/>
 			<UnitMix unit="JONG" a="R_" b="M_" to="RM"/>
 			<UnitMix unit="JONG" a="R_" b="B_" to="RB"/>
@@ -543,6 +563,8 @@
 			<UnitMix unit="JONG" a="R_" b="C_" to="GG"/>
 			<UnitMix unit="JONG" a="R_" b="P_" to="T_"/>
 			<UnitMix unit="JONG" a="RG" b="SS" to="GS"/>
+			<UnitMix unit="JONG" a="RM" b="M_" to="RT"/>
+			<UnitMix unit="JONG" a="RB" b="B_" to="RP"/>
 			<UnitMix unit="JONG" a="RB" b="SS" to="T_"/>
 			<UnitMix unit="JONG" a="RS" b="G_" to="RGS"/>
 			<UnitMix unit="JONG" a="RS" b="RX" to="SB"/>
@@ -565,6 +587,7 @@
 			<UnitMix unit="JONG" a="M_" b="N_" to="T_"/>
 			<UnitMix unit="JONG" a="M_" b="R_" to="RM"/>
 			<UnitMix unit="JONG" a="M_" b="RX" to="MQ"/>
+			<UnitMix unit="JONG" a="M_" b="M_" to="D_"/>
 			<UnitMix unit="JONG" a="M_" b="B_" to="MB"/>
 			<UnitMix unit="JONG" a="M_" b="S_" to="MS"/>
 			<UnitMix unit="JONG" a="M_" b="SS" to="D_"/>
@@ -578,6 +601,7 @@
 			<UnitMix unit="JONG" a="B_" b="RH" to="RP"/>
 			<UnitMix unit="JONG" a="B_" b="RX" to="BQ"/>
 			<UnitMix unit="JONG" a="B_" b="M_" to="MB"/>
+			<UnitMix unit="JONG" a="B_" b="B_" to="P_"/>
 			<UnitMix unit="JONG" a="B_" b="S_" to="BS"/>
 			<UnitMix unit="JONG" a="B_" b="SS" to="P_"/>
 			<UnitMix unit="JONG" a="B_" b="Q_" to="RP"/>
@@ -622,6 +646,7 @@
 			<UnitMix unit="JONG" a="Q_" b="B_" to="RP"/>
 			<UnitMix unit="JONG" a="Q_" b="S_" to="SS"/>
 			<UnitMix unit="JONG" a="Q_" b="SS" to="RH"/>
+			<UnitMix unit="JONG" a="Q_" b="Q_" to="T_"/>
 			<UnitMix unit="JONG" a="V_" b="RX" to="X_"/>
 			<UnitMix unit="JONG" a="V_" b="S_" to="VS"/>
 			<UnitMix unit="JONG" a="V_" b="Z_" to="VZ"/>
@@ -631,6 +656,7 @@
 			<UnitMix unit="JONG" a="C_" b="R_" to="GG"/>
 			<UnitMix unit="JONG" a="C_" b="B_" to="RM"/>
 			<UnitMix unit="JONG" a="K_" b="M_" to="GS"/>
+			<UnitMix unit="JONG" a="T_" b="Q_" to="RH"/>
 			<UnitMix unit="JONG" a="P_" b="R_" to="T_"/>
 			<UnitMix unit="JONG" a="P_" b="S_" to="RM"/>
 			<UnitMix unit="JONG" a="H_" b="G_" to="K_"/>

@@ -1,101 +1,101 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_T_EDITABLE|VAR_N_EXTEND|ADVSCH_KEEP_NONHANGUL" remark="&#x01;세모이(세벌식 모아치기 e) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;- 세미콜론(;)은 P에, 온점(.)은 p에 있습니다. &#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트)의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● ㅟ는 ㅔ + ㅣ 로도 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다.&#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + a)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.&#x0D;&#x0A;        (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '? '=y+u, ', '=u+i, '. '=i+o, '! '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: https://blog.naver.com/eekdland/220239514856&#x0D;&#x0A;- 자판 설명: https://blog.naver.com/eekdland/220526834927" name="세벌식 모아치기 e (세모이)" object="CAdvancedScheme">
-		<KeyTable name="세벌식 모아치기 e (세모이)" flag="0" from="33" to="126">
-			<Key at="0x21" value="T==101 ? 0x2160 : T==102 ? 0x2081 : T==103 ? 0xB9 : 0x21"/>
-			<Key at="0x22" value="T==101 ? 0 : T==102 ? 0 : T==103 ? 0 : N&amp;2 ? 0x3003 : 0x22"/>
-			<Key at="0x23" value="T==101 ? 0x2162 : T==102 ? 0x2083 : T==103 ? 0xB3 : 0x23"/>
-			<Key at="0x24" value="T==101 ? 0x2163 : T==102 ? 0x2084 : T==103 ? 0x2074 : 0x24"/>
-			<Key at="0x25" value="T==101 ? 0x2164 : T==102 ? 0x2085 : T==103 ? 0x2075 : 0x25"/>
-			<Key at="0x26" value="T==101 ? 0x2166 : T==102 ? 0x2087 : T==103 ? 0x2077 : 0x26"/>
-			<Key at="0x27" value="T==101 ? 0x5B : T==102 ? 0x266A : T==103 ? 0x266C : P ? N&amp;2 ? 0x3003 : 0x22 : 0x27"/>
-			<Key at="0x28" value="T==101 ? 0x2168 : T==102 ? 0x2089 : T==103 ? 0x2079 : 0x28"/>
-			<Key at="0x29" value="T==101 ? 0x2169 : T==102 ? 0x2080 : T==103 ? 0x2070 : 0x29"/>
-			<Key at="0x2A" value="T==101 ? 0x2167 : T==102 ? 0x2088 : T==103 ? 0x2078 : 0x2A"/>
-			<Key at="0x2B" value="T==101 ? 0x216B : T==102 ? 0x208A : T==103 ? 0x207A : 0x2B"/>
-			<Key at="0x2C" value="T==101 ? 0x326A : T==102 ? 0x3008 : T==103 ? 0x300A : P ? 0x3C : 0x2C"/>
-			<Key at="0x2D" value="T==101 ? 0xB1 : T==102 ? 0x2642 : T==103 ? 0x2602 : P ? 0x5F : 0x2D"/>
-			<Key at="0x2E" value="T==101 ? 0x3269 : T==102 ? 0x3009 : T==103 ? 0x300B : P ? 0x3E : H3|0x1F40000"/>
-			<Key at="0x2F" value="T==101 ? 0x2F : T==102 ? 0x203B : T==103 ? 0x2620 : P ? 0x3F : 0x2F"/>
-			<Key at="0x30" value="T==101 ? 0xA7 : T==102 ? 0x2469 : T==103 ? 0x2473 : P ? 0x29 : N&amp;2 ? H3|BS : 0x30"/>
-			<Key at="0x31" value="T==101 ? 0xB5 : T==102 ? 0x2460 : T==103 ? 0x246A : P ? 0x21 : N&amp;2 ? H3|_Z : 0x31"/>
-			<Key at="0x32" value="T==101 ? 0x33A1 : T==102 ? 0x2461 : T==103 ? 0x246B : P ? 0x40 : N&amp;2 ? H3|_V : 0x32"/>
-			<Key at="0x33" value="T==101 ? 0x33A5 : T==102 ? 0x2462 : T==103 ? 0x246C : P ? 0x23 : N&amp;2 ? H3|_RX : 0x33"/>
-			<Key at="0x34" value="T==101 ? 0xFFE6 : T==102 ? 0x2463 : T==103 ? 0x246D : P ? 0x24 : N&amp;2 ? H3|_RS : 0x34"/>
-			<Key at="0x35" value="T==101 ? 0xFFE5 : T==102 ? 0x2464 : T==103 ? 0x246E : P ? 0x25 : N&amp;2 ? H3|YOI : 0x35"/>
-			<Key at="0x36" value="T==101 ? 0x2126 : T==102 ? 0x2465 : T==103 ? 0x246F : P ? 0x5E : N&amp;2 ? H3|YUI : 0x36"/>
-			<Key at="0x37" value="T==101 ? 0xFFE1 : T==102 ? 0x2466 : T==103 ? 0x2470 : P ? 0x26 : N&amp;2 ? H3|FI : 0x37"/>
-			<Key at="0x38" value="T==101 ? 0x20AC : T==102 ? 0x2467 : T==103 ? 0x2471 : P ? 0x2A : N&amp;2 ? H3|Z_ : 0x38"/>
-			<Key at="0x39" value="T==101 ? 0xFFE0 : T==102 ? 0x2468 : T==103 ? 0x2472 : P ? 0x28 : N&amp;2 ? H3|QQ : 0x39"/>
-			<Key at="0x3A" value="T==101 ? 0xB4 : T==102 ? 0x21B3 : T==103 ? 0x2B0E : T==100&amp;&amp;!E&amp;&amp;!F ? C1|103 : 0x3A"/>
-			<Key at="0x3B" value="T==101 ? 0x326B : T==102 ? 0x2198 : T==103 ? 0x21D8 : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|103 : 0x3A : H3|_SS"/>
-			<Key at="0x3C" value="T==101 ? 0x2264 : T==102 ? 0x2282 : T==103 ? 0x2284 : 0x3C"/>
-			<Key at="0x3D" value="T==101 ? 0x2260 : T==102 ? 0x2640 : T==103 ? 0x2603 : P ? 0x2B : N&amp;2 ? 0x2260 : 0x3D"/>
-			<Key at="0x3E" value="T==101 ? 0x2265 : T==102 ? 0x2283 : T==103 ? 0x2285 : 0x3E"/>
-			<Key at="0x3F" value="T==101 ? 0x221A : T==102 ? 0x2937 : T==103 ? 0x2936 : 0x3F"/>
-			<Key at="0x40" value="T==101 ? 0x2161 : T==102 ? 0x2082 : T==103 ? 0xB2 : 0x40"/>
-			<Key at="0x41" value="T==101 ? 0x3B1 : T==102 ? 0x2200 : T==103 ? 0x212B : N&amp;2 ? 0x21E6 : 0x2190"/>
-			<Key at="0x42" value="T==101 ? 0x3B2 : T==102 ? 0x2261 : T==103 ? 0x2245 : N&amp;2 ? 0x25E6 : 0xB0"/>
-			<Key at="0x43" value="T==101 ? 0x3C7 : T==102 ? 0x219B : T==103 ? 0x2297 : N&amp;2 ? 0x25C1 : 0x300C"/>
-			<Key at="0x44" value="T==101 ? 0x3B4 : T==102 ? 0x2206 : T==103 ? 0x2207 : N&amp;2 ? 0x21E8 : 0x2192"/>
-			<Key at="0x45" value="T==101 ? 0x3B5 : T==102 ? 0x2203 : T==103 ? 0x2204 : N&amp;2 ? 0x2665 : 0x2661"/>
-			<Key at="0x46" value="T==101 ? 0x3C6 : T==102 ? 0x3D5 : T==103 ? 0x2205 : N&amp;2 ? 0x25B2 : 0x25B3"/>
-			<Key at="0x47" value="T==101 ? 0x3B3 : T==102 ? 0x393 : T==103 ? 0x222B : N&amp;2 ? 0x25BC : 0x25BD"/>
-			<Key at="0x48" value="T==101 ? 0x3B7 : T==102 ? 0x2610 : T==103 ? 0x2611 : N&amp;2 ? 0x25A0 : 0x25A1"/>
-			<Key at="0x49" value="T==101 ? 0x3B9 : T==102 ? 0x2229 : T==103 ? 0x221E : N&amp;2 ? 0x3010 : 0x3008"/>
-			<Key at="0x4A" value="T==101 ? 0x25CC : T==102 ? 0x2228 : T==103 ? 0x2235 : C1|100"/>
-			<Key at="0x4B" value="T==101 ? 0x3BA : T==102 ? 0x2227 : T==103 ? 0x2234 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2030 : 0x203B"/>
-			<Key at="0x4C" value="T==101 ? 0x3BB : T==102 ? 0x21B2 : T==103 ? 0x2B10 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0xB7"/>
-			<Key at="0x4D" value="T==101 ? 0x3BC : T==102 ? 0x2287 : T==103 ? 0x228B : 0x2026"/>
-			<Key at="0x4E" value="T==101 ? 0x3BD : T==102 ? 0x2286 : T==103 ? 0x228A : N&amp;2 ? 0x261E : 0x2015"/>
-			<Key at="0x4F" value="T==101 ? 0x3BF : T==102 ? 0x21B0 : T==103 ? 0x2B11 : N&amp;2 ? 0x3011 : 0x3009"/>
-			<Key at="0x50" value="T==101 ? 0x3C0 : T==102 ? 0x21B1 : T==103 ? 0x2B0F : 0x3B"/>
-			<Key at="0x51" value="T==101 ? 0x3B8 : T==102 ? 0x2208 : T==103 ? 0x2209 : N&amp;2 ? 0x2195 : 0x2194"/>
-			<Key at="0x52" value="T==101 ? 0x3C1 : T==102 ? 0xAC : T==103 ? 0x2202 : N&amp;2 ? 0x2605 : 0x2606"/>
-			<Key at="0x53" value="T==101 ? 0x3C3 : T==102 ? 0x2211 : T==103 ? 0x220F : N&amp;2 ? 0x21E9 : 0x2193"/>
-			<Key at="0x54" value="T==101 ? 0x3C4 : T==102 ? 0x22A4 : T==103 ? 0x22A5 : N&amp;2 ? 0x25C9 : 0x25CE"/>
-			<Key at="0x55" value="T==101 ? 0x3C5 : T==102 ? 0x222A : T==103 ? 0x221D : N&amp;2 ? 0x25CF : 0x25CB"/>
-			<Key at="0x56" value="T==101 ? 0x22C5 : T==102 ? 0x2218 : T==103 ? 0x2219 : N&amp;2 ? 0x25B7 : 0x300D"/>
-			<Key at="0x57" value="T==101 ? 0x3C9 : T==102 ? 0x220B : T==103 ? 0x220C : N&amp;2 ? 0x21E7 : 0x2191"/>
-			<Key at="0x58" value="T==101 ? 0x3BE : T==102 ? 0x21AE : T==103 ? 0x2295 : N&amp;2 ? 0x25B6 : 0x300F"/>
-			<Key at="0x59" value="T==101 ? 0x3C8 : T==102 ? 0x22A2 : T==103 ? 0x22A8 : N&amp;2 ? 0x260E : 0xD7"/>
-			<Key at="0x5A" value="T==101 ? 0x3B6 : T==102 ? 0x219A : T==103 ? 0x2220 : N&amp;2 ? 0x25C0 : 0x300E"/>
-			<Key at="0x5B" value="T==101 ? 0x3010 : T==102 ? 0x3014 : T==103 ? 0x2600 : P ? 0x7B : 0x5B"/>
-			<Key at="0x5C" value="T==101 ? 0x2252 : T==102 ? 0xB6 : T==103 ? 0xA6 : P ? 0x7C : 0x5C"/>
-			<Key at="0x5D" value="T==101 ? 0x3011 : T==102 ? 0x3015 : T==103 ? 0x2601 : P ? 0x7D : 0x5D"/>
-			<Key at="0x5E" value="T==101 ? 0x2165 : T==102 ? 0x2086 : T==103 ? 0x2076 : 0x5E"/>
-			<Key at="0x5F" value="T==101 ? 0x216A : T==102 ? 0x208B : T==103 ? 0x207B : 0x5F"/>
-			<Key at="0x60" value="T==101 ? 0x2122 : T==102 ? 0xA9 : T==103 ? 0xAE : P ? 0x7E : 0x60"/>
-			<Key at="0x61" value="T==101 ? 0x25C7 : T==102 ? 0x25C8 : T==103 ? 0x25C6 : P ? N&amp;2 ? 0x21E6 : 0x2190 : H3|_Q"/>
-			<Key at="0x62" value="T==101 ? 0xF7 : T==102 ? 0x2030 : T==103 ? 0x2031 : P ? N&amp;2 ? 0x25E6 : 0xB0 : H3|U_"/>
-			<Key at="0x63" value="T==101 ? 0xB0 : T==102 ? 0x260E : T==103 ? 0x2668 : P ? N&amp;2 ? 0x25C1 : 0x300C : H3|E_"/>
-			<Key at="0x64" value="T==101 ? (T=0x65, 0x25CB) : T==102 ? 0x25C9 : T==103 ? 0x25CF : P ? N&amp;2 ? 0x21E8 : 0x2192 : H3|I_"/>
-			<Key at="0x65" value="T==101 ? 0x25B3 : T==102 ? 0x2191 : T==103 ? 0x21D1 : P ? N&amp;2 ? 0x2665 : 0x2661 : H3|_R"/>
-			<Key at="0x66" value="T==101 ? 0xB7 : T==102 ? 0x25E6 : T==103 ? 0x2022 : P ? N&amp;2 ? 0x25B2 : 0x25B3 : H3|A_"/>
-			<Key at="0x67" value="T==101 ? 0x2026 : T==102 ? 0x2015 : T==103 ? 0xFFE3 : P ? N&amp;2 ? 0x25BC : 0x25BD : H3|EU"/>
-			<Key at="0x68" value="T==101 ? 0x326D : T==102 ? 0x3003 : T==103 ? 0x2713 : P ? N&amp;2 ? 0x25A0 : 0x25A1 : H3|H_"/>
-			<Key at="0x69" value="T==101 ? 0x3262 : T==102 ? 0x2103 : T==103 ? 0x2109 : P ? N&amp;2 ? 0x3010 : 0x3008 : H3|D_"/>
-			<Key at="0x6A" value="T==101 ? 0x3267 : T==102 ? 0x2018 : T==103 ? 0x201C : P ? C1|100 : H3|Q_"/>
-			<Key at="0x6B" value="T==101 ? 0x3260 : T==102 ? 0x2019 : T==103 ? 0x201D : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2030 : 0x203B : H3|G_"/>
-			<Key at="0x6C" value="T==101 ? 0x3268 : T==102 ? 0x2199 : T==103 ? 0x21D9 : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0xB7 : H3|J_"/>
-			<Key at="0x6D" value="T==101 ? 0x3263 : T==102 ? 0x300D : T==103 ? 0x300F : P ? 0x2026 : H3|R_"/>
-			<Key at="0x6E" value="T==101 ? 0x3266 : T==102 ? 0x300C : T==103 ? 0x300E : P ? N&amp;2 ? 0x261E : 0x2015 : H3|S_"/>
-			<Key at="0x6F" value="T==101 ? 0x3265 : T==102 ? 0x2196 : T==103 ? 0x21D6 : P ? N&amp;2 ? 0x3011 : 0x3009 : H3|B_"/>
-			<Key at="0x70" value="T==101 ? 0x326C : T==102 ? 0x2197 : T==103 ? 0x21D7 : P ? 0x3B : 0x2E"/>
-			<Key at="0x71" value="T==101 ? 0x25C1 : T==102 ? 0x2190 : T==103 ? 0x21D0 : P ? N&amp;2 ? 0x2195 : 0x2194 : H3|_S"/>
-			<Key at="0x72" value="T==101 ? 0x25B7 : T==102 ? 0x2192 : T==103 ? 0x21D2 : P ? N&amp;2 ? 0x2605 : 0x2606 : H3|EO"/>
-			<Key at="0x73" value="T==101 ? 0x25A1 : T==102 ? 0x25A3 : T==103 ? 0x25A0 : P ? N&amp;2 ? 0x21E9 : 0x2193 : H3|_N"/>
-			<Key at="0x74" value="T==101 ? 0x2D0 : T==102 ? 0x2194 : T==103 ? 0x21D4 : P ? N&amp;2 ? 0x25C9 : 0x25CE : H3|YEO"/>
-			<Key at="0x75" value="T==101 ? 0x3261 : T==102 ? 0x321C : T==103 ? 0x327E : P ? N&amp;2 ? 0x25CF : 0x25CB : H3|N_"/>
-			<Key at="0x76" value="T==101 ? 0xD7 : T==102 ? 0x2715 : T==103 ? 0x2702 : P ? N&amp;2 ? 0x25B7 : 0x300D : H3|O_"/>
-			<Key at="0x77" value="T==101 ? 0x25BD : T==102 ? 0x2193 : T==103 ? 0x21D3 : P ? N&amp;2 ? 0x21E7 : 0x2191 : H3|_B"/>
-			<Key at="0x78" value="T==101 ? 0x2032 : T==102 ? 0x2606 : T==103 ? 0x2605 : P ? N&amp;2 ? 0x25B6 : 0x300F : H3|_G"/>
-			<Key at="0x79" value="T==101 ? 0x3264 : T==102 ? 0x2195 : T==103 ? 0x21D5 : P ? N&amp;2 ? 0x260E : 0xD7 : H3|M_"/>
-			<Key at="0x7A" value="T==101 ? 0x2033 : T==102 ? 0x2661 : T==103 ? 0x2665 : P ? N&amp;2 ? 0x25C0 : 0x300E : H3|_M"/>
-			<Key at="0x7B" value="T==101 ? 0 : T==102 ? 0x208D : T==103 ? 0x207D : 0x7B"/>
-			<Key at="0x7C" value="T==101 ? 0x2223 : T==102 ? 0x2225 : T==103 ? 0x2226 : 0x7C"/>
-			<Key at="0x7D" value="T==101 ? 0 : T==102 ? 0x208E : T==103 ? 0x207E : 0x7D"/>
-			<Key at="0x7E" value="T==101 ? 0x223C : T==102 ? 0x2248 : T==103 ? 0x223D : 0x7E"/>
+	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND" remark="&#x01;두줄이 세모이 복벌식 - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 세모이 자판과 두줄이 자판을 쉽게 왔다갔다 할 수 있는 복벌식 자판입니다. &#x0D;&#x0A;    ● 왼손부터 타자를 시작하면 두줄이 자판, 오른손부터 타자를 시작하면 세모이자판으로 타자를 할 수 있습니다. (이어치기만 가능합니다.)&#x0D;&#x0A;    &#x0D;&#x0A;- 세모이 자판의 경우 세미콜론(;)은 P에, 온점(.)은 p에 있습니다. &#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트)의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● ㅟ는 ㅔ + ㅣ 로도 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다.&#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.&#x0D;&#x0A;        (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '! '=y+u, ', '=u+i, '. '=i+o, '? '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: https://blog.naver.com/eekdland/220239514856&#x0D;&#x0A;- 자판 설명: https://blog.naver.com/eekdland/220526834927" name="두벌식 두줄이 세모이 복벌식" object="CAdvancedScheme">
+		<KeyTable name="세벌식 모아치기 e (세모이) (복벌식)" flag="0" from="33" to="126">
+			<Key at="0x21" value="0x21"/>
+			<Key at="0x22" value="0x22"/>
+			<Key at="0x23" value="0x23"/>
+			<Key at="0x24" value="0x24"/>
+			<Key at="0x25" value="0x25"/>
+			<Key at="0x26" value="0x26"/>
+			<Key at="0x27" value="0x27"/>
+			<Key at="0x28" value="0x28"/>
+			<Key at="0x29" value="0x29"/>
+			<Key at="0x2A" value="0x2A"/>
+			<Key at="0x2B" value="0x2B"/>
+			<Key at="0x2C" value="0x2C"/>
+			<Key at="0x2D" value="0x2D"/>
+			<Key at="0x2E" value="q ? H3|0x1F40000 : 0x2E"/>
+			<Key at="0x2F" value="q=T ? q : 1, q ? 0x2F : Z ? (Z=0, 0x3F) : (D==1 || D==24 || D==86 || D==161)&amp;&amp;!E ? H2|0x1F4 : (E==5 || E==15)&amp;&amp;!F ? H2|0x1F50000 : F==1 ? (h=1, H2|_GG) : F==24 ? (h=1, H2|_DD) : F==86 ? (h=1, H2|_BB) : F==161 ? (h=1, H2|_JJ) : 0x2F"/>
+			<Key at="0x30" value="0x30"/>
+			<Key at="0x31" value="0x31"/>
+			<Key at="0x32" value="0x32"/>
+			<Key at="0x33" value="0x33"/>
+			<Key at="0x34" value="0x34"/>
+			<Key at="0x35" value="0x35"/>
+			<Key at="0x36" value="0x36"/>
+			<Key at="0x37" value="0x37"/>
+			<Key at="0x38" value="0x38"/>
+			<Key at="0x39" value="0x39"/>
+			<Key at="0x3A" value="0x3A"/>
+			<Key at="0x3B" value="q ? H3|_SS : H2|U_"/>
+			<Key at="0x3C" value="0x3C"/>
+			<Key at="0x3D" value="0x3D"/>
+			<Key at="0x3E" value="0x3E"/>
+			<Key at="0x3F" value="0x3F"/>
+			<Key at="0x40" value="0x40"/>
+			<Key at="0x41" value="q ? 0x2190 : T&lt;=1 ? H2|M_ : H2|_M"/>
+			<Key at="0x42" value="q ? 0xB0 : T&lt;=1 ? H2|P_ : H2|_P"/>
+			<Key at="0x43" value="q ? 0x300C : T&lt;=1 ? H2|C_ : H2|_C"/>
+			<Key at="0x44" value="q ? 0x2192 : T&lt;=1 ? H2|Q_ : H2|_Q"/>
+			<Key at="0x45" value="q ? 0x2661 : H3|DD"/>
+			<Key at="0x46" value="q ? 0x25B3 : T&lt;=1 ? H2|GG : H2|_GG"/>
+			<Key at="0x47" value="q ? 0x25BD : T&lt;=1 ? H2|R_ : H2|_R"/>
+			<Key at="0x48" value="q ? 0x25A1 : H2|O_"/>
+			<Key at="0x49" value="q ? 0x3008 : H2|YEO"/>
+			<Key at="0x4A" value="q ? C1|100 : H2|EU"/>
+			<Key at="0x4B" value="q ? 0x203B : H2|A_"/>
+			<Key at="0x4C" value="q ? 0xB7 : H2|I_"/>
+			<Key at="0x4D" value="q ? 0x2026 : H2|YE"/>
+			<Key at="0x4E" value="q ? 0x2015 : H2|YAE"/>
+			<Key at="0x4F" value="q ? 0x3009 : H2|YA"/>
+			<Key at="0x50" value="0x3B"/>
+			<Key at="0x51" value="q ? 0x2194 : H3|BB"/>
+			<Key at="0x52" value="q ? 0x2606 : T&lt;=1 ? H2|H_ : H2|_H"/>
+			<Key at="0x53" value="q ? 0x2193 : T&lt;=1 ? H2|N_ : H2|_N"/>
+			<Key at="0x54" value="q ? 0x25CE : T&lt;=1 ? H2|S_ : H2|_S"/>
+			<Key at="0x55" value="q ? 0x25CB : H2|EO"/>
+			<Key at="0x56" value="q ? 0x300D : T&lt;=1 ? H2|SS : H2|_SS"/>
+			<Key at="0x57" value="q ? 0x2191 : H3|JJ"/>
+			<Key at="0x58" value="q ? 0x300F : T&lt;=1 ? H2|T_ : H2|_T"/>
+			<Key at="0x59" value="q ? 0xD7 : H2|YO"/>
+			<Key at="0x5A" value="q ? 0x300E : T&lt;=1 ? H2|K_ : H2|_K"/>
+			<Key at="0x5B" value="0x5B"/>
+			<Key at="0x5C" value="0x5C"/>
+			<Key at="0x5D" value="0x5D"/>
+			<Key at="0x5E" value="0x5E"/>
+			<Key at="0x5F" value="0x5F"/>
+			<Key at="0x60" value="0x60"/>
+			<Key at="0x61" value="q=T ? q : 0, q ? H3|_Q : T&lt;=1 ? H2|M_ : H2|_M"/>
+			<Key at="0x62" value="q=T ? q : 0, q ? H3|U_ : T&lt;=1 ? H2|P_ : H2|_P"/>
+			<Key at="0x63" value="q=T ? q : 0, q ? H3|E_ : T&lt;=1 ? H2|C_ : H2|_C"/>
+			<Key at="0x64" value="q=T ? q : 0, q ? H3|I_ : T&lt;=1 ? H2|Q_ : H2|_Q"/>
+			<Key at="0x65" value="q=T ? q : 0, q ? H3|_R : T&lt;=1 ? H2|D_ : H2|_D"/>
+			<Key at="0x66" value="q=T ? q : 0, q ? H3|A_ : T&lt;=1 ? H2|G_ : H2|_G"/>
+			<Key at="0x67" value="q=T ? q : 0, q ? H3|EU : T&lt;=1 ? H2|R_ : H2|_R"/>
+			<Key at="0x68" value="q=T ? q : 1, q ? H3|H_ : H2|O_"/>
+			<Key at="0x69" value="q=T ? q : 1, q ? H3|D_ : T!=2 ? H2|YEO : H3|_BS"/>
+			<Key at="0x6A" value="q=T ? q : 1, q ? H3|Q_ : T!=2 || E==43 ? H2|EU : H3|_NH"/>
+			<Key at="0x6B" value="q=T ? q : 1, q ? H3|G_ : T!=2 || E==21 ? H2|A_ : H3|_RG"/>
+			<Key at="0x6C" value="q=T ? q : 1, q ? H3|J_ : T!=2 || E==21 || E==43 || E==64 ? H2|I_ : H2|_GG"/>
+			<Key at="0x6D" value="q=T ? q : 1, q ? H3|R_ : H2|E_"/>
+			<Key at="0x6E" value="q=T ? q : 1, q ? H3|S_ : H2|AE"/>
+			<Key at="0x6F" value="q=T ? q : 1, q ? H3|B_ : H2|YA"/>
+			<Key at="0x70" value="q ? 0x2E : H2|YU"/>
+			<Key at="0x71" value="q=T ? q : 0, q ? H3|_S : T&lt;=1 ? H2|B_ : H2|_B"/>
+			<Key at="0x72" value="q=T ? q : 0, q ? H3|EO : T&lt;=1 ? H2|H_ : H2|_H"/>
+			<Key at="0x73" value="q=T ? q : 0, q ? H3|_N : T&lt;=1 ? H2|N_ : H2|_N"/>
+			<Key at="0x74" value="q=T ? q : 0, q ? H3|YEO : T&lt;=1 ? H2|S_ : H2|_S"/>
+			<Key at="0x75" value="q=T ? q : 1, q ? H3|N_ : H2|EO"/>
+			<Key at="0x76" value="q=T ? q : 0, q ? H3|O_ : T&lt;=1 ? H2|SS : H2|_SS"/>
+			<Key at="0x77" value="q=T ? q : 0, q ? H3|_B : T&lt;=1 ? H2|J_ : H2|_J"/>
+			<Key at="0x78" value="q=T ? q : 0, q ? H3|_G : T&lt;=1 ? H2|T_ : H2|_T"/>
+			<Key at="0x79" value="q=T ? q : 1, q ? H3|M_ : H2|YO"/>
+			<Key at="0x7A" value="q=T ? q : 0, q ? H3|_M : T&lt;=1 ? H2|K_ : H2|_K"/>
+			<Key at="0x7B" value="0x7B"/>
+			<Key at="0x7C" value="0x7C"/>
+			<Key at="0x7D" value="0x7D"/>
+			<Key at="0x7E" value="0x7E"/>
 		</KeyTable>
 		<KeyProgramTable/>
 	</InputSchemeSetting>
@@ -112,6 +112,7 @@
 			<UnitMix unit="CHO" a="G_" b="QQ" to="QG"/>
 			<UnitMix unit="CHO" a="G_" b="J_" to="GC"/>
 			<UnitMix unit="CHO" a="G_" b="H_" to="K_"/>
+			<UnitMix unit="CHO" a="G_" b="500" to="GG"/>
 			<UnitMix unit="CHO" a="GG" b="G_" to="K_"/>
 			<UnitMix unit="CHO" a="N_" b="G_" to="BT"/>
 			<UnitMix unit="CHO" a="N_" b="D_" to="ND"/>
@@ -138,6 +139,7 @@
 			<UnitMix unit="CHO" a="D_" b="QQ" to="QD"/>
 			<UnitMix unit="CHO" a="D_" b="J_" to="DJ"/>
 			<UnitMix unit="CHO" a="D_" b="H_" to="T_"/>
+			<UnitMix unit="CHO" a="D_" b="500" to="DD"/>
 			<UnitMix unit="CHO" a="DD" b="D_" to="T_"/>
 			<UnitMix unit="CHO" a="R_" b="G_" to="RG"/>
 			<UnitMix unit="CHO" a="R_" b="N_" to="RQ"/>
@@ -168,6 +170,7 @@
 			<UnitMix unit="CHO" a="B_" b="V_" to="BBQ"/>
 			<UnitMix unit="CHO" a="B_" b="J_" to="BJ"/>
 			<UnitMix unit="CHO" a="B_" b="H_" to="P_"/>
+			<UnitMix unit="CHO" a="B_" b="500" to="BB"/>
 			<UnitMix unit="CHO" a="BB" b="N_" to="BBQ"/>
 			<UnitMix unit="CHO" a="BB" b="B_" to="P_"/>
 			<UnitMix unit="CHO" a="BS" b="G_" to="BSG"/>
@@ -243,6 +246,7 @@
 			<UnitMix unit="CHO" a="J_" b="wC" to="wJJ"/>
 			<UnitMix unit="CHO" a="J_" b="Cw" to="JJw"/>
 			<UnitMix unit="CHO" a="J_" b="H_" to="C_"/>
+			<UnitMix unit="CHO" a="J_" b="500" to="JJ"/>
 			<UnitMix unit="CHO" a="JJ" b="BS" to="JJw"/>
 			<UnitMix unit="CHO" a="JJ" b="Z_" to="wJJ"/>
 			<UnitMix unit="CHO" a="JJ" b="J_" to="C_"/>
@@ -277,6 +281,7 @@
 			<UnitMix unit="JUNG" a="AE" b="O_" to="WAE"/>
 			<UnitMix unit="JUNG" a="AE" b="EU" to="FI"/>
 			<UnitMix unit="JUNG" a="AE" b="500" to="WAE"/>
+			<UnitMix unit="JUNG" a="AE" b="501" to="YAE"/>
 			<UnitMix unit="JUNG" a="YA" b="EU" to="FF"/>
 			<UnitMix unit="JUNG" a="EO" b="A_" to="YO"/>
 			<UnitMix unit="JUNG" a="EO" b="EO" to="UEO"/>
@@ -301,6 +306,7 @@
 			<UnitMix unit="JUNG" a="E_" b="EU" to="EUE"/>
 			<UnitMix unit="JUNG" a="E_" b="I_" to="WI"/>
 			<UnitMix unit="JUNG" a="E_" b="500" to="YE"/>
+			<UnitMix unit="JUNG" a="E_" b="501" to="YE"/>
 			<UnitMix unit="JUNG" a="YEO" b="EO" to="II"/>
 			<UnitMix unit="JUNG" a="YEO" b="E_" to="IYAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="YEO" to="YAE"/>
@@ -418,6 +424,7 @@
 			<UnitMix unit="JONG" a="N_" b="SS" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="J_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
 			<UnitMix unit="JONG" a="NJ" b="N_" to="RH"/>
 			<UnitMix unit="JONG" a="D_" b="G_" to="GS"/>
@@ -436,7 +443,9 @@
 			<UnitMix unit="JONG" a="R_" b="Z_" to="RZ"/>
 			<UnitMix unit="JONG" a="R_" b="Q_" to="G_"/>
 			<UnitMix unit="JONG" a="R_" b="C_" to="GG"/>
-			<UnitMix unit="JONG" a="R_" b="P_" to="T_"/>
+			<UnitMix unit="JONG" a="R_" b="T_" to="RT"/>
+			<UnitMix unit="JONG" a="R_" b="P_" to="RP"/>
+			<UnitMix unit="JONG" a="R_" b="H_" to="RH"/>
 			<UnitMix unit="JONG" a="RG" b="SS" to="GS"/>
 			<UnitMix unit="JONG" a="RM" b="M_" to="RT"/>
 			<UnitMix unit="JONG" a="RB" b="B_" to="RP"/>
@@ -525,18 +534,21 @@
 			<UnitMix unit="JONG" a="V_" b="RX" to="X_"/>
 			<UnitMix unit="JONG" a="V_" b="S_" to="VS"/>
 			<UnitMix unit="JONG" a="V_" b="Z_" to="VZ"/>
+			<UnitMix unit="JONG" a="J_" b="N_" to="NJ"/>
 			<UnitMix unit="JONG" a="J_" b="B_" to="T_"/>
 			<UnitMix unit="JONG" a="J_" b="S_" to="GG"/>
 			<UnitMix unit="JONG" a="J_" b="Q_" to="K_"/>
 			<UnitMix unit="JONG" a="C_" b="R_" to="GG"/>
 			<UnitMix unit="JONG" a="C_" b="B_" to="RM"/>
 			<UnitMix unit="JONG" a="K_" b="M_" to="GS"/>
+			<UnitMix unit="JONG" a="T_" b="R_" to="RT"/>
 			<UnitMix unit="JONG" a="T_" b="Q_" to="RH"/>
-			<UnitMix unit="JONG" a="P_" b="R_" to="T_"/>
+			<UnitMix unit="JONG" a="P_" b="R_" to="RP"/>
 			<UnitMix unit="JONG" a="P_" b="S_" to="RM"/>
 			<UnitMix unit="JONG" a="H_" b="G_" to="K_"/>
 			<UnitMix unit="JONG" a="H_" b="N_" to="NH"/>
 			<UnitMix unit="JONG" a="H_" b="D_" to="T_"/>
+			<UnitMix unit="JONG" a="H_" b="R_" to="RH"/>
 			<UnitMix unit="JONG" a="H_" b="B_" to="P_"/>
 		</UnitMixTable>
 		<VirtualUnitTable>
@@ -544,9 +556,10 @@
 		</VirtualUnitTable>
 		<UnitAbbrTable/>
 		<AutomataTable default="0">
-			<Automata state="0" value="A ? 1 : B|C ? 2 : 0" default="0" remark="초기 상태"/>
-			<Automata state="1" value="A ? 1 : B|C ? 2 : 0" default="0" remark="초성"/>
-			<Automata state="2" value="B|C ? 2 : 0" default="0" remark="중성 + 종성"/>
+			<Automata state="0" value="A ? 1 : B ? 2 : C ? 3 : 0" default="0" remark="초기 상태"/>
+			<Automata state="1" value="A ? 1 : B ? 2 : C ? 3 : 0" default="0" remark="초성"/>
+			<Automata state="2" value="B ? 2 : C ? 3 : 0" default="0" remark="[초성] + 중성"/>
+			<Automata state="3" value="h&amp;&amp;(F==1&amp;&amp;C==2 || F==24&amp;&amp;C==26 || F==86&amp;&amp;C==93 || F==161&amp;&amp;C==165) ? (h=0, -2) : C ? 3 : 0" default="0" remark="[초성] + [중성] + 종성"/>
 		</AutomataTable>
 		<Extra>
 			<Bksp key="1" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
@@ -1692,186 +1705,7 @@
 				</UserCandi>
 			</UserCandiTable>
 		</ConvertHelper>
-		<UserCompoTable>
-			<UserCompo state="0" key="0x3B" newstate="10" interim=";"/>
-			<UserCompo state="0" key="0x3E" newstate="2" interim="&gt;"/>
-			<UserCompo state="0" key="0x3F" newstate="27" interim="?"/>
-			<UserCompo state="0" key="0xB7" newstate="24" interim="·"/>
-			<UserCompo state="0" key="0xD7" newstate="16" interim="×"/>
-			<UserCompo state="0" key="0x2026" newstate="1" interim="…"/>
-			<UserCompo state="0" key="0x203B" newstate="23" interim="※"/>
-			<UserCompo state="0" key="0x2191" newstate="12" interim="↑"/>
-			<UserCompo state="0" key="0x2192" newstate="26" interim="→"/>
-			<UserCompo state="0" key="0x2193" newstate="29" interim="↓"/>
-			<UserCompo state="0" key="0x2194" newstate="11" interim="↔"/>
-			<UserCompo state="0" key="0x25B3" newstate="21" interim="△"/>
-			<UserCompo state="0" key="0x25BD" newstate="25" interim="▽"/>
-			<UserCompo state="0" key="0x25CB" newstate="17" interim="○"/>
-			<UserCompo state="0" key="0x25CE" newstate="15" interim="◎"/>
-			<UserCompo state="0" key="0x2606" newstate="14" interim="☆"/>
-			<UserCompo state="0" key="0x2661" newstate="13" interim="♡"/>
-			<UserCompo state="0" key="0x3008" newstate="18" interim="〈"/>
-			<UserCompo state="0" key="0x3009" newstate="19" interim="〉"/>
-			<UserCompo state="0" key="0x300C" newstate="28" interim="「"/>
-			<UserCompo state="0" key="0x300D" newstate="22" interim="」"/>
-			<UserCompo state="1" key="0x23" result="대통령"/>
-			<UserCompo state="1" key="0x24" result="이야기"/>
-			<UserCompo state="1" key="0x25" result="퍼센트"/>
-			<UserCompo state="1" key="0x40" result="가운데"/>
-			<UserCompo state="1" key="0x2190" result="선생님"/>
-			<UserCompo state="1" key="0x2191" result="그런데 "/>
-			<UserCompo state="1" key="0x2192" result="입니다. "/>
-			<UserCompo state="1" key="0x2193" result="으로써 "/>
-			<UserCompo state="1" key="0x2194" result="따라서 "/>
-			<UserCompo state="1" key="0x25A1" result="아버지"/>
-			<UserCompo state="1" key="0x25B3" result="라. "/>
-			<UserCompo state="1" key="0x25BD" result="합니다. "/>
-			<UserCompo state="1" key="0x25CE" result="그리고 "/>
-			<UserCompo state="1" key="0x2606" result="그러나 "/>
-			<UserCompo state="1" key="0x2661" result="그래서 "/>
-			<UserCompo state="1" key="0x3009" result="입니다. "/>
-			<UserCompo state="1" key="0x300D" result="어머니"/>
-			<UserCompo state="1" key="0x300E" result="으로서 "/>
-			<UserCompo state="1" key="0x300F" result="우리나라"/>
-			<UserCompo state="2" key="0x3E" result="&gt;&gt;"/>
-			<UserCompo state="2" key="0x25BD" result="야? "/>
-			<UserCompo state="2" key="0x300D" result="요. "/>
-			<UserCompo state="3" key="0x3C" result="&lt;&lt;"/>
-			<UserCompo state="6" key="0x3008" result="《"/>
-			<UserCompo state="7" key="0x3009" result="》"/>
-			<UserCompo state="10" key="0x21" result="한 "/>
-			<UserCompo state="10" key="0x23" result="세 "/>
-			<UserCompo state="10" key="0x24" result="네 "/>
-			<UserCompo state="10" key="0x25" result="다섯 "/>
-			<UserCompo state="10" key="0x26" result="일곱 "/>
-			<UserCompo state="10" key="0x28" result="아홉 "/>
-			<UserCompo state="10" key="0x2A" result="여덟 "/>
-			<UserCompo state="10" key="0x40" result="두 "/>
-			<UserCompo state="10" key="0x5E" result="여섯 "/>
-			<UserCompo state="11" key="0x21" result="열한 "/>
-			<UserCompo state="11" key="0x23" result="열세 "/>
-			<UserCompo state="11" key="0x24" result="열네 "/>
-			<UserCompo state="11" key="0x25" result="열다섯 "/>
-			<UserCompo state="11" key="0x26" result="열일곱 "/>
-			<UserCompo state="11" key="0x28" result="열아홉 "/>
-			<UserCompo state="11" key="0x29" result="열 "/>
-			<UserCompo state="11" key="0x2A" result="열여덟 "/>
-			<UserCompo state="11" key="0x40" result="열두 "/>
-			<UserCompo state="11" key="0x5E" result="열여섯 "/>
-			<UserCompo state="12" key="0x21" result="스물한 "/>
-			<UserCompo state="12" key="0x23" result="스물세 "/>
-			<UserCompo state="12" key="0x24" result="스물네 "/>
-			<UserCompo state="12" key="0x25" result="스물다섯 "/>
-			<UserCompo state="12" key="0x26" result="스물일곱 "/>
-			<UserCompo state="12" key="0x28" result="스물아홉 "/>
-			<UserCompo state="12" key="0x29" result="스무 "/>
-			<UserCompo state="12" key="0x2A" result="스물여덟 "/>
-			<UserCompo state="12" key="0x40" result="스물두 "/>
-			<UserCompo state="12" key="0x5E" result="스물여섯 "/>
-			<UserCompo state="13" key="0x21" result="서른한 "/>
-			<UserCompo state="13" key="0x23" result="서른세 "/>
-			<UserCompo state="13" key="0x24" result="서른네 "/>
-			<UserCompo state="13" key="0x25" result="서른다섯 "/>
-			<UserCompo state="13" key="0x26" result="서른일곱 "/>
-			<UserCompo state="13" key="0x28" result="서른아홉 "/>
-			<UserCompo state="13" key="0x29" result="서른 "/>
-			<UserCompo state="13" key="0x2A" result="서른여덟 "/>
-			<UserCompo state="13" key="0x40" result="서른두 "/>
-			<UserCompo state="13" key="0x5E" result="서른여섯 "/>
-			<UserCompo state="14" key="0x21" result="마흔한 "/>
-			<UserCompo state="14" key="0x23" result="마흔세 "/>
-			<UserCompo state="14" key="0x24" result="마흔네 "/>
-			<UserCompo state="14" key="0x25" result="마흔다섯 "/>
-			<UserCompo state="14" key="0x26" result="마흔일곱 "/>
-			<UserCompo state="14" key="0x28" result="마흔아홉 "/>
-			<UserCompo state="14" key="0x29" result="마흔 "/>
-			<UserCompo state="14" key="0x2A" result="마흔여덟 "/>
-			<UserCompo state="14" key="0x40" result="마흔두 "/>
-			<UserCompo state="14" key="0x5E" result="마흔여섯 "/>
-			<UserCompo state="14" key="0x25B3" result="요? "/>
-			<UserCompo state="15" key="0x21" result="쉰한 "/>
-			<UserCompo state="15" key="0x23" result="쉰세 "/>
-			<UserCompo state="15" key="0x24" result="쉰네 "/>
-			<UserCompo state="15" key="0x25" result="쉰다섯 "/>
-			<UserCompo state="15" key="0x26" result="쉰일곱 "/>
-			<UserCompo state="15" key="0x28" result="쉰아홉 "/>
-			<UserCompo state="15" key="0x29" result="쉰 "/>
-			<UserCompo state="15" key="0x2A" result="쉰여덟 "/>
-			<UserCompo state="15" key="0x40" result="쉰두 "/>
-			<UserCompo state="15" key="0x5E" result="쉰여섯 "/>
-			<UserCompo state="16" key="0x21" result="예순한 "/>
-			<UserCompo state="16" key="0x23" result="예순세 "/>
-			<UserCompo state="16" key="0x24" result="예순네 "/>
-			<UserCompo state="16" key="0x25" result="예순다섯 "/>
-			<UserCompo state="16" key="0x26" result="예순일곱 "/>
-			<UserCompo state="16" key="0x28" result="예순아홉 "/>
-			<UserCompo state="16" key="0x29" result="예순 "/>
-			<UserCompo state="16" key="0x2A" result="예순여덟 "/>
-			<UserCompo state="16" key="0x40" result="예순두 "/>
-			<UserCompo state="16" key="0x5E" result="예순여섯 "/>
-			<UserCompo state="16" key="0x25B3" result="다. "/>
-			<UserCompo state="16" key="0x3008" result="《"/>
-			<UserCompo state="17" key="0x21" result="일흔한 "/>
-			<UserCompo state="17" key="0x23" result="일흔세 "/>
-			<UserCompo state="17" key="0x24" result="일흔네 "/>
-			<UserCompo state="17" key="0x25" result="일흔다섯 "/>
-			<UserCompo state="17" key="0x26" result="일흔일곱 "/>
-			<UserCompo state="17" key="0x28" result="일흔아홉 "/>
-			<UserCompo state="17" key="0x29" result="일흔 "/>
-			<UserCompo state="17" key="0x2A" result="일흔여덟 "/>
-			<UserCompo state="17" key="0x40" result="일흔두 "/>
-			<UserCompo state="17" key="0x5E" result="일흔여섯 "/>
-			<UserCompo state="17" key="0x2192" result="니? "/>
-			<UserCompo state="17" key="0x25B3" result="나? "/>
-			<UserCompo state="17" key="0x25BD" result="냐? "/>
-			<UserCompo state="17" key="0x3009" result="》"/>
-			<UserCompo state="17" key="0x300C" result="네. "/>
-			<UserCompo state="18" key="0x21" result="여든한 "/>
-			<UserCompo state="18" key="0x23" result="여든세 "/>
-			<UserCompo state="18" key="0x24" result="여든네 "/>
-			<UserCompo state="18" key="0x25" result="여든다섯 "/>
-			<UserCompo state="18" key="0x26" result="여든일곱 "/>
-			<UserCompo state="18" key="0x28" result="여든아홉 "/>
-			<UserCompo state="18" key="0x29" result="여든 "/>
-			<UserCompo state="18" key="0x2A" result="여든여덟 "/>
-			<UserCompo state="18" key="0x40" result="여든두 "/>
-			<UserCompo state="18" key="0x5E" result="여든여섯 "/>
-			<UserCompo state="18" key="0x25B3" result="다. "/>
-			<UserCompo state="19" key="0x21" result="아흔한 "/>
-			<UserCompo state="19" key="0x23" result="아흔세 "/>
-			<UserCompo state="19" key="0x24" result="아흔네 "/>
-			<UserCompo state="19" key="0x25" result="아흔다섯 "/>
-			<UserCompo state="19" key="0x26" result="아흔일곱 "/>
-			<UserCompo state="19" key="0x28" result="아흔아홉 "/>
-			<UserCompo state="19" key="0x29" result="아흔 "/>
-			<UserCompo state="19" key="0x2A" result="아흔여덟 "/>
-			<UserCompo state="19" key="0x40" result="아흔두 "/>
-			<UserCompo state="19" key="0x5E" result="아흔여섯 "/>
-			<UserCompo state="19" key="0x3008" result="다. "/>
-			<UserCompo state="21" key="0x3F" result="까? "/>
-			<UserCompo state="21" key="0xB7" result="자. "/>
-			<UserCompo state="21" key="0x2026" result="라. "/>
-			<UserCompo state="21" key="0x203B" result="가? "/>
-			<UserCompo state="21" key="0x25CB" result="나? "/>
-			<UserCompo state="21" key="0x2606" result="요? "/>
-			<UserCompo state="21" key="0x3008" result="다. "/>
-			<UserCompo state="22" key="0x3E" result="요. "/>
-			<UserCompo state="22" key="0xB7" result="죠. "/>
-			<UserCompo state="22" key="0x25BD" result="야? "/>
-			<UserCompo state="23" key="0x2193" result="군. "/>
-			<UserCompo state="23" key="0x25B3" result="가? "/>
-			<UserCompo state="24" key="0x2192" result="지. "/>
-			<UserCompo state="24" key="0x25B3" result="자. "/>
-			<UserCompo state="24" key="0x300D" result="죠. "/>
-			<UserCompo state="25" key="0x3E" result="야? "/>
-			<UserCompo state="25" key="0x25CB" result="냐? "/>
-			<UserCompo state="25" key="0x300D" result="야? "/>
-			<UserCompo state="26" key="0xB7" result="지. "/>
-			<UserCompo state="26" key="0x25CB" result="니? "/>
-			<UserCompo state="27" key="0x25B3" result="까? "/>
-			<UserCompo state="28" key="0x25CB" result="네. "/>
-			<UserCompo state="29" key="0x203B" result="군. "/>
-		</UserCompoTable>
+		<UserCompoTable/>
 		<UserCandiTable/>
 		<UserKeyTable doobeolchk="T&lt;=1"/>
 		<HanSubstTable numeric="">

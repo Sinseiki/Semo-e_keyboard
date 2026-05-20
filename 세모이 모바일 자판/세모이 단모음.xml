@@ -1,101 +1,99 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_T_EDITABLE|VAR_N_EXTEND|ADVSCH_KEEP_NONHANGUL" remark="&#x01;세모이(세벌식 모아치기 e) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;- 세미콜론(;)은 P에, 온점(.)은 p에 있습니다. &#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트)의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● ㅟ는 ㅔ + ㅣ 로도 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다.&#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + a)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.&#x0D;&#x0A;        (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '? '=y+u, ', '=u+i, '. '=i+o, '! '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: https://blog.naver.com/eekdland/220239514856&#x0D;&#x0A;- 자판 설명: https://blog.naver.com/eekdland/220526834927" name="세벌식 모아치기 e (세모이)" object="CAdvancedScheme">
-		<KeyTable name="세벌식 모아치기 e (세모이)" flag="0" from="33" to="126">
-			<Key at="0x21" value="T==101 ? 0x2160 : T==102 ? 0x2081 : T==103 ? 0xB9 : 0x21"/>
-			<Key at="0x22" value="T==101 ? 0 : T==102 ? 0 : T==103 ? 0 : N&amp;2 ? 0x3003 : 0x22"/>
-			<Key at="0x23" value="T==101 ? 0x2162 : T==102 ? 0x2083 : T==103 ? 0xB3 : 0x23"/>
-			<Key at="0x24" value="T==101 ? 0x2163 : T==102 ? 0x2084 : T==103 ? 0x2074 : 0x24"/>
-			<Key at="0x25" value="T==101 ? 0x2164 : T==102 ? 0x2085 : T==103 ? 0x2075 : 0x25"/>
-			<Key at="0x26" value="T==101 ? 0x2166 : T==102 ? 0x2087 : T==103 ? 0x2077 : 0x26"/>
-			<Key at="0x27" value="T==101 ? 0x5B : T==102 ? 0x266A : T==103 ? 0x266C : P ? N&amp;2 ? 0x3003 : 0x22 : 0x27"/>
-			<Key at="0x28" value="T==101 ? 0x2168 : T==102 ? 0x2089 : T==103 ? 0x2079 : 0x28"/>
-			<Key at="0x29" value="T==101 ? 0x2169 : T==102 ? 0x2080 : T==103 ? 0x2070 : 0x29"/>
-			<Key at="0x2A" value="T==101 ? 0x2167 : T==102 ? 0x2088 : T==103 ? 0x2078 : 0x2A"/>
-			<Key at="0x2B" value="T==101 ? 0x216B : T==102 ? 0x208A : T==103 ? 0x207A : 0x2B"/>
-			<Key at="0x2C" value="T==101 ? 0x326A : T==102 ? 0x3008 : T==103 ? 0x300A : P ? 0x3C : 0x2C"/>
-			<Key at="0x2D" value="T==101 ? 0xB1 : T==102 ? 0x2642 : T==103 ? 0x2602 : P ? 0x5F : 0x2D"/>
-			<Key at="0x2E" value="T==101 ? 0x3269 : T==102 ? 0x3009 : T==103 ? 0x300B : P ? 0x3E : H3|0x1F40000"/>
-			<Key at="0x2F" value="T==101 ? 0x2F : T==102 ? 0x203B : T==103 ? 0x2620 : P ? 0x3F : 0x2F"/>
-			<Key at="0x30" value="T==101 ? 0xA7 : T==102 ? 0x2469 : T==103 ? 0x2473 : P ? 0x29 : N&amp;2 ? H3|BS : 0x30"/>
-			<Key at="0x31" value="T==101 ? 0xB5 : T==102 ? 0x2460 : T==103 ? 0x246A : P ? 0x21 : N&amp;2 ? H3|_Z : 0x31"/>
-			<Key at="0x32" value="T==101 ? 0x33A1 : T==102 ? 0x2461 : T==103 ? 0x246B : P ? 0x40 : N&amp;2 ? H3|_V : 0x32"/>
-			<Key at="0x33" value="T==101 ? 0x33A5 : T==102 ? 0x2462 : T==103 ? 0x246C : P ? 0x23 : N&amp;2 ? H3|_RX : 0x33"/>
-			<Key at="0x34" value="T==101 ? 0xFFE6 : T==102 ? 0x2463 : T==103 ? 0x246D : P ? 0x24 : N&amp;2 ? H3|_RS : 0x34"/>
-			<Key at="0x35" value="T==101 ? 0xFFE5 : T==102 ? 0x2464 : T==103 ? 0x246E : P ? 0x25 : N&amp;2 ? H3|YOI : 0x35"/>
-			<Key at="0x36" value="T==101 ? 0x2126 : T==102 ? 0x2465 : T==103 ? 0x246F : P ? 0x5E : N&amp;2 ? H3|YUI : 0x36"/>
-			<Key at="0x37" value="T==101 ? 0xFFE1 : T==102 ? 0x2466 : T==103 ? 0x2470 : P ? 0x26 : N&amp;2 ? H3|FI : 0x37"/>
-			<Key at="0x38" value="T==101 ? 0x20AC : T==102 ? 0x2467 : T==103 ? 0x2471 : P ? 0x2A : N&amp;2 ? H3|Z_ : 0x38"/>
-			<Key at="0x39" value="T==101 ? 0xFFE0 : T==102 ? 0x2468 : T==103 ? 0x2472 : P ? 0x28 : N&amp;2 ? H3|QQ : 0x39"/>
-			<Key at="0x3A" value="T==101 ? 0xB4 : T==102 ? 0x21B3 : T==103 ? 0x2B0E : T==100&amp;&amp;!E&amp;&amp;!F ? C1|103 : 0x3A"/>
-			<Key at="0x3B" value="T==101 ? 0x326B : T==102 ? 0x2198 : T==103 ? 0x21D8 : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|103 : 0x3A : H3|_SS"/>
-			<Key at="0x3C" value="T==101 ? 0x2264 : T==102 ? 0x2282 : T==103 ? 0x2284 : 0x3C"/>
-			<Key at="0x3D" value="T==101 ? 0x2260 : T==102 ? 0x2640 : T==103 ? 0x2603 : P ? 0x2B : N&amp;2 ? 0x2260 : 0x3D"/>
-			<Key at="0x3E" value="T==101 ? 0x2265 : T==102 ? 0x2283 : T==103 ? 0x2285 : 0x3E"/>
-			<Key at="0x3F" value="T==101 ? 0x221A : T==102 ? 0x2937 : T==103 ? 0x2936 : 0x3F"/>
-			<Key at="0x40" value="T==101 ? 0x2161 : T==102 ? 0x2082 : T==103 ? 0xB2 : 0x40"/>
-			<Key at="0x41" value="T==101 ? 0x3B1 : T==102 ? 0x2200 : T==103 ? 0x212B : N&amp;2 ? 0x21E6 : 0x2190"/>
-			<Key at="0x42" value="T==101 ? 0x3B2 : T==102 ? 0x2261 : T==103 ? 0x2245 : N&amp;2 ? 0x25E6 : 0xB0"/>
-			<Key at="0x43" value="T==101 ? 0x3C7 : T==102 ? 0x219B : T==103 ? 0x2297 : N&amp;2 ? 0x25C1 : 0x300C"/>
-			<Key at="0x44" value="T==101 ? 0x3B4 : T==102 ? 0x2206 : T==103 ? 0x2207 : N&amp;2 ? 0x21E8 : 0x2192"/>
-			<Key at="0x45" value="T==101 ? 0x3B5 : T==102 ? 0x2203 : T==103 ? 0x2204 : N&amp;2 ? 0x2665 : 0x2661"/>
-			<Key at="0x46" value="T==101 ? 0x3C6 : T==102 ? 0x3D5 : T==103 ? 0x2205 : N&amp;2 ? 0x25B2 : 0x25B3"/>
-			<Key at="0x47" value="T==101 ? 0x3B3 : T==102 ? 0x393 : T==103 ? 0x222B : N&amp;2 ? 0x25BC : 0x25BD"/>
-			<Key at="0x48" value="T==101 ? 0x3B7 : T==102 ? 0x2610 : T==103 ? 0x2611 : N&amp;2 ? 0x25A0 : 0x25A1"/>
-			<Key at="0x49" value="T==101 ? 0x3B9 : T==102 ? 0x2229 : T==103 ? 0x221E : N&amp;2 ? 0x3010 : 0x3008"/>
-			<Key at="0x4A" value="T==101 ? 0x25CC : T==102 ? 0x2228 : T==103 ? 0x2235 : C1|100"/>
-			<Key at="0x4B" value="T==101 ? 0x3BA : T==102 ? 0x2227 : T==103 ? 0x2234 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2030 : 0x203B"/>
-			<Key at="0x4C" value="T==101 ? 0x3BB : T==102 ? 0x21B2 : T==103 ? 0x2B10 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0xB7"/>
-			<Key at="0x4D" value="T==101 ? 0x3BC : T==102 ? 0x2287 : T==103 ? 0x228B : 0x2026"/>
-			<Key at="0x4E" value="T==101 ? 0x3BD : T==102 ? 0x2286 : T==103 ? 0x228A : N&amp;2 ? 0x261E : 0x2015"/>
-			<Key at="0x4F" value="T==101 ? 0x3BF : T==102 ? 0x21B0 : T==103 ? 0x2B11 : N&amp;2 ? 0x3011 : 0x3009"/>
-			<Key at="0x50" value="T==101 ? 0x3C0 : T==102 ? 0x21B1 : T==103 ? 0x2B0F : 0x3B"/>
-			<Key at="0x51" value="T==101 ? 0x3B8 : T==102 ? 0x2208 : T==103 ? 0x2209 : N&amp;2 ? 0x2195 : 0x2194"/>
-			<Key at="0x52" value="T==101 ? 0x3C1 : T==102 ? 0xAC : T==103 ? 0x2202 : N&amp;2 ? 0x2605 : 0x2606"/>
-			<Key at="0x53" value="T==101 ? 0x3C3 : T==102 ? 0x2211 : T==103 ? 0x220F : N&amp;2 ? 0x21E9 : 0x2193"/>
-			<Key at="0x54" value="T==101 ? 0x3C4 : T==102 ? 0x22A4 : T==103 ? 0x22A5 : N&amp;2 ? 0x25C9 : 0x25CE"/>
-			<Key at="0x55" value="T==101 ? 0x3C5 : T==102 ? 0x222A : T==103 ? 0x221D : N&amp;2 ? 0x25CF : 0x25CB"/>
-			<Key at="0x56" value="T==101 ? 0x22C5 : T==102 ? 0x2218 : T==103 ? 0x2219 : N&amp;2 ? 0x25B7 : 0x300D"/>
-			<Key at="0x57" value="T==101 ? 0x3C9 : T==102 ? 0x220B : T==103 ? 0x220C : N&amp;2 ? 0x21E7 : 0x2191"/>
-			<Key at="0x58" value="T==101 ? 0x3BE : T==102 ? 0x21AE : T==103 ? 0x2295 : N&amp;2 ? 0x25B6 : 0x300F"/>
-			<Key at="0x59" value="T==101 ? 0x3C8 : T==102 ? 0x22A2 : T==103 ? 0x22A8 : N&amp;2 ? 0x260E : 0xD7"/>
-			<Key at="0x5A" value="T==101 ? 0x3B6 : T==102 ? 0x219A : T==103 ? 0x2220 : N&amp;2 ? 0x25C0 : 0x300E"/>
-			<Key at="0x5B" value="T==101 ? 0x3010 : T==102 ? 0x3014 : T==103 ? 0x2600 : P ? 0x7B : 0x5B"/>
-			<Key at="0x5C" value="T==101 ? 0x2252 : T==102 ? 0xB6 : T==103 ? 0xA6 : P ? 0x7C : 0x5C"/>
-			<Key at="0x5D" value="T==101 ? 0x3011 : T==102 ? 0x3015 : T==103 ? 0x2601 : P ? 0x7D : 0x5D"/>
-			<Key at="0x5E" value="T==101 ? 0x2165 : T==102 ? 0x2086 : T==103 ? 0x2076 : 0x5E"/>
-			<Key at="0x5F" value="T==101 ? 0x216A : T==102 ? 0x208B : T==103 ? 0x207B : 0x5F"/>
-			<Key at="0x60" value="T==101 ? 0x2122 : T==102 ? 0xA9 : T==103 ? 0xAE : P ? 0x7E : 0x60"/>
-			<Key at="0x61" value="T==101 ? 0x25C7 : T==102 ? 0x25C8 : T==103 ? 0x25C6 : P ? N&amp;2 ? 0x21E6 : 0x2190 : H3|_Q"/>
-			<Key at="0x62" value="T==101 ? 0xF7 : T==102 ? 0x2030 : T==103 ? 0x2031 : P ? N&amp;2 ? 0x25E6 : 0xB0 : H3|U_"/>
-			<Key at="0x63" value="T==101 ? 0xB0 : T==102 ? 0x260E : T==103 ? 0x2668 : P ? N&amp;2 ? 0x25C1 : 0x300C : H3|E_"/>
-			<Key at="0x64" value="T==101 ? (T=0x65, 0x25CB) : T==102 ? 0x25C9 : T==103 ? 0x25CF : P ? N&amp;2 ? 0x21E8 : 0x2192 : H3|I_"/>
-			<Key at="0x65" value="T==101 ? 0x25B3 : T==102 ? 0x2191 : T==103 ? 0x21D1 : P ? N&amp;2 ? 0x2665 : 0x2661 : H3|_R"/>
-			<Key at="0x66" value="T==101 ? 0xB7 : T==102 ? 0x25E6 : T==103 ? 0x2022 : P ? N&amp;2 ? 0x25B2 : 0x25B3 : H3|A_"/>
-			<Key at="0x67" value="T==101 ? 0x2026 : T==102 ? 0x2015 : T==103 ? 0xFFE3 : P ? N&amp;2 ? 0x25BC : 0x25BD : H3|EU"/>
-			<Key at="0x68" value="T==101 ? 0x326D : T==102 ? 0x3003 : T==103 ? 0x2713 : P ? N&amp;2 ? 0x25A0 : 0x25A1 : H3|H_"/>
-			<Key at="0x69" value="T==101 ? 0x3262 : T==102 ? 0x2103 : T==103 ? 0x2109 : P ? N&amp;2 ? 0x3010 : 0x3008 : H3|D_"/>
-			<Key at="0x6A" value="T==101 ? 0x3267 : T==102 ? 0x2018 : T==103 ? 0x201C : P ? C1|100 : H3|Q_"/>
-			<Key at="0x6B" value="T==101 ? 0x3260 : T==102 ? 0x2019 : T==103 ? 0x201D : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2030 : 0x203B : H3|G_"/>
-			<Key at="0x6C" value="T==101 ? 0x3268 : T==102 ? 0x2199 : T==103 ? 0x21D9 : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0xB7 : H3|J_"/>
-			<Key at="0x6D" value="T==101 ? 0x3263 : T==102 ? 0x300D : T==103 ? 0x300F : P ? 0x2026 : H3|R_"/>
-			<Key at="0x6E" value="T==101 ? 0x3266 : T==102 ? 0x300C : T==103 ? 0x300E : P ? N&amp;2 ? 0x261E : 0x2015 : H3|S_"/>
-			<Key at="0x6F" value="T==101 ? 0x3265 : T==102 ? 0x2196 : T==103 ? 0x21D6 : P ? N&amp;2 ? 0x3011 : 0x3009 : H3|B_"/>
-			<Key at="0x70" value="T==101 ? 0x326C : T==102 ? 0x2197 : T==103 ? 0x21D7 : P ? 0x3B : 0x2E"/>
-			<Key at="0x71" value="T==101 ? 0x25C1 : T==102 ? 0x2190 : T==103 ? 0x21D0 : P ? N&amp;2 ? 0x2195 : 0x2194 : H3|_S"/>
-			<Key at="0x72" value="T==101 ? 0x25B7 : T==102 ? 0x2192 : T==103 ? 0x21D2 : P ? N&amp;2 ? 0x2605 : 0x2606 : H3|EO"/>
-			<Key at="0x73" value="T==101 ? 0x25A1 : T==102 ? 0x25A3 : T==103 ? 0x25A0 : P ? N&amp;2 ? 0x21E9 : 0x2193 : H3|_N"/>
-			<Key at="0x74" value="T==101 ? 0x2D0 : T==102 ? 0x2194 : T==103 ? 0x21D4 : P ? N&amp;2 ? 0x25C9 : 0x25CE : H3|YEO"/>
-			<Key at="0x75" value="T==101 ? 0x3261 : T==102 ? 0x321C : T==103 ? 0x327E : P ? N&amp;2 ? 0x25CF : 0x25CB : H3|N_"/>
-			<Key at="0x76" value="T==101 ? 0xD7 : T==102 ? 0x2715 : T==103 ? 0x2702 : P ? N&amp;2 ? 0x25B7 : 0x300D : H3|O_"/>
-			<Key at="0x77" value="T==101 ? 0x25BD : T==102 ? 0x2193 : T==103 ? 0x21D3 : P ? N&amp;2 ? 0x21E7 : 0x2191 : H3|_B"/>
-			<Key at="0x78" value="T==101 ? 0x2032 : T==102 ? 0x2606 : T==103 ? 0x2605 : P ? N&amp;2 ? 0x25B6 : 0x300F : H3|_G"/>
-			<Key at="0x79" value="T==101 ? 0x3264 : T==102 ? 0x2195 : T==103 ? 0x21D5 : P ? N&amp;2 ? 0x260E : 0xD7 : H3|M_"/>
-			<Key at="0x7A" value="T==101 ? 0x2033 : T==102 ? 0x2661 : T==103 ? 0x2665 : P ? N&amp;2 ? 0x25C0 : 0x300E : H3|_M"/>
-			<Key at="0x7B" value="T==101 ? 0 : T==102 ? 0x208D : T==103 ? 0x207D : 0x7B"/>
-			<Key at="0x7C" value="T==101 ? 0x2223 : T==102 ? 0x2225 : T==103 ? 0x2226 : 0x7C"/>
-			<Key at="0x7D" value="T==101 ? 0 : T==102 ? 0x208E : T==103 ? 0x207E : 0x7D"/>
-			<Key at="0x7E" value="T==101 ? 0x223C : T==102 ? 0x2248 : T==103 ? 0x223D : 0x7E"/>
+	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_T_EDITABLE|VAR_N_EXTEND|ADVSCH_KEEP_NONHANGUL" remark="&#x01;세모이(세벌식 모아치기 e) 단모음 - 만든이 : 신세기&#x0D;&#x0A;&#x0D;&#x0A;- 기존 세모이 직결식 자판을 모바일 용 9열 자판으로 바꾼 형태입니다. &#x0D;&#x0A;- 같은 글쇠를 반복해서 눌러서 윗글쇠를 입력할 수 있게 되어 있습니다." name="세벌식 모아치기 e 단모음" object="CAdvancedScheme">
+		<KeyTable name="" flag="0" from="33" to="126">
+			<Key at="0x21" value="0x21"/>
+			<Key at="0x22" value="0x22"/>
+			<Key at="0x23" value="0x23"/>
+			<Key at="0x24" value="0x24"/>
+			<Key at="0x25" value="0x25"/>
+			<Key at="0x26" value="0x26"/>
+			<Key at="0x27" value="0x27"/>
+			<Key at="0x28" value="0x28"/>
+			<Key at="0x29" value="0x29"/>
+			<Key at="0x2A" value="0x2A"/>
+			<Key at="0x2B" value="0x2B"/>
+			<Key at="0x2C" value="0x2C"/>
+			<Key at="0x2D" value="0x2D"/>
+			<Key at="0x2E" value="0x2E"/>
+			<Key at="0x2F" value="0x2F"/>
+			<Key at="0x30" value="0x30"/>
+			<Key at="0x31" value="0x31"/>
+			<Key at="0x32" value="0x32"/>
+			<Key at="0x33" value="0x33"/>
+			<Key at="0x34" value="0x34"/>
+			<Key at="0x35" value="0x35"/>
+			<Key at="0x36" value="0x36"/>
+			<Key at="0x37" value="0x37"/>
+			<Key at="0x38" value="0x38"/>
+			<Key at="0x39" value="0x39"/>
+			<Key at="0x3A" value="0x3A"/>
+			<Key at="0x3B" value="0x3B"/>
+			<Key at="0x3C" value="0x3C"/>
+			<Key at="0x3D" value="0x3D"/>
+			<Key at="0x3E" value="0x3E"/>
+			<Key at="0x3F" value="0x3F"/>
+			<Key at="0x40" value="0x40"/>
+			<Key at="0x41" value="H3|_T"/>
+			<Key at="0x42" value="H3|YU"/>
+			<Key at="0x43" value="H3|YE"/>
+			<Key at="0x44" value="H3|I_"/>
+			<Key at="0x45" value="H3|_J"/>
+			<Key at="0x46" value="H3|F_"/>
+			<Key at="0x47" value="H3|YA"/>
+			<Key at="0x48" value="0xB7"/>
+			<Key at="0x49" value="H3|T_"/>
+			<Key at="0x4A" value="H3|Q_"/>
+			<Key at="0x4B" value="H3|K_"/>
+			<Key at="0x4C" value="H3|C_"/>
+			<Key at="0x4D" value="0x27"/>
+			<Key at="0x4E" value="H3|S_"/>
+			<Key at="0x4F" value="H3|P_"/>
+			<Key at="0x51" value="H3|_C"/>
+			<Key at="0x52" value="H3|UEO"/>
+			<Key at="0x53" value="H3|_H"/>
+			<Key at="0x54" value="H3|YAE"/>
+			<Key at="0x55" value="0x3009"/>
+			<Key at="0x56" value="H3|YO"/>
+			<Key at="0x57" value="H3|_P"/>
+			<Key at="0x58" value="H3|_K"/>
+			<Key at="0x59" value="0x3008"/>
+			<Key at="0x5A" value="H3|_D"/>
+			<Key at="0x5B" value="0x5B"/>
+			<Key at="0x5C" value="0x5C"/>
+			<Key at="0x5D" value="0x5D"/>
+			<Key at="0x5E" value="0x5E"/>
+			<Key at="0x5F" value="0x5F"/>
+			<Key at="0x60" value="0x60"/>
+			<Key at="0x61" value="H3|_Q"/>
+			<Key at="0x62" value="H3|U_"/>
+			<Key at="0x63" value="H3|E_"/>
+			<Key at="0x64" value="H3|I_"/>
+			<Key at="0x65" value="H3|_R"/>
+			<Key at="0x66" value="H3|A_"/>
+			<Key at="0x67" value="H3|EU"/>
+			<Key at="0x68" value="H3|H_"/>
+			<Key at="0x69" value="H3|D_"/>
+			<Key at="0x6A" value="H3|Q_"/>
+			<Key at="0x6B" value="H3|G_"/>
+			<Key at="0x6C" value="H3|J_"/>
+			<Key at="0x6D" value="H3|R_"/>
+			<Key at="0x6E" value="H3|S_"/>
+			<Key at="0x6F" value="H3|B_"/>
+			<Key at="0x71" value="H3|_S"/>
+			<Key at="0x72" value="H3|EO"/>
+			<Key at="0x73" value="H3|_N"/>
+			<Key at="0x74" value="H3|YEO"/>
+			<Key at="0x75" value="H3|N_"/>
+			<Key at="0x76" value="H3|O_"/>
+			<Key at="0x77" value="H3|_B"/>
+			<Key at="0x78" value="H3|_G"/>
+			<Key at="0x79" value="H3|M_"/>
+			<Key at="0x7A" value="H3|_M"/>
+			<Key at="0x7B" value="0x7B"/>
+			<Key at="0x7C" value="0x7C"/>
+			<Key at="0x7D" value="0x7D"/>
+			<Key at="0x7E" value="0x7E"/>
 		</KeyTable>
 		<KeyProgramTable/>
 	</InputSchemeSetting>

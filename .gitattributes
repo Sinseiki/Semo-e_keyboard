@@ -1,0 +1,6 @@
+"세모이 자판 배열도/**" linguist-vendored
+"세모이 자판 설명/**" linguist-vendored
+"세모이 자판 스티커/**" linguist-vendored
+
+*.xml linguist-language=XML
+*.xml linguist-detectable=true
