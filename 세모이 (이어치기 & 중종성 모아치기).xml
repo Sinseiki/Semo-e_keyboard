@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND" remark="&#x01;세모이(세벌식 모아치기 e) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 합니다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에 있습니다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다. &#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.(fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: http://ssg.wo.tc/220239514856&#x0D;&#x0A;- 자판 설명: http://ssg.wo.tc/30187905646" name="세벌식 모아치기 e (세모이)" object="CBasicInputScheme">
+	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND" remark="&#x01;세모이(세벌식 모아치기 e) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 합니다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에, 반점(,)은 '에, 온점(.)은 ,에 있습니다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다. &#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.                (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '? '=y+u, ', '=u+i, '. '=i+o, '! '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: http://ssg.wo.tc/220239514856&#x0D;&#x0A;- 자판 설명: http://ssg.wo.tc/30187905646" name="세벌식 모아치기 e (세모이)" object="CBasicInputScheme">
 		<KeyTable name="세벌식 모아치기 e (세모이)" flag="0" from="33" to="126">
 			<Key at="0x21" value="T==101 ? 0x2160 : T==102 ? 0x2081 : T==103 ? 0xB9 : 0x21"/>
 			<Key at="0x22" value="T==101 ? 0 : T==102 ? 0 : T==103 ? 0 : N&amp;2 ? 0x3003 : 0x22"/>
@@ -8,14 +8,14 @@
 			<Key at="0x24" value="T==101 ? 0x2163 : T==102 ? 0x2084 : T==103 ? 0x2074 : 0x24"/>
 			<Key at="0x25" value="T==101 ? 0x2164 : T==102 ? 0x2085 : T==103 ? 0x2075 : 0x25"/>
 			<Key at="0x26" value="T==101 ? 0x2166 : T==102 ? 0x2087 : T==103 ? 0x2077 : 0x26"/>
-			<Key at="0x27" value="T==101 ? 0x5B : T==102 ? 0x266A : T==103 ? 0x266C : P ? N&amp;2 ? 0x3003 : 0x22 : 0x5B"/>
+			<Key at="0x27" value="T==101 ? 0x5B : T==102 ? 0x266A : T==103 ? 0x266C : P ? N&amp;2 ? 0x3003 : 0x22 : 0x2C"/>
 			<Key at="0x28" value="T==101 ? 0x2168 : T==102 ? 0x2089 : T==103 ? 0x2079 : 0x28"/>
 			<Key at="0x29" value="T==101 ? 0x2169 : T==102 ? 0x2080 : T==103 ? 0x2070 : 0x29"/>
 			<Key at="0x2A" value="T==101 ? 0x2167 : T==102 ? 0x2088 : T==103 ? 0x2078 : 0x2A"/>
 			<Key at="0x2B" value="T==101 ? 0x216B : T==102 ? 0x208A : T==103 ? 0x207A : 0x2B"/>
-			<Key at="0x2C" value="T==101 ? 0x326A : T==102 ? 0x3008 : T==103 ? 0x300A : P ? 0x3C : 0x2C"/>
+			<Key at="0x2C" value="T==101 ? 0x326A : T==102 ? 0x3008 : T==103 ? 0x300A : P ? 0x3C : 0x2E"/>
 			<Key at="0x2D" value="T==101 ? 0xB1 : T==102 ? 0x2642 : T==103 ? 0x2602 : P ? 0x5F : 0x2D"/>
-			<Key at="0x2E" value="T==101 ? 0x3269 : T==102 ? 0x3009 : T==103 ? 0x300B : P ? 0x3E : 0x2E"/>
+			<Key at="0x2E" value="T==101 ? 0x3269 : T==102 ? 0x3009 : T==103 ? 0x300B : P ? 0x3E : H3|O_"/>
 			<Key at="0x2F" value="T==101 ? 0x2F : T==102 ? 0x203B : T==103 ? 0x2620 : P ? 0x3F : 0x2F"/>
 			<Key at="0x30" value="T==101 ? 0xA7 : T==102 ? 0x2469 : T==103 ? 0x2473 : P ? 0x29 : N&amp;2 ? H3|BS : 0x30"/>
 			<Key at="0x31" value="T==101 ? 0xB5 : T==102 ? 0x2460 : T==103 ? 0x246A : P ? 0x21 : N&amp;2 ? H3|_Z : 0x31"/>
@@ -60,7 +60,7 @@
 			<Key at="0x58" value="T==101 ? 0x3BE : T==102 ? 0x21AE : T==103 ? 0x2295 : N&amp;2 ? 0x25C9 : 0x25CE"/>
 			<Key at="0x59" value="T==101 ? 0x3C8 : T==102 ? 0x22A2 : T==103 ? 0x22A8 : N&amp;2 ? 0x3010 : 0x3008"/>
 			<Key at="0x5A" value="T==101 ? 0x3B6 : T==102 ? 0x219A : T==103 ? 0x2220 : N&amp;2 ? 0x25A0 : 0x25A1"/>
-			<Key at="0x5B" value="T==101 ? 0x3010 : T==102 ? 0x3014 : T==103 ? 0x2600 : P ? 0x7B : H3|O_"/>
+			<Key at="0x5B" value="T==101 ? 0x3010 : T==102 ? 0x3014 : T==103 ? 0x2600 : P ? 0x7B : 0x5B"/>
 			<Key at="0x5C" value="T==101 ? 0x2252 : T==102 ? 0xB6 : T==103 ? 0xA6 : P ? 0x7C : 0x5C"/>
 			<Key at="0x5D" value="T==101 ? 0x3011 : T==102 ? 0x3015 : T==103 ? 0x2601 : P ? 0x7D : 0x5D"/>
 			<Key at="0x5E" value="T==101 ? 0x2165 : T==102 ? 0x2086 : T==103 ? 0x2076 : 0x5E"/>
@@ -490,6 +490,1144 @@
 			<Bksp key="3" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
 			<Bksp key="4" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
 		</Extra>
+		<ConvertHelper object="CCandInternal">
+			<UserCandiTable>
+				<UserCandi key="가가">
+					<Candidate data="가가호호"/>
+				</UserCandi>
+				<UserCandi key="가까">
+					<Candidate data="가까스로"/>
+				</UserCandi>
+				<UserCandi key="가끔">
+					<Candidate data="가끔가다"/>
+				</UserCandi>
+				<UserCandi key="가득">
+					<Candidate data="가득가득"/>
+				</UserCandi>
+				<UserCandi key="가뜩">
+					<Candidate data="가뜩이나"/>
+				</UserCandi>
+				<UserCandi key="가르">
+					<Candidate data="가르시아"/>
+				</UserCandi>
+				<UserCandi key="가물">
+					<Candidate data="가물가물"/>
+				</UserCandi>
+				<UserCandi key="가장">
+					<Candidate data="가장자리"/>
+				</UserCandi>
+				<UserCandi key="가지">
+					<Candidate data="가지런이"/>
+				</UserCandi>
+				<UserCandi key="갈기">
+					<Candidate data="갈기갈기"/>
+				</UserCandi>
+				<UserCandi key="갈래">
+					<Candidate data="갈래갈래"/>
+				</UserCandi>
+				<UserCandi key="갈팡">
+					<Candidate data="갈팡질팡"/>
+				</UserCandi>
+				<UserCandi key="감지">
+					<Candidate data="감지덕지"/>
+				</UserCandi>
+				<UserCandi key="감쪽">
+					<Candidate data="감쪽같이"/>
+				</UserCandi>
+				<UserCandi key="갑작">
+					<Candidate data="갑작스레"/>
+				</UserCandi>
+				<UserCandi key="거침">
+					<Candidate data="거침없이"/>
+				</UserCandi>
+				<UserCandi key="걸핏">
+					<Candidate data="걸핏하면"/>
+				</UserCandi>
+				<UserCandi key="것투">
+					<Candidate data="것투성이"/>
+				</UserCandi>
+				<UserCandi key="겨우">
+					<Candidate data="겨우겨우"/>
+				</UserCandi>
+				<UserCandi key="고등">
+					<Candidate data="고등학교"/>
+				</UserCandi>
+				<UserCandi key="고래">
+					<Candidate data="고래고래"/>
+				</UserCandi>
+				<UserCandi key="고루">
+					<Candidate data="고루고루"/>
+				</UserCandi>
+				<UserCandi key="고분">
+					<Candidate data="고분고분"/>
+				</UserCandi>
+				<UserCandi key="고사">
+					<Candidate data="고사하고"/>
+				</UserCandi>
+				<UserCandi key="고스">
+					<Candidate data="고스란히"/>
+				</UserCandi>
+				<UserCandi key="고전">
+					<Candidate data="고전주의"/>
+				</UserCandi>
+				<UserCandi key="고정">
+					<Candidate data="고정관념"/>
+				</UserCandi>
+				<UserCandi key="고즈">
+					<Candidate data="고즈넉이"/>
+				</UserCandi>
+				<UserCandi key="곤드">
+					<Candidate data="곤드레만드레"/>
+				</UserCandi>
+				<UserCandi key="곧이">
+					<Candidate data="곧이곧대로"/>
+				</UserCandi>
+				<UserCandi key="공공">
+					<Candidate data="공공연히"/>
+				</UserCandi>
+				<UserCandi key="공산">
+					<Candidate data="공산주의"/>
+				</UserCandi>
+				<UserCandi key="관계">
+					<Candidate data="관계없이"/>
+				</UserCandi>
+				<UserCandi key="교통">
+					<Candidate data="교통사고"/>
+				</UserCandi>
+				<UserCandi key="구불">
+					<Candidate data="구불구불"/>
+				</UserCandi>
+				<UserCandi key="구석">
+					<Candidate data="구석구석"/>
+				</UserCandi>
+				<UserCandi key="국무">
+					<Candidate data="국무총리"/>
+				</UserCandi>
+				<UserCandi key="국회">
+					<Candidate data="국회의원"/>
+				</UserCandi>
+				<UserCandi key="군데">
+					<Candidate data="군데군데"/>
+				</UserCandi>
+				<UserCandi key="귀신">
+					<Candidate data="귀신같이"/>
+				</UserCandi>
+				<UserCandi key="그나">
+					<Candidate data="그나저나"/>
+				</UserCandi>
+				<UserCandi key="그날">
+					<Candidate data="그날그날"/>
+				</UserCandi>
+				<UserCandi key="그냥">
+					<Candidate data="그냥저냥"/>
+				</UserCandi>
+				<UserCandi key="그때">
+					<Candidate data="그때그때"/>
+				</UserCandi>
+				<UserCandi key="그래">
+					<Candidate data="그래야지"/>
+				</UserCandi>
+				<UserCandi key="그러">
+					<Candidate data="그러니까"/>
+					<Candidate data="그러므로"/>
+				</UserCandi>
+				<UserCandi key="그럭">
+					<Candidate data="그럭저럭"/>
+				</UserCandi>
+				<UserCandi key="그런">
+					<Candidate data="그런대로"/>
+				</UserCandi>
+				<UserCandi key="그렁">
+					<Candidate data="그렁그렁"/>
+				</UserCandi>
+				<UserCandi key="그렇">
+					<Candidate data="그렇지만"/>
+				</UserCandi>
+				<UserCandi key="그리">
+					<Candidate data="그리하여"/>
+				</UserCandi>
+				<UserCandi key="그린">
+					<Candidate data="그린벨트"/>
+				</UserCandi>
+				<UserCandi key="그야">
+					<Candidate data="그야말로"/>
+				</UserCandi>
+				<UserCandi key="그제">
+					<Candidate data="그제서야"/>
+				</UserCandi>
+				<UserCandi key="그지">
+					<Candidate data="그지없이"/>
+				</UserCandi>
+				<UserCandi key="기가">
+					<Candidate data="기가바이트"/>
+				</UserCandi>
+				<UserCandi key="기껏">
+					<Candidate data="기껏해야"/>
+				</UserCandi>
+				<UserCandi key="기성">
+					<Candidate data="기성세대"/>
+				</UserCandi>
+				<UserCandi key="기웃">
+					<Candidate data="기웃기웃"/>
+				</UserCandi>
+				<UserCandi key="기탄">
+					<Candidate data="기탄없이"/>
+				</UserCandi>
+				<UserCandi key="까딱">
+					<Candidate data="까딱하면"/>
+				</UserCandi>
+				<UserCandi key="까마">
+					<Candidate data="까마득히"/>
+				</UserCandi>
+				<UserCandi key="깜짝">
+					<Candidate data="깜짝깜짝"/>
+				</UserCandi>
+				<UserCandi key="깡총">
+					<Candidate data="깡총깡총"/>
+				</UserCandi>
+				<UserCandi key="껑충">
+					<Candidate data="껑충껑충"/>
+				</UserCandi>
+				<UserCandi key="꼬박">
+					<Candidate data="꼬박꼬박"/>
+				</UserCandi>
+				<UserCandi key="꼬치">
+					<Candidate data="꼬치꼬치"/>
+				</UserCandi>
+				<UserCandi key="꼼짝">
+					<Candidate data="꼼짝없이"/>
+				</UserCandi>
+				<UserCandi key="꾸벅">
+					<Candidate data="꾸벅꾸벅"/>
+				</UserCandi>
+				<UserCandi key="꾸역">
+					<Candidate data="꾸역꾸역"/>
+				</UserCandi>
+				<UserCandi key="꿀꺽">
+					<Candidate data="꿀꺽꿀꺽"/>
+				</UserCandi>
+				<UserCandi key="꿈틀">
+					<Candidate data="꿈틀꿈틀"/>
+				</UserCandi>
+				<UserCandi key="끊임">
+					<Candidate data="끊임없이"/>
+				</UserCandi>
+				<UserCandi key="끼리">
+					<Candidate data="끼리끼리"/>
+				</UserCandi>
+				<UserCandi key="나뭇가지">
+					<Candidate data="나뭇가지"/>
+				</UserCandi>
+				<UserCandi key="나박">
+					<Candidate data="나박나박"/>
+				</UserCandi>
+				<UserCandi key="나아">
+					<Candidate data="나아가서"/>
+				</UserCandi>
+				<UserCandi key="나이트">
+					<Candidate data="나이트클럽"/>
+				</UserCandi>
+				<UserCandi key="나지">
+					<Candidate data="나지막이"/>
+				</UserCandi>
+				<UserCandi key="나풀">
+					<Candidate data="나풀나풀"/>
+				</UserCandi>
+				<UserCandi key="난데">
+					<Candidate data="난데없이"/>
+				</UserCandi>
+				<UserCandi key="남김">
+					<Candidate data="남김없이"/>
+				</UserCandi>
+				<UserCandi key="낭만">
+					<Candidate data="낭만주의"/>
+				</UserCandi>
+				<UserCandi key="너그">
+					<Candidate data="너그러이"/>
+				</UserCandi>
+				<UserCandi key="너나">
+					<Candidate data="너나없이"/>
+				</UserCandi>
+				<UserCandi key="너도">
+					<Candidate data="너도나도"/>
+				</UserCandi>
+				<UserCandi key="너부">
+					<Candidate data="너부죽이"/>
+				</UserCandi>
+				<UserCandi key="노조">
+					<Candidate data="노동조합"/>
+				</UserCandi>
+				<UserCandi key="뉘엿">
+					<Candidate data="뉘엿뉘엿"/>
+				</UserCandi>
+				<UserCandi key="느닷">
+					<Candidate data="느닷없이"/>
+				</UserCandi>
+				<UserCandi key="느릿">
+					<Candidate data="느릿느릿"/>
+				</UserCandi>
+				<UserCandi key="느티">
+					<Candidate data="느티나무"/>
+				</UserCandi>
+				<UserCandi key="다닥">
+					<Candidate data="다닥다닥"/>
+				</UserCandi>
+				<UserCandi key="다름">
+					<Candidate data="다름없이"/>
+				</UserCandi>
+				<UserCandi key="다정">
+					<Candidate data="다정스레"/>
+				</UserCandi>
+				<UserCandi key="다짜">
+					<Candidate data="다짜고짜"/>
+				</UserCandi>
+				<UserCandi key="다짜">
+					<Candidate data="다짜고짜"/>
+				</UserCandi>
+				<UserCandi key="대롱">
+					<Candidate data="대롱대롱"/>
+				</UserCandi>
+				<UserCandi key="대중">
+					<Candidate data="대중문화"/>
+				</UserCandi>
+				<UserCandi key="대충">
+					<Candidate data="대충대충"/>
+				</UserCandi>
+				<UserCandi key="더군">
+					<Candidate data="더군다나"/>
+				</UserCandi>
+				<UserCandi key="더더">
+					<Candidate data="더더구나"/>
+				</UserCandi>
+				<UserCandi key="더덕">
+					<Candidate data="더덕더덕"/>
+				</UserCandi>
+				<UserCandi key="더욱">
+					<Candidate data="더욱더욱"/>
+				</UserCandi>
+				<UserCandi key="덕지">
+					<Candidate data="덕지덕지"/>
+				</UserCandi>
+				<UserCandi key="덜렁">
+					<Candidate data="덜렁덜렁"/>
+				</UserCandi>
+				<UserCandi key="데굴">
+					<Candidate data="데굴데굴"/>
+				</UserCandi>
+				<UserCandi key="데나">
+					<Candidate data="데나리온"/>
+				</UserCandi>
+				<UserCandi key="데시">
+					<Candidate data="데시리터"/>
+				</UserCandi>
+				<UserCandi key="데이터">
+					<Candidate data="데이터베이스"/>
+				</UserCandi>
+				<UserCandi key="도란">
+					<Candidate data="도란도란"/>
+				</UserCandi>
+				<UserCandi key="돼지">
+					<Candidate data="돼지고기"/>
+				</UserCandi>
+				<UserCandi key="되는">
+					<Candidate data="되는대로"/>
+				</UserCandi>
+				<UserCandi key="두고">
+					<Candidate data="두고두고"/>
+				</UserCandi>
+				<UserCandi key="두근">
+					<Candidate data="두근두근"/>
+				</UserCandi>
+				<UserCandi key="두서">
+					<Candidate data="두서없이"/>
+				</UserCandi>
+				<UserCandi key="뒤뚱">
+					<Candidate data="뒤뚱뒤뚱"/>
+				</UserCandi>
+				<UserCandi key="드문">
+					<Candidate data="드문드문"/>
+				</UserCandi>
+				<UserCandi key="들쭉">
+					<Candidate data="들쭉날쭉"/>
+				</UserCandi>
+				<UserCandi key="듬성">
+					<Candidate data="듬성듬성"/>
+				</UserCandi>
+				<UserCandi key="디피">
+					<Candidate data="디피아이"/>
+				</UserCandi>
+				<UserCandi key="따끈">
+					<Candidate data="따끈따끈"/>
+				</UserCandi>
+				<UserCandi key="따끔">
+					<Candidate data="따끔따끔"/>
+				</UserCandi>
+				<UserCandi key="따로">
+					<Candidate data="따로따로"/>
+				</UserCandi>
+				<UserCandi key="딸랑">
+					<Candidate data="딸랑딸랑"/>
+				</UserCandi>
+				<UserCandi key="또박">
+					<Candidate data="또박또박"/>
+				</UserCandi>
+				<UserCandi key="똑딱">
+					<Candidate data="똑딱똑딱"/>
+				</UserCandi>
+				<UserCandi key="뚜벅">
+					<Candidate data="뚜벅뚜벅"/>
+				</UserCandi>
+				<UserCandi key="뜬금">
+					<Candidate data="뜬금없이"/>
+				</UserCandi>
+				<UserCandi key="띄엄">
+					<Candidate data="띄엄띄엄"/>
+				</UserCandi>
+				<UserCandi key="르네">
+					<Candidate data="르네상스"/>
+				</UserCandi>
+				<UserCandi key="리얼">
+					<Candidate data="리얼리즘"/>
+				</UserCandi>
+				<UserCandi key="마구">
+					<Candidate data="마구마구"/>
+				</UserCandi>
+				<UserCandi key="마르">
+					<Candidate data="마르크스주의"/>
+				</UserCandi>
+				<UserCandi key="마음">
+					<Candidate data="마음가짐"/>
+					<Candidate data="마음대로"/>
+				</UserCandi>
+				<UserCandi key="마이크로">
+					<Candidate data="마이크로그램"/>
+				</UserCandi>
+				<UserCandi key="마찬">
+					<Candidate data="마찬가지"/>
+				</UserCandi>
+				<UserCandi key="만날">
+					<Candidate data="만날만날"/>
+				</UserCandi>
+				<UserCandi key="말끄">
+					<Candidate data="말끄러미"/>
+				</UserCandi>
+				<UserCandi key="말똥">
+					<Candidate data="말똥말똥"/>
+				</UserCandi>
+				<UserCandi key="매일">
+					<Candidate data="매일매일"/>
+				</UserCandi>
+				<UserCandi key="머리">
+					<Candidate data="머리카락"/>
+				</UserCandi>
+				<UserCandi key="멀뚱">
+					<Candidate data="멀뚱멀뚱"/>
+				</UserCandi>
+				<UserCandi key="멀리">
+					<Candidate data="멀리멀리"/>
+				</UserCandi>
+				<UserCandi key="멀찌">
+					<Candidate data="멀찌감치"/>
+				</UserCandi>
+				<UserCandi key="메가바">
+					<Candidate data="메가바이트"/>
+				</UserCandi>
+				<UserCandi key="메가비">
+					<Candidate data="메가비피에스"/>
+				</UserCandi>
+				<UserCandi key="메가헤">
+					<Candidate data="메가헤르츠"/>
+				</UserCandi>
+				<UserCandi key="모더">
+					<Candidate data="모더니즘"/>
+				</UserCandi>
+				<UserCandi key="모두">
+					<Candidate data="모두모두"/>
+				</UserCandi>
+				<UserCandi key="모락">
+					<Candidate data="모락모락"/>
+				</UserCandi>
+				<UserCandi key="모름">
+					<Candidate data="모름지기"/>
+				</UserCandi>
+				<UserCandi key="무럭">
+					<Candidate data="무럭무럭"/>
+				</UserCandi>
+				<UserCandi key="무턱">
+					<Candidate data="무턱대고"/>
+				</UserCandi>
+				<UserCandi key="문제">
+					<Candidate data="문제없이"/>
+				</UserCandi>
+				<UserCandi key="물끄">
+					<Candidate data="물끄러미"/>
+				</UserCandi>
+				<UserCandi key="미리">
+					<Candidate data="미리미리"/>
+				</UserCandi>
+				<UserCandi key="미주">
+					<Candidate data="미주알고주알"/>
+				</UserCandi>
+				<UserCandi key="미터퍼">
+					<Candidate data="미터퍼세크"/>
+				</UserCandi>
+				<UserCandi key="민족">
+					<Candidate data="민족주의"/>
+				</UserCandi>
+				<UserCandi key="민주">
+					<Candidate data="민주주의"/>
+				</UserCandi>
+				<UserCandi key="밀리">
+					<Candidate data="밀리미터"/>
+					<Candidate data="밀리그램"/>
+				</UserCandi>
+				<UserCandi key="밀리리">
+					<Candidate data="밀리리터들이"/>
+				</UserCandi>
+				<UserCandi key="바들">
+					<Candidate data="바들바들"/>
+				</UserCandi>
+				<UserCandi key="바로">
+					<Candidate data="바로바로"/>
+				</UserCandi>
+				<UserCandi key="바른">
+					<Candidate data="바른대로"/>
+				</UserCandi>
+				<UserCandi key="바야">
+					<Candidate data="바야흐로"/>
+				</UserCandi>
+				<UserCandi key="바이올린">
+					<Candidate data="바이올린"/>
+				</UserCandi>
+				<UserCandi key="바짝">
+					<Candidate data="바짝바짝"/>
+				</UserCandi>
+				<UserCandi key="반짝">
+					<Candidate data="반짝반짝"/>
+				</UserCandi>
+				<UserCandi key="발그">
+					<Candidate data="발그스레"/>
+				</UserCandi>
+				<UserCandi key="버럭">
+					<Candidate data="버럭버럭"/>
+				</UserCandi>
+				<UserCandi key="벌컥">
+					<Candidate data="벌컥벌컥"/>
+				</UserCandi>
+				<UserCandi key="변함">
+					<Candidate data="변함없이"/>
+				</UserCandi>
+				<UserCandi key="보글">
+					<Candidate data="보글보글"/>
+				</UserCandi>
+				<UserCandi key="부글">
+					<Candidate data="부글부글"/>
+				</UserCandi>
+				<UserCandi key="부들">
+					<Candidate data="부들부들"/>
+				</UserCandi>
+				<UserCandi key="부랴">
+					<Candidate data="부랴부랴"/>
+				</UserCandi>
+				<UserCandi key="부리">
+					<Candidate data="부리나케"/>
+				</UserCandi>
+				<UserCandi key="부스">
+					<Candidate data="부스럭부스럭"/>
+				</UserCandi>
+				<UserCandi key="부슬">
+					<Candidate data="부슬부슬"/>
+				</UserCandi>
+				<UserCandi key="부정">
+					<Candidate data="부정부패"/>
+				</UserCandi>
+				<UserCandi key="불쑥">
+					<Candidate data="불쑥불쑥"/>
+				</UserCandi>
+				<UserCandi key="비스">
+					<Candidate data="비스듬히"/>
+				</UserCandi>
+				<UserCandi key="비실">
+					<Candidate data="비실비실"/>
+				</UserCandi>
+				<UserCandi key="비트플">
+					<Candidate data="비트플레인"/>
+				</UserCandi>
+				<UserCandi key="비틀">
+					<Candidate data="비틀비틀"/>
+				</UserCandi>
+				<UserCandi key="빈틈">
+					<Candidate data="빈틈없이"/>
+				</UserCandi>
+				<UserCandi key="빙그">
+					<Candidate data="빙그르르"/>
+				</UserCandi>
+				<UserCandi key="빠작">
+					<Candidate data="빠작빠작"/>
+				</UserCandi>
+				<UserCandi key="빠짐">
+					<Candidate data="빠짐없이"/>
+				</UserCandi>
+				<UserCandi key="빨리">
+					<Candidate data="빨리빨리"/>
+				</UserCandi>
+				<UserCandi key="사고">
+					<Candidate data="사고방식"/>
+				</UserCandi>
+				<UserCandi key="사무">
+					<Candidate data="사무총장"/>
+				</UserCandi>
+				<UserCandi key="사뿐">
+					<Candidate data="사뿐사뿐"/>
+				</UserCandi>
+				<UserCandi key="사사">
+					<Candidate data="사사건건"/>
+				</UserCandi>
+				<UserCandi key="사정">
+					<Candidate data="사정없이"/>
+				</UserCandi>
+				<UserCandi key="살그">
+					<Candidate data="살그머니"/>
+				</UserCandi>
+				<UserCandi key="살금">
+					<Candidate data="살금살금"/>
+				</UserCandi>
+				<UserCandi key="살랑">
+					<Candidate data="살랑살랑"/>
+				</UserCandi>
+				<UserCandi key="상관">
+					<Candidate data="상관없이"/>
+				</UserCandi>
+				<UserCandi key="새록">
+					<Candidate data="새록새록"/>
+				</UserCandi>
+				<UserCandi key="새삼">
+					<Candidate data="새삼스레"/>
+				</UserCandi>
+				<UserCandi key="샌드">
+					<Candidate data="샌드위치"/>
+				</UserCandi>
+				<UserCandi key="생글">
+					<Candidate data="생글생글"/>
+				</UserCandi>
+				<UserCandi key="생산">
+					<Candidate data="생산관계"/>
+				</UserCandi>
+				<UserCandi key="서로">
+					<Candidate data="서로서로"/>
+				</UserCandi>
+				<UserCandi key="석유환">
+					<Candidate data="석유환산톤"/>
+				</UserCandi>
+				<UserCandi key="설레">
+					<Candidate data="설레설레"/>
+				</UserCandi>
+				<UserCandi key="성큼">
+					<Candidate data="성큼성큼"/>
+				</UserCandi>
+				<UserCandi key="세제곱">
+					<Candidate data="세제곱미터"/>
+					<Candidate data="세제곱센티미터"/>
+				</UserCandi>
+				<UserCandi key="센티">
+					<Candidate data="센티미터"/>
+				</UserCandi>
+				<UserCandi key="소프">
+					<Candidate data="소프트웨어"/>
+				</UserCandi>
+				<UserCandi key="속속">
+					<Candidate data="속속들이"/>
+				</UserCandi>
+				<UserCandi key="송두">
+					<Candidate data="송두리째"/>
+				</UserCandi>
+				<UserCandi key="순간">
+					<Candidate data="순간순간"/>
+				</UserCandi>
+				<UserCandi key="숨김">
+					<Candidate data="숨김없이"/>
+				</UserCandi>
+				<UserCandi key="스스">
+					<Candidate data="스스럼없이"/>
+				</UserCandi>
+				<UserCandi key="스튜">
+					<Candidate data="스튜디오"/>
+				</UserCandi>
+				<UserCandi key="스트">
+					<Candidate data="스트레스"/>
+				</UserCandi>
+				<UserCandi key="슬그">
+					<Candidate data="슬그머니"/>
+				</UserCandi>
+				<UserCandi key="슬금">
+					<Candidate data="슬금슬금"/>
+				</UserCandi>
+				<UserCandi key="시나">
+					<Candidate data="시나리오"/>
+				</UserCandi>
+				<UserCandi key="시시">
+					<Candidate data="시시콜콜"/>
+				</UserCandi>
+				<UserCandi key="시원">
+					<Candidate data="시원스레"/>
+				</UserCandi>
+				<UserCandi key="신혼">
+					<Candidate data="신혼여행"/>
+				</UserCandi>
+				<UserCandi key="싱글">
+					<Candidate data="싱글벙글"/>
+				</UserCandi>
+				<UserCandi key="쏜살">
+					<Candidate data="쏜살같이"/>
+				</UserCandi>
+				<UserCandi key="쓸데">
+					<Candidate data="쓸데없이"/>
+				</UserCandi>
+				<UserCandi key="아낌">
+					<Candidate data="아낌없이"/>
+				</UserCandi>
+				<UserCandi key="아나">
+					<Candidate data="아나운서"/>
+				</UserCandi>
+				<UserCandi key="아랑">
+					<Candidate data="아랑곳없이"/>
+				</UserCandi>
+				<UserCandi key="아무">
+					<Candidate data="아무쪼록"/>
+				</UserCandi>
+				<UserCandi key="아스">
+					<Candidate data="아스라이"/>
+				</UserCandi>
+				<UserCandi key="아이">
+					<Candidate data="아이디어"/>
+				</UserCandi>
+				<UserCandi key="아장">
+					<Candidate data="아장아장"/>
+				</UserCandi>
+				<UserCandi key="아주">
+					<Candidate data="아주머니"/>
+					<Candidate data="아주아주"/>
+				</UserCandi>
+				<UserCandi key="악착">
+					<Candidate data="악착같이"/>
+				</UserCandi>
+				<UserCandi key="안절">
+					<Candidate data="안절부절"/>
+				</UserCandi>
+				<UserCandi key="알뜰">
+					<Candidate data="알뜰살뜰"/>
+				</UserCandi>
+				<UserCandi key="알루">
+					<Candidate data="알루미늄"/>
+				</UserCandi>
+				<UserCandi key="알바">
+					<Candidate data="아르바이트"/>
+				</UserCandi>
+				<UserCandi key="애니">
+					<Candidate data="애니메이션"/>
+				</UserCandi>
+				<UserCandi key="어김">
+					<Candidate data="어김없이"/>
+				</UserCandi>
+				<UserCandi key="어렴">
+					<Candidate data="어렴풋이"/>
+				</UserCandi>
+				<UserCandi key="어렵">
+					<Candidate data="어렵사리"/>
+				</UserCandi>
+				<UserCandi key="어린">
+					<Candidate data="어린아이"/>
+				</UserCandi>
+				<UserCandi key="어슬">
+					<Candidate data="어슬렁어슬렁"/>
+				</UserCandi>
+				<UserCandi key="어지">
+					<Candidate data="어지간히"/>
+				</UserCandi>
+				<UserCandi key="어쩌">
+					<Candidate data="어쩌고저쩌고"/>
+				</UserCandi>
+				<UserCandi key="어쩌">
+					<Candidate data="어쩌다가"/>
+				</UserCandi>
+				<UserCandi key="언뜻">
+					<Candidate data="언뜻언뜻"/>
+				</UserCandi>
+				<UserCandi key="얼기">
+					<Candidate data="얼기설기"/>
+				</UserCandi>
+				<UserCandi key="얼렁">
+					<Candidate data="얼렁뚱땅"/>
+				</UserCandi>
+				<UserCandi key="엉거">
+					<Candidate data="엉거주춤"/>
+				</UserCandi>
+				<UserCandi key="엉겁">
+					<Candidate data="엉겁결에"/>
+				</UserCandi>
+				<UserCandi key="엉금">
+					<Candidate data="엉금엉금"/>
+				</UserCandi>
+				<UserCandi key="엘베">
+					<Candidate data="엘리베이터"/>
+				</UserCandi>
+				<UserCandi key="여기">
+					<Candidate data="여기저기"/>
+				</UserCandi>
+				<UserCandi key="여러">
+					<Candidate data="여러모로"/>
+				</UserCandi>
+				<UserCandi key="여지">
+					<Candidate data="여지없이"/>
+				</UserCandi>
+				<UserCandi key="영락">
+					<Candidate data="영락없이"/>
+				</UserCandi>
+				<UserCandi key="오들">
+					<Candidate data="오들오들"/>
+				</UserCandi>
+				<UserCandi key="오래">
+					<Candidate data="오래간만"/>
+					<Candidate data="오래도록"/>
+					<Candidate data="오래오래"/>
+				</UserCandi>
+				<UserCandi key="오랫">
+					<Candidate data="오랫동안"/>
+				</UserCandi>
+				<UserCandi key="오순">
+					<Candidate data="오순도순"/>
+				</UserCandi>
+				<UserCandi key="오죽">
+					<Candidate data="오죽이나"/>
+				</UserCandi>
+				<UserCandi key="옥신">
+					<Candidate data="옥신각신"/>
+				</UserCandi>
+				<UserCandi key="온데">
+					<Candidate data="온데간데없이"/>
+				</UserCandi>
+				<UserCandi key="옹기">
+					<Candidate data="옹기종기"/>
+				</UserCandi>
+				<UserCandi key="와글">
+					<Candidate data="와글와글"/>
+				</UserCandi>
+				<UserCandi key="와들">
+					<Candidate data="와들와들"/>
+				</UserCandi>
+				<UserCandi key="왔다">
+					<Candidate data="왔다갔다"/>
+				</UserCandi>
+				<UserCandi key="왜냐">
+					<Candidate data="왜냐하면"/>
+				</UserCandi>
+				<UserCandi key="요리">
+					<Candidate data="요리조리"/>
+				</UserCandi>
+				<UserCandi key="우두">
+					<Candidate data="우두커니"/>
+				</UserCandi>
+				<UserCandi key="우물">
+					<Candidate data="우물우물"/>
+				</UserCandi>
+				<UserCandi key="유감">
+					<Candidate data="유감없이"/>
+				</UserCandi>
+				<UserCandi key="유례">
+					<Candidate data="유례없이"/>
+				</UserCandi>
+				<UserCandi key="은행">
+					<Candidate data="은행나무"/>
+				</UserCandi>
+				<UserCandi key="이것">
+					<Candidate data="이것저것"/>
+				</UserCandi>
+				<UserCandi key="이글">
+					<Candidate data="이글이글"/>
+				</UserCandi>
+				<UserCandi key="이데">
+					<Candidate data="이데올로기"/>
+				</UserCandi>
+				<UserCandi key="이래">
+					<Candidate data="이래야만"/>
+					<Candidate data="이래저래"/>
+				</UserCandi>
+				<UserCandi key="이러">
+					<Candidate data="이러쿵저러쿵"/>
+				</UserCandi>
+				<UserCandi key="이를">
+					<Candidate data="이를테면"/>
+				</UserCandi>
+				<UserCandi key="이리">
+					<Candidate data="이리저리"/>
+					<Candidate data="이리하여"/>
+				</UserCandi>
+				<UserCandi key="이만">
+					<Candidate data="이만저만"/>
+				</UserCandi>
+				<UserCandi key="이산화탄소">
+					<Candidate data="이산화탄소"/>
+				</UserCandi>
+				<UserCandi key="이왕">
+					<Candidate data="이왕이면"/>
+				</UserCandi>
+				<UserCandi key="이해">
+					<Candidate data="이해관계"/>
+				</UserCandi>
+				<UserCandi key="인간">
+					<Candidate data="인간관계"/>
+				</UserCandi>
+				<UserCandi key="인스">
+					<Candidate data="인스턴트"/>
+				</UserCandi>
+				<UserCandi key="인신">
+					<Candidate data="인신매매"/>
+				</UserCandi>
+				<UserCandi key="일상">
+					<Candidate data="일상생활"/>
+				</UserCandi>
+				<UserCandi key="일찌">
+					<Candidate data="일찌감치"/>
+				</UserCandi>
+				<UserCandi key="임진">
+					<Candidate data="임진왜란"/>
+				</UserCandi>
+				<UserCandi key="자그">
+					<Candidate data="자그마치"/>
+				</UserCandi>
+				<UserCandi key="자꾸">
+					<Candidate data="자꾸자꾸"/>
+				</UserCandi>
+				<UserCandi key="자본">
+					<Candidate data="자본주의"/>
+				</UserCandi>
+				<UserCandi key="자연">
+					<Candidate data="자연주의"/>
+					<Candidate data="자연환경"/>
+					<Candidate data="자연법칙"/>
+					<Candidate data="자연현상"/>
+					<Candidate data="자연스레"/>
+				</UserCandi>
+				<UserCandi key="저벅">
+					<Candidate data="저벅저벅"/>
+				</UserCandi>
+				<UserCandi key="절레">
+					<Candidate data="절레절레"/>
+				</UserCandi>
+				<UserCandi key="점심">
+					<Candidate data="점심시간"/>
+				</UserCandi>
+				<UserCandi key="정성">
+					<Candidate data="정성스레"/>
+				</UserCandi>
+				<UserCandi key="정신">
+					<Candidate data="정신없이"/>
+				</UserCandi>
+				<UserCandi key="제곱">
+					<Candidate data="제곱미터"/>
+					<Candidate data="제곱킬로미터"/>
+					<Candidate data="제곱센티미터"/>
+				</UserCandi>
+				<UserCandi key="제국">
+					<Candidate data="제국주의"/>
+				</UserCandi>
+				<UserCandi key="제멋">
+					<Candidate data="제멋대로"/>
+				</UserCandi>
+				<UserCandi key="제아">
+					<Candidate data="제아무리"/>
+				</UserCandi>
+				<UserCandi key="조각">
+					<Candidate data="조각조각"/>
+				</UserCandi>
+				<UserCandi key="조몰">
+					<Candidate data="조몰락조몰락"/>
+				</UserCandi>
+				<UserCandi key="조심">
+					<Candidate data="조심스레"/>
+					<Candidate data="조심조심"/>
+				</UserCandi>
+				<UserCandi key="주렁">
+					<Candidate data="주렁주렁"/>
+				</UserCandi>
+				<UserCandi key="주룩">
+					<Candidate data="주룩주룩"/>
+				</UserCandi>
+				<UserCandi key="주섬">
+					<Candidate data="주섬주섬"/>
+				</UserCandi>
+				<UserCandi key="주춤">
+					<Candidate data="주춤주춤"/>
+				</UserCandi>
+				<UserCandi key="중계">
+					<Candidate data="중계방송"/>
+				</UserCandi>
+				<UserCandi key="중소">
+					<Candidate data="중소기업"/>
+				</UserCandi>
+				<UserCandi key="질겅">
+					<Candidate data="질겅질겅"/>
+				</UserCandi>
+				<UserCandi key="찔금">
+					<Candidate data="찔금찔금"/>
+				</UserCandi>
+				<UserCandi key="차곡">
+					<Candidate data="차곡차곡"/>
+				</UserCandi>
+				<UserCandi key="차근">
+					<Candidate data="차근차근"/>
+				</UserCandi>
+				<UserCandi key="차례">
+					<Candidate data="차례차례"/>
+				</UserCandi>
+				<UserCandi key="차일">
+					<Candidate data="차일피일"/>
+				</UserCandi>
+				<UserCandi key="차츰">
+					<Candidate data="차츰차츰"/>
+				</UserCandi>
+				<UserCandi key="철두">
+					<Candidate data="철두철미"/>
+				</UserCandi>
+				<UserCandi key="철석">
+					<Candidate data="철석겉이"/>
+				</UserCandi>
+				<UserCandi key="커뮤">
+					<Candidate data="커뮤니케이션"/>
+				</UserCandi>
+				<UserCandi key="콤플">
+					<Candidate data="콤플렉스"/>
+				</UserCandi>
+				<UserCandi key="킬로">
+					<Candidate data="킬로미터"/>
+					<Candidate data="킬로그램"/>
+					<Candidate data="킬로와트"/>
+					<Candidate data="킬로칼로리"/>
+					<Candidate data="킬로비트"/>
+				</UserCandi>
+				<UserCandi key="킬로바">
+					<Candidate data="킬로바이트"/>
+				</UserCandi>
+				<UserCandi key="킬로헤">
+					<Candidate data="킬로헤르츠"/>
+				</UserCandi>
+				<UserCandi key="터덜">
+					<Candidate data="터덜터덜"/>
+				</UserCandi>
+				<UserCandi key="터무">
+					<Candidate data="터무니없이"/>
+				</UserCandi>
+				<UserCandi key="터벅">
+					<Candidate data="터벅터벅"/>
+				</UserCandi>
+				<UserCandi key="텔레">
+					<Candidate data="텔레비전"/>
+				</UserCandi>
+				<UserCandi key="틀림">
+					<Candidate data="틀림없이"/>
+				</UserCandi>
+				<UserCandi key="팔짝">
+					<Candidate data="팔짝팔짝"/>
+				</UserCandi>
+				<UserCandi key="펄쩍">
+					<Candidate data="펄쩍펄쩍"/>
+				</UserCandi>
+				<UserCandi key="평방">
+					<Candidate data="평방미터"/>
+				</UserCandi>
+				<UserCandi key="포장">
+					<Candidate data="포장마차"/>
+				</UserCandi>
+				<UserCandi key="푸실">
+					<Candidate data="푸실푸실"/>
+				</UserCandi>
+				<UserCandi key="프로">
+					<Candidate data="프로그램"/>
+				</UserCandi>
+				<UserCandi key="플라">
+					<Candidate data="플라스틱"/>
+				</UserCandi>
+				<UserCandi key="하나">
+					<Candidate data="하나하나"/>
+					<Candidate data="하나같이"/>
+				</UserCandi>
+				<UserCandi key="하다">
+					<Candidate data="하다못해"/>
+				</UserCandi>
+				<UserCandi key="하드">
+					<Candidate data="하드웨어"/>
+				</UserCandi>
+				<UserCandi key="하루">
+					<Candidate data="하루빨리"/>
+					<Candidate data="하루속히"/>
+					<Candidate data="하루하루"/>
+				</UserCandi>
+				<UserCandi key="하릴">
+					<Candidate data="하릴없이"/>
+				</UserCandi>
+				<UserCandi key="하마">
+					<Candidate data="하마터면"/>
+				</UserCandi>
+				<UserCandi key="하염">
+					<Candidate data="하염없이"/>
+				</UserCandi>
+				<UserCandi key="한가">
+					<Candidate data="한가운데"/>
+					<Candidate data="한가로이"/>
+				</UserCandi>
+				<UserCandi key="한결">
+					<Candidate data="한결같이"/>
+				</UserCandi>
+				<UserCandi key="한꺼">
+					<Candidate data="한꺼번에"/>
+				</UserCandi>
+				<UserCandi key="할아">
+					<Candidate data="할아버지"/>
+				</UserCandi>
+				<UserCandi key="허겁">
+					<Candidate data="허겁지겁"/>
+				</UserCandi>
+				<UserCandi key="허둥">
+					<Candidate data="허둥지둥"/>
+				</UserCandi>
+				<UserCandi key="헐레">
+					<Candidate data="헐레벌떡"/>
+				</UserCandi>
+				<UserCandi key="헤게">
+					<Candidate data="헤게모니"/>
+				</UserCandi>
+				<UserCandi key="형편">
+					<Candidate data="형편없이"/>
+				</UserCandi>
+				<UserCandi key="호주">
+					<Candidate data="호주머니"/>
+				</UserCandi>
+				<UserCandi key="화학">
+					<Candidate data="화학조미료"/>
+				</UserCandi>
+				<UserCandi key="환경">
+					<Candidate data="환경오염"/>
+				</UserCandi>
+				<UserCandi key="후들">
+					<Candidate data="후들후들"/>
+				</UserCandi>
+				<UserCandi key="후춧">
+					<Candidate data="후춧가루"/>
+				</UserCandi>
+				<UserCandi key="훌쩍">
+					<Candidate data="훌쩍훌쩍"/>
+				</UserCandi>
+				<UserCandi key="흐지">
+					<Candidate data="흐지부지"/>
+				</UserCandi>
+				<UserCandi key="희끗">
+					<Candidate data="희끗희끗"/>
+				</UserCandi>
+				<UserCandi key="힐끔">
+					<Candidate data="힐끔힐끔"/>
+				</UserCandi>
+			</UserCandiTable>
+		</ConvertHelper>
 		<UserCompoTable>
 			<UserCompo state="0" key="0x3E" newstate="2" interim="&gt;"/>
 			<UserCompo state="0" key="0x2015" newstate="18" interim="―"/>
@@ -829,6 +1967,7 @@
 			<HanSubst from="ᄂᆡ" to="내는 "/>
 			<HanSubst from="ᄂᆢ" to="느냐? "/>
 			<HanSubst from="ᄂᆢᆼ" to="그냥 "/>
+			<HanSubst from="ᄕᅠ" to=", "/>
 			<HanSubst from="ᄕᅠᆫ" to="는데"/>
 			<HanSubst from="ᄕᅠᆺ" to="인터넷"/>
 			<HanSubst from="ᄕᅠᆼ" to="노동"/>
@@ -925,7 +2064,7 @@
 			<HanSubst from="ᅞᅠᆨ" to="도록 "/>
 			<HanSubst from="ᅞᅠᆯ" to="달리"/>
 			<HanSubst from="ᅞᅠᆼ" to="대통령"/>
-			<HanSubst from="ᅞᅡ" to="따라 "/>
+			<HanSubst from="ᅞᅡ" to="따라"/>
 			<HanSubst from="ᅞᅡᆯ" to="달라"/>
 			<HanSubst from="ᅞᅢ" to="대로 "/>
 			<HanSubst from="ᅞᅤ" to="고려"/>
@@ -1213,6 +2352,7 @@
 			<HanSubst from="ᅵ" to="마치 "/>
 			<HanSubst from="ᅵᆫ" to="민주"/>
 			<HanSubst from="ᅵᆯ" to="질문"/>
+			<HanSubst from="ᄝᅠ" to="? "/>
 			<HanSubst from="ᄝᅠᆫ" to="논문"/>
 			<HanSubst from="ᄝᅠᆯ" to="눈물"/>
 			<HanSubst from="ᄝᅠᆼ" to="농민"/>
@@ -1278,6 +2418,7 @@
 			<HanSubst from="ᄞᅵᆼ" to="비행기"/>
 			<HanSubst from="ᄞᆘ" to="카페"/>
 			<HanSubst from="ᄞᆞᆨ" to="비극"/>
+			<HanSubst from="ᄠᅠ" to=". "/>
 			<HanSubst from="ᄠᅠᆨ" to="특별"/>
 			<HanSubst from="ᄠᅠᆫ" to="대부분"/>
 			<HanSubst from="ᄠᅠᆯ" to="발달"/>
@@ -1291,10 +2432,10 @@
 			<HanSubst from="ᄠᅢᆫ" to="반대"/>
 			<HanSubst from="ᄠᅢᆼ" to="상대방"/>
 			<HanSubst from="ᄠᅥ" to="퍼센트"/>
-			<HanSubst from="ᄠᅨ" to="도 불구하고 "/>
 			<HanSubst from="ᄠᅩ" to="보다 "/>
 			<HanSubst from="ᄠᅩᆭ" to="부동산"/>
 			<HanSubst from="ᄠᅩᆼ" to="보통"/>
+			<HanSubst from="ᄠᅪ" to="도 불구하고 "/>
 			<HanSubst from="ᄠᅪᆫ" to="반도"/>
 			<HanSubst from="ᄠᅬ" to="비디오"/>
 			<HanSubst from="ᄠᅭ" to="대표"/>
@@ -1413,8 +2554,8 @@
 			<HanSubst from="ᄉᅠᆯ" to="사실"/>
 			<HanSubst from="ᄉᅠᆷ" to="사람"/>
 			<HanSubst from="ᄉᅠᆸ" to="습니다. "/>
-			<HanSubst from="ᄉᅠᆹ" to="수 없"/>
-			<HanSubst from="ᄉᅠᆺ" to="수 있"/>
+			<HanSubst from="ᄉᅠᆹ" to=" 수 없"/>
+			<HanSubst from="ᄉᅠᆺ" to=" 수 있"/>
 			<HanSubst from="ᄉᅠᆼ" to="세상"/>
 			<HanSubst from="ᄉᅠᇁ" to="싶은 "/>
 			<HanSubst from="ᄉᆉ" to="수사"/>
@@ -1502,6 +2643,7 @@
 			<HanSubst from="ᄮᅴ" to="시는 "/>
 			<HanSubst from="ᄮᅵ" to="시내"/>
 			<HanSubst from="ᄮᅵᆯ" to="실내"/>
+			<HanSubst from="ᄯᅠ" to="! "/>
 			<HanSubst from="ᄯᅠᆨ" to="세력"/>
 			<HanSubst from="ᄯᅠᆫ" to="신라"/>
 			<HanSubst from="ᄯᅠᆸ" to="스럽"/>
@@ -1827,7 +2969,7 @@
 			<HanSubst from="ᄌᅠᇂ" to="좋아"/>
 			<HanSubst from="저ᇻ" to="직접적"/>
 			<HanSubst from="조ᇻ" to="접촉"/>
-			<HanSubst from="ᄌᆉ" to="자주"/>
+			<HanSubst from="ᄌᆉ" to="자주 "/>
 			<HanSubst from="ᄌᆉᆫ" to="전문가"/>
 			<HanSubst from="ᄌᆉᆯ" to="자율"/>
 			<HanSubst from="ᄌᆉᆼ" to="주장"/>
