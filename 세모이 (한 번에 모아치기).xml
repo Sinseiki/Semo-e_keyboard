@@ -15,7 +15,7 @@
 			<Key at="0x2B" value="T==101 ? 0x216B : T==102 ? 0x208A : T==103 ? 0x207A : 0x2B"/>
 			<Key at="0x2C" value="T==101 ? 0x326A : T==102 ? 0x3008 : T==103 ? 0x300A : P ? 0x3C : 0x2C"/>
 			<Key at="0x2D" value="T==101 ? 0xB1 : T==102 ? 0x2642 : T==103 ? 0x2602 : P ? 0x5F : 0x2D"/>
-			<Key at="0x2E" value="T==101 ? 0x3269 : T==102 ? 0x3009 : T==103 ? 0x300B : P ? 0x3E : H3|O_"/>
+			<Key at="0x2E" value="T==101 ? 0x3269 : T==102 ? 0x3009 : T==103 ? 0x300B : P ? 0x3E : H3|0x1F40000"/>
 			<Key at="0x2F" value="T==101 ? 0x2F : T==102 ? 0x203B : T==103 ? 0x2620 : P ? 0x3F : 0x2F"/>
 			<Key at="0x30" value="T==101 ? 0xA7 : T==102 ? 0x2469 : T==103 ? 0x2473 : P ? 0x29 : N&amp;2 ? H3|BS : 0x30"/>
 			<Key at="0x31" value="T==101 ? 0xB5 : T==102 ? 0x2460 : T==103 ? 0x246A : P ? 0x21 : N&amp;2 ? H3|_Z : 0x31"/>
@@ -39,27 +39,27 @@
 			<Key at="0x43" value="T==101 ? 0x3C7 : T==102 ? 0x219B : T==103 ? 0x2297 : N&amp;2 ? 0x25C1 : 0x300C"/>
 			<Key at="0x44" value="T==101 ? 0x3B4 : T==102 ? 0x2206 : T==103 ? 0x2207 : N&amp;2 ? 0x21E8 : 0x2192"/>
 			<Key at="0x45" value="T==101 ? 0x3B5 : T==102 ? 0x2203 : T==103 ? 0x2204 : N&amp;2 ? 0x2665 : 0x2661"/>
-			<Key at="0x46" value="T==101 ? 0x3C6 : T==102 ? 0x3D5 : T==103 ? 0x2205 : N&amp;2 ? 0x25CF : 0x25CB"/>
-			<Key at="0x47" value="T==101 ? 0x3B3 : T==102 ? 0x393 : T==103 ? 0x222B : N&amp;2 ? 0x260E : 0xD7"/>
-			<Key at="0x48" value="T==101 ? 0x3B7 : T==102 ? 0x2610 : T==103 ? 0x2611 : N&amp;2 ? 0xA7 : 0x2026"/>
-			<Key at="0x49" value="T==101 ? 0x3B9 : T==102 ? 0x2229 : T==103 ? 0x221E : N&amp;2 ? 0x261E : 0x2015"/>
+			<Key at="0x46" value="T==101 ? 0x3C6 : T==102 ? 0x3D5 : T==103 ? 0x2205 : N&amp;2 ? 0x25B2 : 0x25B3"/>
+			<Key at="0x47" value="T==101 ? 0x3B3 : T==102 ? 0x393 : T==103 ? 0x222B : N&amp;2 ? 0x25BC : 0x25BD"/>
+			<Key at="0x48" value="T==101 ? 0x3B7 : T==102 ? 0x2610 : T==103 ? 0x2611 : N&amp;2 ? 0x25A0 : 0x25A1"/>
+			<Key at="0x49" value="T==101 ? 0x3B9 : T==102 ? 0x2229 : T==103 ? 0x221E : N&amp;2 ? 0x3010 : 0x3008"/>
 			<Key at="0x4A" value="T==101 ? 0x25CC : T==102 ? 0x2228 : T==103 ? 0x2235 : C1|100"/>
-			<Key at="0x4B" value="T==101 ? 0x3BA : T==102 ? 0x2227 : T==103 ? 0x2234 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2032 : 0xB7"/>
-			<Key at="0x4C" value="T==101 ? 0x3BB : T==102 ? 0x21B2 : T==103 ? 0x2B10 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0x3B"/>
-			<Key at="0x4D" value="T==101 ? 0x3BC : T==102 ? 0x2287 : T==103 ? 0x228B : N&amp;2 ? 0x25B6 : 0x300F"/>
-			<Key at="0x4E" value="T==101 ? 0x3BD : T==102 ? 0x2286 : T==103 ? 0x228A : N&amp;2 ? 0x25C0 : 0x300E"/>
-			<Key at="0x4F" value="T==101 ? 0x3BF : T==102 ? 0x21B0 : T==103 ? 0x2B11 : N&amp;2 ? 0x25B2 : 0x25B3"/>
-			<Key at="0x50" value="T==101 ? 0x3C0 : T==102 ? 0x21B1 : T==103 ? 0x2B0F : N&amp;2 ? 0x25BC : 0x25BD"/>
+			<Key at="0x4B" value="T==101 ? 0x3BA : T==102 ? 0x2227 : T==103 ? 0x2234 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2030 : 0x203B"/>
+			<Key at="0x4C" value="T==101 ? 0x3BB : T==102 ? 0x21B2 : T==103 ? 0x2B10 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0xB7"/>
+			<Key at="0x4D" value="T==101 ? 0x3BC : T==102 ? 0x2287 : T==103 ? 0x228B : 0x2026"/>
+			<Key at="0x4E" value="T==101 ? 0x3BD : T==102 ? 0x2286 : T==103 ? 0x228A : N&amp;2 ? 0x261E : 0x2015"/>
+			<Key at="0x4F" value="T==101 ? 0x3BF : T==102 ? 0x21B0 : T==103 ? 0x2B11 : N&amp;2 ? 0x3011 : 0x3009"/>
+			<Key at="0x50" value="T==101 ? 0x3C0 : T==102 ? 0x21B1 : T==103 ? 0x2B0F : 0x3B"/>
 			<Key at="0x51" value="T==101 ? 0x3B8 : T==102 ? 0x2208 : T==103 ? 0x2209 : N&amp;2 ? 0x2195 : 0x2194"/>
 			<Key at="0x52" value="T==101 ? 0x3C1 : T==102 ? 0xAC : T==103 ? 0x2202 : N&amp;2 ? 0x2605 : 0x2606"/>
 			<Key at="0x53" value="T==101 ? 0x3C3 : T==102 ? 0x2211 : T==103 ? 0x220F : N&amp;2 ? 0x21E9 : 0x2193"/>
-			<Key at="0x54" value="T==101 ? 0x3C4 : T==102 ? 0x22A4 : T==103 ? 0x22A5 : N&amp;2 ? 0x2030 : 0x203B"/>
-			<Key at="0x55" value="T==101 ? 0x3C5 : T==102 ? 0x222A : T==103 ? 0x221D : N&amp;2 ? 0x3011 : 0x3009"/>
+			<Key at="0x54" value="T==101 ? 0x3C4 : T==102 ? 0x22A4 : T==103 ? 0x22A5 : N&amp;2 ? 0x25C9 : 0x25CE"/>
+			<Key at="0x55" value="T==101 ? 0x3C5 : T==102 ? 0x222A : T==103 ? 0x221D : N&amp;2 ? 0x25CF : 0x25CB"/>
 			<Key at="0x56" value="T==101 ? 0x22C5 : T==102 ? 0x2218 : T==103 ? 0x2219 : N&amp;2 ? 0x25B7 : 0x300D"/>
 			<Key at="0x57" value="T==101 ? 0x3C9 : T==102 ? 0x220B : T==103 ? 0x220C : N&amp;2 ? 0x21E7 : 0x2191"/>
-			<Key at="0x58" value="T==101 ? 0x3BE : T==102 ? 0x21AE : T==103 ? 0x2295 : N&amp;2 ? 0x25C9 : 0x25CE"/>
-			<Key at="0x59" value="T==101 ? 0x3C8 : T==102 ? 0x22A2 : T==103 ? 0x22A8 : N&amp;2 ? 0x3010 : 0x3008"/>
-			<Key at="0x5A" value="T==101 ? 0x3B6 : T==102 ? 0x219A : T==103 ? 0x2220 : N&amp;2 ? 0x25A0 : 0x25A1"/>
+			<Key at="0x58" value="T==101 ? 0x3BE : T==102 ? 0x21AE : T==103 ? 0x2295 : N&amp;2 ? 0x25B6 : 0x300F"/>
+			<Key at="0x59" value="T==101 ? 0x3C8 : T==102 ? 0x22A2 : T==103 ? 0x22A8 : N&amp;2 ? 0x260E : 0xD7"/>
+			<Key at="0x5A" value="T==101 ? 0x3B6 : T==102 ? 0x219A : T==103 ? 0x2220 : N&amp;2 ? 0x25C0 : 0x300E"/>
 			<Key at="0x5B" value="T==101 ? 0x3010 : T==102 ? 0x3014 : T==103 ? 0x2600 : P ? 0x7B : 0x5B"/>
 			<Key at="0x5C" value="T==101 ? 0x2252 : T==102 ? 0xB6 : T==103 ? 0xA6 : P ? 0x7C : 0x5C"/>
 			<Key at="0x5D" value="T==101 ? 0x3011 : T==102 ? 0x3015 : T==103 ? 0x2601 : P ? 0x7D : 0x5D"/>
@@ -67,31 +67,31 @@
 			<Key at="0x5F" value="T==101 ? 0x216A : T==102 ? 0x208B : T==103 ? 0x207B : 0x5F"/>
 			<Key at="0x60" value="T==101 ? 0x2122 : T==102 ? 0xA9 : T==103 ? 0xAE : P ? 0x7E : 0x60"/>
 			<Key at="0x61" value="T==101 ? 0x25C7 : T==102 ? 0x25C8 : T==103 ? 0x25C6 : P ? N&amp;2 ? 0x21E6 : 0x2190 : H3|_Q"/>
-			<Key at="0x62" value="T==101 ? 0xF7 : T==102 ? 0x2030 : T==103 ? 0x2031 : P ? N&amp;2 ? 0x25E6 : 0xA7 : H3|U_"/>
+			<Key at="0x62" value="T==101 ? 0xF7 : T==102 ? 0x2030 : T==103 ? 0x2031 : P ? N&amp;2 ? 0x25E6 : 0xB0 : H3|U_"/>
 			<Key at="0x63" value="T==101 ? 0xB0 : T==102 ? 0x260E : T==103 ? 0x2668 : P ? N&amp;2 ? 0x25C1 : 0x300C : H3|E_"/>
 			<Key at="0x64" value="T==101 ? (T=0x65, 0x25CB) : T==102 ? 0x25C9 : T==103 ? 0x25CF : P ? N&amp;2 ? 0x21E8 : 0x2192 : H3|I_"/>
 			<Key at="0x65" value="T==101 ? 0x25B3 : T==102 ? 0x2191 : T==103 ? 0x21D1 : P ? N&amp;2 ? 0x2665 : 0x2661 : H3|_R"/>
-			<Key at="0x66" value="T==101 ? 0xB7 : T==102 ? 0x25E6 : T==103 ? 0x2022 : P ? N&amp;2 ? 0x25CF : 0x25CB : H3|A_"/>
-			<Key at="0x67" value="T==101 ? 0x2026 : T==102 ? 0x2015 : T==103 ? 0xFFE3 : P ? N&amp;2 ? 0x260E : 0xD7 : H3|EU"/>
-			<Key at="0x68" value="T==101 ? 0x326D : T==102 ? 0x3003 : T==103 ? 0x2713 : P ? 0xB7 : H3|H_"/>
-			<Key at="0x69" value="T==101 ? 0x3262 : T==102 ? 0x2103 : T==103 ? 0x2109 : P ? N&amp;2 ? 0x261E : 0x2015 : H3|D_"/>
+			<Key at="0x66" value="T==101 ? 0xB7 : T==102 ? 0x25E6 : T==103 ? 0x2022 : P ? N&amp;2 ? 0x25B2 : 0x25B3 : H3|A_"/>
+			<Key at="0x67" value="T==101 ? 0x2026 : T==102 ? 0x2015 : T==103 ? 0xFFE3 : P ? N&amp;2 ? 0x25BC : 0x25BD : H3|EU"/>
+			<Key at="0x68" value="T==101 ? 0x326D : T==102 ? 0x3003 : T==103 ? 0x2713 : P ? N&amp;2 ? 0x25A0 : 0x25A1 : H3|H_"/>
+			<Key at="0x69" value="T==101 ? 0x3262 : T==102 ? 0x2103 : T==103 ? 0x2109 : P ? N&amp;2 ? 0x3010 : 0x3008 : H3|D_"/>
 			<Key at="0x6A" value="T==101 ? 0x3267 : T==102 ? 0x2018 : T==103 ? 0x201C : P ? C1|100 : H3|Q_"/>
-			<Key at="0x6B" value="T==101 ? 0x3260 : T==102 ? 0x2019 : T==103 ? 0x201D : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2032 : 0x27 : H3|G_"/>
-			<Key at="0x6C" value="T==101 ? 0x3268 : T==102 ? 0x2199 : T==103 ? 0x21D9 : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0x3B : H3|J_"/>
-			<Key at="0x6D" value="T==101 ? 0x3263 : T==102 ? 0x300D : T==103 ? 0x300F : P ? N&amp;2 ? 0x25B6 : 0x300F : H3|R_"/>
-			<Key at="0x6E" value="T==101 ? 0x3266 : T==102 ? 0x300C : T==103 ? 0x300E : P ? N&amp;2 ? 0x25C0 : 0x300E : H3|S_"/>
-			<Key at="0x6F" value="T==101 ? 0x3265 : T==102 ? 0x2196 : T==103 ? 0x21D6 : P ? N&amp;2 ? 0x25B2 : 0x25B3 : H3|B_"/>
-			<Key at="0x70" value="T==101 ? 0x326C : T==102 ? 0x2197 : T==103 ? 0x21D7 : P ? N&amp;2 ? 0x25BC : 0x25BD : 0x2E"/>
+			<Key at="0x6B" value="T==101 ? 0x3260 : T==102 ? 0x2019 : T==103 ? 0x201D : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : N&amp;2 ? 0x2030 : 0x203B : H3|G_"/>
+			<Key at="0x6C" value="T==101 ? 0x3268 : T==102 ? 0x2199 : T==103 ? 0x21D9 : P ? T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : 0xB7 : H3|J_"/>
+			<Key at="0x6D" value="T==101 ? 0x3263 : T==102 ? 0x300D : T==103 ? 0x300F : P ? 0x2026 : H3|R_"/>
+			<Key at="0x6E" value="T==101 ? 0x3266 : T==102 ? 0x300C : T==103 ? 0x300E : P ? N&amp;2 ? 0x261E : 0x2015 : H3|S_"/>
+			<Key at="0x6F" value="T==101 ? 0x3265 : T==102 ? 0x2196 : T==103 ? 0x21D6 : P ? N&amp;2 ? 0x3011 : 0x3009 : H3|B_"/>
+			<Key at="0x70" value="T==101 ? 0x326C : T==102 ? 0x2197 : T==103 ? 0x21D7 : P ? 0x3B : 0x2E"/>
 			<Key at="0x71" value="T==101 ? 0x25C1 : T==102 ? 0x2190 : T==103 ? 0x21D0 : P ? N&amp;2 ? 0x2195 : 0x2194 : H3|_S"/>
 			<Key at="0x72" value="T==101 ? 0x25B7 : T==102 ? 0x2192 : T==103 ? 0x21D2 : P ? N&amp;2 ? 0x2605 : 0x2606 : H3|EO"/>
 			<Key at="0x73" value="T==101 ? 0x25A1 : T==102 ? 0x25A3 : T==103 ? 0x25A0 : P ? N&amp;2 ? 0x21E9 : 0x2193 : H3|_N"/>
-			<Key at="0x74" value="T==101 ? 0x2D0 : T==102 ? 0x2194 : T==103 ? 0x21D4 : P ? N&amp;2 ? 0x2030 : 0x203B : H3|YEO"/>
-			<Key at="0x75" value="T==101 ? 0x3261 : T==102 ? 0x321C : T==103 ? 0x327E : P ? N&amp;2 ? 0x3011 : 0x3009 : H3|N_"/>
+			<Key at="0x74" value="T==101 ? 0x2D0 : T==102 ? 0x2194 : T==103 ? 0x21D4 : P ? N&amp;2 ? 0x25C9 : 0x25CE : H3|YEO"/>
+			<Key at="0x75" value="T==101 ? 0x3261 : T==102 ? 0x321C : T==103 ? 0x327E : P ? N&amp;2 ? 0x25CF : 0x25CB : H3|N_"/>
 			<Key at="0x76" value="T==101 ? 0xD7 : T==102 ? 0x2715 : T==103 ? 0x2702 : P ? N&amp;2 ? 0x25B7 : 0x300D : H3|O_"/>
 			<Key at="0x77" value="T==101 ? 0x25BD : T==102 ? 0x2193 : T==103 ? 0x21D3 : P ? N&amp;2 ? 0x21E7 : 0x2191 : H3|_B"/>
-			<Key at="0x78" value="T==101 ? 0x2032 : T==102 ? 0x2606 : T==103 ? 0x2605 : P ? N&amp;2 ? 0x25C9 : 0x25CE : H3|_G"/>
-			<Key at="0x79" value="T==101 ? 0x3264 : T==102 ? 0x2195 : T==103 ? 0x21D5 : P ? N&amp;2 ? 0x3010 : 0x3008 : H3|M_"/>
-			<Key at="0x7A" value="T==101 ? 0x2033 : T==102 ? 0x2661 : T==103 ? 0x2665 : P ? N&amp;2 ? 0x25A0 : 0x25A1 : H3|_M"/>
+			<Key at="0x78" value="T==101 ? 0x2032 : T==102 ? 0x2606 : T==103 ? 0x2605 : P ? N&amp;2 ? 0x25B6 : 0x300F : H3|_G"/>
+			<Key at="0x79" value="T==101 ? 0x3264 : T==102 ? 0x2195 : T==103 ? 0x21D5 : P ? N&amp;2 ? 0x260E : 0xD7 : H3|M_"/>
+			<Key at="0x7A" value="T==101 ? 0x2033 : T==102 ? 0x2661 : T==103 ? 0x2665 : P ? N&amp;2 ? 0x25C0 : 0x300E : H3|_M"/>
 			<Key at="0x7B" value="T==101 ? 0 : T==102 ? 0x208D : T==103 ? 0x207D : 0x7B"/>
 			<Key at="0x7C" value="T==101 ? 0x2223 : T==102 ? 0x2225 : T==103 ? 0x2226 : 0x7C"/>
 			<Key at="0x7D" value="T==101 ? 0 : T==102 ? 0x208E : T==103 ? 0x207E : 0x7D"/>
@@ -268,27 +268,32 @@
 			<UnitMix unit="JUNG" a="A_" b="EU" to="F_"/>
 			<UnitMix unit="JUNG" a="A_" b="EUI" to="FI"/>
 			<UnitMix unit="JUNG" a="A_" b="I_" to="AE"/>
+			<UnitMix unit="JUNG" a="A_" b="500" to="WA"/>
 			<UnitMix unit="JUNG" a="AE" b="O_" to="WAE"/>
 			<UnitMix unit="JUNG" a="AE" b="EU" to="FI"/>
+			<UnitMix unit="JUNG" a="AE" b="500" to="WAE"/>
 			<UnitMix unit="JUNG" a="YA" b="EU" to="FF"/>
 			<UnitMix unit="JUNG" a="EO" b="A_" to="YO"/>
 			<UnitMix unit="JUNG" a="EO" b="E_" to="IYEO"/>
 			<UnitMix unit="JUNG" a="EO" b="YEO" to="II"/>
-			<UnitMix unit="JUNG" a="EO" b="O_" to="YA"/>
+			<UnitMix unit="JUNG" a="EO" b="O_" to="UEO"/>
 			<UnitMix unit="JUNG" a="EO" b="YOI" to="YOYA"/>
 			<UnitMix unit="JUNG" a="EO" b="U_" to="UEO"/>
 			<UnitMix unit="JUNG" a="EO" b="WI" to="WE"/>
 			<UnitMix unit="JUNG" a="EO" b="EU" to="FF"/>
 			<UnitMix unit="JUNG" a="EO" b="FI" to="EOO"/>
+			<UnitMix unit="JUNG" a="EO" b="500" to="UEO"/>
 			<UnitMix unit="JUNG" a="E_" b="A_" to="IA"/>
 			<UnitMix unit="JUNG" a="E_" b="EO" to="IYEO"/>
 			<UnitMix unit="JUNG" a="E_" b="YEO" to="IYAE"/>
 			<UnitMix unit="JUNG" a="E_" b="O_" to="YE"/>
+			<UnitMix unit="JUNG" a="E_" b="OI" to="IYE"/>
 			<UnitMix unit="JUNG" a="E_" b="YOI" to="OE"/>
 			<UnitMix unit="JUNG" a="E_" b="U_" to="WE"/>
 			<UnitMix unit="JUNG" a="E_" b="YUI" to="YUYE"/>
 			<UnitMix unit="JUNG" a="E_" b="EU" to="EUE"/>
-			<UnitMix unit="JUNG" a="E_" b="I_" to="IYE"/>
+			<UnitMix unit="JUNG" a="E_" b="I_" to="WI"/>
+			<UnitMix unit="JUNG" a="E_" b="500" to="YE"/>
 			<UnitMix unit="JUNG" a="YEO" b="EO" to="II"/>
 			<UnitMix unit="JUNG" a="YEO" b="E_" to="IYAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="O_" to="YAE"/>
@@ -297,18 +302,24 @@
 			<UnitMix unit="JUNG" a="YEO" b="YUI" to="YUYEO"/>
 			<UnitMix unit="JUNG" a="YEO" b="EU" to="OYEO"/>
 			<UnitMix unit="JUNG" a="YEO" b="FI" to="YEOO"/>
+			<UnitMix unit="JUNG" a="YEO" b="500" to="YAE"/>
+			<UnitMix unit="JUNG" a="YE" b="I_" to="IYE"/>
 			<UnitMix unit="JUNG" a="O_" b="A_" to="WA"/>
 			<UnitMix unit="JUNG" a="O_" b="AE" to="WAE"/>
-			<UnitMix unit="JUNG" a="O_" b="EO" to="YA"/>
+			<UnitMix unit="JUNG" a="O_" b="EO" to="UEO"/>
 			<UnitMix unit="JUNG" a="O_" b="E_" to="YE"/>
 			<UnitMix unit="JUNG" a="O_" b="YEO" to="YAE"/>
 			<UnitMix unit="JUNG" a="O_" b="O_" to="YO"/>
 			<UnitMix unit="JUNG" a="O_" b="U_" to="YU"/>
+			<UnitMix unit="JUNG" a="O_" b="WI" to="IYE"/>
 			<UnitMix unit="JUNG" a="O_" b="EU" to="EUO"/>
 			<UnitMix unit="JUNG" a="O_" b="I_" to="OI"/>
 			<UnitMix unit="JUNG" a="O_" b="FI" to="YAO"/>
+			<UnitMix unit="JUNG" a="O_" b="500" to="YO"/>
 			<UnitMix unit="JUNG" a="WA" b="I_" to="WAE"/>
 			<UnitMix unit="JUNG" a="OI" b="A_" to="WAE"/>
+			<UnitMix unit="JUNG" a="OI" b="E_" to="IYE"/>
+			<UnitMix unit="JUNG" a="OI" b="U_" to="IYE"/>
 			<UnitMix unit="JUNG" a="YOI" b="A_" to="AO"/>
 			<UnitMix unit="JUNG" a="YOI" b="EO" to="YOYA"/>
 			<UnitMix unit="JUNG" a="YOI" b="E_" to="OE"/>
@@ -318,10 +329,15 @@
 			<UnitMix unit="JUNG" a="U_" b="E_" to="WE"/>
 			<UnitMix unit="JUNG" a="U_" b="YEO" to="YEOU"/>
 			<UnitMix unit="JUNG" a="U_" b="O_" to="YU"/>
+			<UnitMix unit="JUNG" a="U_" b="OI" to="IYE"/>
 			<UnitMix unit="JUNG" a="U_" b="EU" to="EUU"/>
 			<UnitMix unit="JUNG" a="U_" b="I_" to="WI"/>
+			<UnitMix unit="JUNG" a="U_" b="500" to="YU"/>
 			<UnitMix unit="JUNG" a="UEO" b="I_" to="WE"/>
 			<UnitMix unit="JUNG" a="WI" b="EO" to="WE"/>
+			<UnitMix unit="JUNG" a="WI" b="O_" to="IYE"/>
+			<UnitMix unit="JUNG" a="WI" b="500" to="IYE"/>
+			<UnitMix unit="JUNG" a="YU" b="I_" to="IYE"/>
 			<UnitMix unit="JUNG" a="YUI" b="A_" to="AU"/>
 			<UnitMix unit="JUNG" a="YUI" b="E_" to="YUYE"/>
 			<UnitMix unit="JUNG" a="YUI" b="YEO" to="YUYEO"/>
@@ -335,16 +351,20 @@
 			<UnitMix unit="JUNG" a="EU" b="U_" to="EUU"/>
 			<UnitMix unit="JUNG" a="EU" b="I_" to="EUI"/>
 			<UnitMix unit="JUNG" a="EU" b="FI" to="EUEO"/>
+			<UnitMix unit="JUNG" a="EU" b="500" to="YA"/>
 			<UnitMix unit="JUNG" a="EUI" b="A_" to="FI"/>
 			<UnitMix unit="JUNG" a="I_" b="A_" to="AE"/>
-			<UnitMix unit="JUNG" a="I_" b="E_" to="IYE"/>
+			<UnitMix unit="JUNG" a="I_" b="E_" to="WI"/>
+			<UnitMix unit="JUNG" a="I_" b="YE" to="IYE"/>
 			<UnitMix unit="JUNG" a="I_" b="O_" to="OI"/>
 			<UnitMix unit="JUNG" a="I_" b="WA" to="WAE"/>
 			<UnitMix unit="JUNG" a="I_" b="U_" to="WI"/>
 			<UnitMix unit="JUNG" a="I_" b="UEO" to="WE"/>
+			<UnitMix unit="JUNG" a="I_" b="YU" to="IYE"/>
 			<UnitMix unit="JUNG" a="I_" b="EU" to="EUI"/>
 			<UnitMix unit="JUNG" a="I_" b="F_" to="FI"/>
 			<UnitMix unit="JUNG" a="I_" b="FI" to="IEU"/>
+			<UnitMix unit="JUNG" a="I_" b="500" to="OI"/>
 			<UnitMix unit="JUNG" a="F_" b="I_" to="FI"/>
 			<UnitMix unit="JUNG" a="F_" b="F_" to="FF"/>
 			<UnitMix unit="JUNG" a="FI" b="EO" to="EOO"/>
@@ -352,6 +372,19 @@
 			<UnitMix unit="JUNG" a="FI" b="O_" to="YAO"/>
 			<UnitMix unit="JUNG" a="FI" b="EU" to="EUEO"/>
 			<UnitMix unit="JUNG" a="FI" b="I_" to="IEU"/>
+			<UnitMix unit="JUNG" a="FI" b="500" to="YAO"/>
+			<UnitMix unit="JUNG" a="500" b="A_" to="WA"/>
+			<UnitMix unit="JUNG" a="500" b="AE" to="WAE"/>
+			<UnitMix unit="JUNG" a="500" b="EO" to="UEO"/>
+			<UnitMix unit="JUNG" a="500" b="E_" to="YE"/>
+			<UnitMix unit="JUNG" a="500" b="YEO" to="YAE"/>
+			<UnitMix unit="JUNG" a="500" b="O_" to="YO"/>
+			<UnitMix unit="JUNG" a="500" b="U_" to="YU"/>
+			<UnitMix unit="JUNG" a="500" b="WI" to="IYE"/>
+			<UnitMix unit="JUNG" a="500" b="EU" to="YA"/>
+			<UnitMix unit="JUNG" a="500" b="I_" to="OI"/>
+			<UnitMix unit="JUNG" a="500" b="FI" to="YAO"/>
+			<UnitMix unit="JUNG" a="500" b="500" to="YO"/>
 			<UnitMix unit="JONG" a="G_" b="N_" to="GN"/>
 			<UnitMix unit="JONG" a="G_" b="D_" to="GS"/>
 			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
@@ -483,7 +516,9 @@
 			<UnitMix unit="JONG" a="H_" b="D_" to="T_"/>
 			<UnitMix unit="JONG" a="H_" b="B_" to="P_"/>
 		</UnitMixTable>
-		<VirtualUnitTable/>
+		<VirtualUnitTable>
+			<VirtualUnit unit="JUNG" from="500" to="O_"/>
+		</VirtualUnitTable>
 		<UnitAbbrTable/>
 		<AutomataTable default="0">
 			<Automata state="0" value="A ? 1 : B|C ? 2 : 0" default="0" remark="초기 상태"/>
@@ -496,7 +531,7 @@
 			<Bksp key="2" value1="BySyllable" value2="ByUnitStep" condition1="0" condition2="0"/>
 			<Bksp key="3" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
 			<Bksp key="4" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
-			<Timer key="1" value1="-1" value2="0" condition1="T==3 ? 20 : T&amp;&amp;T&lt;100 ? 150 : s==2&amp;&amp;!T ? 5 : 0" condition2="s==2 ? (s=0, KY|0x20) : 0"/>
+			<Timer key="1" value1="-1" value2="0" condition1="T==3 ? 20 : T&amp;&amp;T&lt;100 ? 150 : s==2&amp;&amp;!T ? 1 : 0" condition2="s==2 ? (s=0, KY|0x20) : 0"/>
 			<Timer key="2" value1="-2" value2="0" condition1="0" condition2="0"/>
 			<Timer key="3" value1="-2" value2="0" condition1="0" condition2="0"/>
 		</Extra>
@@ -1639,39 +1674,50 @@
 			</UserCandiTable>
 		</ConvertHelper>
 		<UserCompoTable>
+			<UserCompo state="0" key="0x3B" newstate="10" interim=";"/>
 			<UserCompo state="0" key="0x3E" newstate="2" interim="&gt;"/>
-			<UserCompo state="0" key="0x2015" newstate="18" interim="―"/>
-			<UserCompo state="0" key="0x203B" newstate="15" interim="※"/>
+			<UserCompo state="0" key="0x3F" newstate="27" interim="?"/>
+			<UserCompo state="0" key="0xB7" newstate="24" interim="·"/>
+			<UserCompo state="0" key="0xD7" newstate="16" interim="×"/>
+			<UserCompo state="0" key="0x2026" newstate="1" interim="…"/>
+			<UserCompo state="0" key="0x203B" newstate="23" interim="※"/>
 			<UserCompo state="0" key="0x2191" newstate="12" interim="↑"/>
+			<UserCompo state="0" key="0x2192" newstate="26" interim="→"/>
+			<UserCompo state="0" key="0x2193" newstate="29" interim="↓"/>
 			<UserCompo state="0" key="0x2194" newstate="11" interim="↔"/>
-			<UserCompo state="0" key="0x25B3" newstate="19" interim="△"/>
-			<UserCompo state="0" key="0x25BD" newstate="10" interim="▽"/>
+			<UserCompo state="0" key="0x25B3" newstate="21" interim="△"/>
+			<UserCompo state="0" key="0x25BD" newstate="25" interim="▽"/>
+			<UserCompo state="0" key="0x25CB" newstate="17" interim="○"/>
+			<UserCompo state="0" key="0x25CE" newstate="15" interim="◎"/>
 			<UserCompo state="0" key="0x2606" newstate="14" interim="☆"/>
 			<UserCompo state="0" key="0x2661" newstate="13" interim="♡"/>
-			<UserCompo state="0" key="0x3008" newstate="16" interim="〈"/>
-			<UserCompo state="0" key="0x3009" newstate="17" interim="〉"/>
-			<UserCompo state="0" key="0x300F" newstate="1" interim="』"/>
+			<UserCompo state="0" key="0x3008" newstate="18" interim="〈"/>
+			<UserCompo state="0" key="0x3009" newstate="19" interim="〉"/>
+			<UserCompo state="0" key="0x300C" newstate="28" interim="「"/>
+			<UserCompo state="0" key="0x300D" newstate="22" interim="」"/>
 			<UserCompo state="1" key="0x23" result="대통령"/>
 			<UserCompo state="1" key="0x24" result="이야기"/>
 			<UserCompo state="1" key="0x25" result="퍼센트"/>
 			<UserCompo state="1" key="0x40" result="가운데"/>
-			<UserCompo state="1" key="0xB7" result="아버지"/>
-			<UserCompo state="1" key="0xD7" result="합니다. "/>
-			<UserCompo state="1" key="0x203B" result="그리고 "/>
 			<UserCompo state="1" key="0x2190" result="선생님"/>
 			<UserCompo state="1" key="0x2191" result="그런데 "/>
 			<UserCompo state="1" key="0x2192" result="입니다. "/>
 			<UserCompo state="1" key="0x2193" result="으로써 "/>
 			<UserCompo state="1" key="0x2194" result="따라서 "/>
-			<UserCompo state="1" key="0x25A1" result="으로서 "/>
-			<UserCompo state="1" key="0x25B3" result="입니다. "/>
-			<UserCompo state="1" key="0x25CB" result="습니다. "/>
-			<UserCompo state="1" key="0x25CE" result="우리나라"/>
+			<UserCompo state="1" key="0x25A1" result="아버지"/>
+			<UserCompo state="1" key="0x25B3" result="라. "/>
+			<UserCompo state="1" key="0x25BD" result="합니다. "/>
+			<UserCompo state="1" key="0x25CE" result="그리고 "/>
 			<UserCompo state="1" key="0x2606" result="그러나 "/>
 			<UserCompo state="1" key="0x2661" result="그래서 "/>
+			<UserCompo state="1" key="0x3009" result="입니다. "/>
 			<UserCompo state="1" key="0x300D" result="어머니"/>
-			<UserCompo state="2" key="0x80" result="&gt;&gt;"/>
-			<UserCompo state="3" key="0x80" result="&lt;&lt;"/>
+			<UserCompo state="1" key="0x300E" result="으로서 "/>
+			<UserCompo state="1" key="0x300F" result="우리나라"/>
+			<UserCompo state="2" key="0x3E" result="&gt;&gt;"/>
+			<UserCompo state="2" key="0x25BD" result="야? "/>
+			<UserCompo state="2" key="0x300D" result="요. "/>
+			<UserCompo state="3" key="0x3C" result="&lt;&lt;"/>
 			<UserCompo state="6" key="0x3008" result="《"/>
 			<UserCompo state="7" key="0x3009" result="》"/>
 			<UserCompo state="10" key="0x21" result="한 "/>
@@ -1723,6 +1769,7 @@
 			<UserCompo state="14" key="0x2A" result="마흔여덟 "/>
 			<UserCompo state="14" key="0x40" result="마흔두 "/>
 			<UserCompo state="14" key="0x5E" result="마흔여섯 "/>
+			<UserCompo state="14" key="0x25B3" result="요? "/>
 			<UserCompo state="15" key="0x21" result="쉰한 "/>
 			<UserCompo state="15" key="0x23" result="쉰세 "/>
 			<UserCompo state="15" key="0x24" result="쉰네 "/>
@@ -1743,6 +1790,7 @@
 			<UserCompo state="16" key="0x2A" result="예순여덟 "/>
 			<UserCompo state="16" key="0x40" result="예순두 "/>
 			<UserCompo state="16" key="0x5E" result="예순여섯 "/>
+			<UserCompo state="16" key="0x25B3" result="다. "/>
 			<UserCompo state="16" key="0x3008" result="《"/>
 			<UserCompo state="17" key="0x21" result="일흔한 "/>
 			<UserCompo state="17" key="0x23" result="일흔세 "/>
@@ -1754,7 +1802,11 @@
 			<UserCompo state="17" key="0x2A" result="일흔여덟 "/>
 			<UserCompo state="17" key="0x40" result="일흔두 "/>
 			<UserCompo state="17" key="0x5E" result="일흔여섯 "/>
+			<UserCompo state="17" key="0x2192" result="니? "/>
+			<UserCompo state="17" key="0x25B3" result="나? "/>
+			<UserCompo state="17" key="0x25BD" result="냐? "/>
 			<UserCompo state="17" key="0x3009" result="》"/>
+			<UserCompo state="17" key="0x300C" result="네. "/>
 			<UserCompo state="18" key="0x21" result="여든한 "/>
 			<UserCompo state="18" key="0x23" result="여든세 "/>
 			<UserCompo state="18" key="0x24" result="여든네 "/>
@@ -1765,6 +1817,7 @@
 			<UserCompo state="18" key="0x2A" result="여든여덟 "/>
 			<UserCompo state="18" key="0x40" result="여든두 "/>
 			<UserCompo state="18" key="0x5E" result="여든여섯 "/>
+			<UserCompo state="18" key="0x25B3" result="다. "/>
 			<UserCompo state="19" key="0x21" result="아흔한 "/>
 			<UserCompo state="19" key="0x23" result="아흔세 "/>
 			<UserCompo state="19" key="0x24" result="아흔네 "/>
@@ -1775,6 +1828,30 @@
 			<UserCompo state="19" key="0x2A" result="아흔여덟 "/>
 			<UserCompo state="19" key="0x40" result="아흔두 "/>
 			<UserCompo state="19" key="0x5E" result="아흔여섯 "/>
+			<UserCompo state="19" key="0x3008" result="다. "/>
+			<UserCompo state="21" key="0x3F" result="까? "/>
+			<UserCompo state="21" key="0xB7" result="자. "/>
+			<UserCompo state="21" key="0x2026" result="라. "/>
+			<UserCompo state="21" key="0x203B" result="가? "/>
+			<UserCompo state="21" key="0x25CB" result="나? "/>
+			<UserCompo state="21" key="0x2606" result="요? "/>
+			<UserCompo state="21" key="0x3008" result="다. "/>
+			<UserCompo state="22" key="0x3E" result="요. "/>
+			<UserCompo state="22" key="0xB7" result="죠. "/>
+			<UserCompo state="22" key="0x25BD" result="야? "/>
+			<UserCompo state="23" key="0x2193" result="군. "/>
+			<UserCompo state="23" key="0x25B3" result="가? "/>
+			<UserCompo state="24" key="0x2192" result="지. "/>
+			<UserCompo state="24" key="0x25B3" result="자. "/>
+			<UserCompo state="24" key="0x300D" result="죠. "/>
+			<UserCompo state="25" key="0x3E" result="야? "/>
+			<UserCompo state="25" key="0x25CB" result="냐? "/>
+			<UserCompo state="25" key="0x300D" result="야? "/>
+			<UserCompo state="26" key="0xB7" result="지. "/>
+			<UserCompo state="26" key="0x25CB" result="니? "/>
+			<UserCompo state="27" key="0x25B3" result="까? "/>
+			<UserCompo state="28" key="0x25CB" result="네. "/>
+			<UserCompo state="29" key="0x203B" result="군. "/>
 		</UserCompoTable>
 		<UserCandiTable/>
 		<UserKeyTable doobeolchk="T&lt;=1"/>
@@ -1810,6 +1887,7 @@
 			<HanSubst from="ᄀힾ" to="경계"/>
 			<HanSubst from="ᄀힿ" to="계약"/>
 			<HanSubst from="ᄀퟀ" to="기계"/>
+			<HanSubst from="ᄀퟀᆨ" to="계획"/>
 			<HanSubst from="ᄀퟄᆼ" to="경험"/>
 			<HanSubst from="ᄀᆞ" to="가는 "/>
 			<HanSubst from="ᄀᆞᆫ" to="그만"/>
@@ -1846,8 +1924,6 @@
 			<HanSubst from="ᄁힼ" to="요금"/>
 			<HanSubst from="ᄁᆕ" to="꾸는 "/>
 			<HanSubst from="ᄁힿ" to="께서 "/>
-			<HanSubst from="ᄁퟀ" to="기에 "/>
-			<HanSubst from="ᄁퟀᆷ" to="게임"/>
 			<HanSubst from="ᄁᆞ" to="을까? "/>
 			<HanSubst from="ᄁᆞᆯ" to="가을"/>
 			<HanSubst from="ᄁᆞᆷ" to="가끔 "/>
@@ -1879,7 +1955,6 @@
 			<HanSubst from="ᅢᆨ" to="개인적"/>
 			<HanSubst from="ᅢᆫ" to="전개"/>
 			<HanSubst from="ᅢᆼ" to="경쟁"/>
-			<HanSubst from="ᅣᆨ" to="과학적"/>
 			<HanSubst from="ᅥ" to="저기"/>
 			<HanSubst from="ᅥᆨ" to="걱정"/>
 			<HanSubst from="ᅥᆫ" to="조건"/>
@@ -1920,9 +1995,10 @@
 			<HanSubst from="ᆉᆫ" to="장군"/>
 			<HanSubst from="ᆉᆼ" to="광주"/>
 			<HanSubst from="ᅯ" to="전국"/>
+			<HanSubst from="ᅯᆨ" to="과학적"/>
 			<HanSubst from="ᅯᆫ" to="정권"/>
 			<HanSubst from="ᅰᆨ" to="국제"/>
-			<HanSubst from="ᅱ" to="지구"/>
+			<HanSubst from="ᅱ" to="치게"/>
 			<HanSubst from="ᅲ" to="규정"/>
 			<HanSubst from="ᅳ" to="그저 "/>
 			<HanSubst from="ᅳᆨ" to="자극"/>
@@ -1945,7 +2021,6 @@
 			<HanSubst from="ᆘᆼ" to="강제"/>
 			<HanSubst from="ힿ" to="제거"/>
 			<HanSubst from="ힿᆯ" to="계절"/>
-			<HanSubst from="ퟀ" to="지게 "/>
 			<HanSubst from="ퟄ" to="여기저기"/>
 			<HanSubst from="ퟄᆼ" to="경제적"/>
 			<HanSubst from="ᆞ" to="글자"/>
@@ -1967,8 +2042,9 @@
 			<HanSubst from="ᄂᅠᇁ" to="높이"/>
 			<HanSubst from="ᄂᅠᇂ" to="내놓"/>
 			<HanSubst from="ᄂᆉ" to="누나"/>
-			<HanSubst from="ᄂힼ" to="높은 "/>
+			<HanSubst from="ᄂힼ" to="느냐? "/>
 			<HanSubst from="ᄂힼᆫ" to="고는 "/>
+			<HanSubst from="ᄂힼᆼ" to="그냥 "/>
 			<HanSubst from="ᄂᆘ" to="나게 "/>
 			<HanSubst from="ᄂᆞ" to="나는 "/>
 			<HanSubst from="ᄂᆞᆫ" to="는가"/>
@@ -1976,7 +2052,6 @@
 			<HanSubst from="ᄂᆞᆼ" to="않는 "/>
 			<HanSubst from="ᄂᆡ" to="내는 "/>
 			<HanSubst from="ᄂᆢ" to="느냐? "/>
-			<HanSubst from="ᄂᆢᆼ" to="그냥 "/>
 			<HanSubst from="ᄕᅠ" to=", "/>
 			<HanSubst from="ᄕᅠᆫ" to="는데"/>
 			<HanSubst from="ᄕᅠᆺ" to="인터넷"/>
@@ -1986,13 +2061,14 @@
 			<HanSubst from="ᄕᅢ" to="다니"/>
 			<HanSubst from="ᄕᅥ" to="더니 "/>
 			<HanSubst from="ᄕᅧᆫ" to="년대"/>
+			<HanSubst from="ᄕᅨ" to="는데도 "/>
 			<HanSubst from="ᄕᅩ" to="또는 "/>
 			<HanSubst from="ᄕᅩᆼ" to="동네"/>
 			<HanSubst from="ᄕᅬ" to="되는 "/>
+			<HanSubst from="ᄕᅱ" to="되는데"/>
 			<HanSubst from="ᄕᅳ" to="드는 "/>
 			<HanSubst from="ᄕᅳᆫ" to="다는 "/>
 			<HanSubst from="ᄕᅵ" to="니다. "/>
-			<HanSubst from="ᄕퟀ" to="되는데"/>
 			<HanSubst from="ᄕᆞ" to="는다. "/>
 			<HanSubst from="ᄃᅠᆨ" to="대학"/>
 			<HanSubst from="ᄃᅠᆫ" to="다른 "/>
@@ -2005,7 +2081,7 @@
 			<HanSubst from="ᄃᅠᆺ" to="듯이 "/>
 			<HanSubst from="ᄃᅠᆼ" to="다양"/>
 			<HanSubst from="ᄃᆉ" to="무대"/>
-			<HanSubst from="ᄃᆉᆫ" to="다운"/>
+			<HanSubst from="ᄃᆉᆫ" to="다운 "/>
 			<HanSubst from="ᄃힼ" to="독특"/>
 			<HanSubst from="ᄃᆕ" to="문득 "/>
 			<HanSubst from="ᄃᆘᆫ" to="단체"/>
@@ -2018,7 +2094,6 @@
 			<HanSubst from="ᄗᅠᆰ" to="까닭"/>
 			<HanSubst from="ᄗᅠᆷ" to="감독"/>
 			<HanSubst from="ᄗᅠᆺ" to="되겠"/>
-			<HanSubst from="ᄗᅠᆻ" to="되겠"/>
 			<HanSubst from="ᄗᅠᆼ" to="공동"/>
 			<HanSubst from="ᄗᅡ" to="다가"/>
 			<HanSubst from="ᄗᅡᆫ" to="간단"/>
@@ -2062,7 +2137,6 @@
 			<HanSubst from="ᄄᅠᆷ" to="도움"/>
 			<HanSubst from="ᄄᅠᆸ" to="도입"/>
 			<HanSubst from="ᄄᅠᆺ" to="되었"/>
-			<HanSubst from="ᄄᅠᆻ" to="되었"/>
 			<HanSubst from="ᄄᅠᆼ" to="운동"/>
 			<HanSubst from="ᄄᅠᇂ" to="어떻"/>
 			<HanSubst from="ᄄힻ" to="은데"/>
@@ -2080,9 +2154,10 @@
 			<HanSubst from="ᅞᅤ" to="고려"/>
 			<HanSubst from="ᅞᅥ" to="따라서 "/>
 			<HanSubst from="ᅞᅦ" to="텔레비전"/>
-			<HanSubst from="ᅞᅩ" to="라도 "/>
+			<HanSubst from="ᅞᅩ" to="따로 "/>
 			<HanSubst from="ᅞᅩᆫ" to="토론"/>
 			<HanSubst from="ᅞᅩᆼ" to="동료"/>
+			<HanSubst from="ᅞᅪ" to="라도 "/>
 			<HanSubst from="ᅞᅫ" to="때로 "/>
 			<HanSubst from="ᅞᅭ" to="더라. "/>
 			<HanSubst from="ᅞᆉ" to="아무래도 "/>
@@ -2103,7 +2178,6 @@
 			<HanSubst from="ꥢᅢᆨ" to="택시"/>
 			<HanSubst from="ꥢᅢᆩ" to="상대적"/>
 			<HanSubst from="ꥢᅢᆼ" to="동생"/>
-			<HanSubst from="ꥢᅣ" to="도서관"/>
 			<HanSubst from="ꥢᅥᆫ" to="선택"/>
 			<HanSubst from="ꥢᅥᆯ" to="설탕"/>
 			<HanSubst from="ꥢᅦ" to="세대"/>
@@ -2116,7 +2190,7 @@
 			<HanSubst from="ꥢᅮ" to="수도"/>
 			<HanSubst from="ꥢᅮᆫ" to="단순"/>
 			<HanSubst from="ꥢᆉ" to="다수"/>
-			<HanSubst from="ꥢᅱᆫ" to="단순히 "/>
+			<HanSubst from="ꥢᅯ" to="도서관"/>
 			<HanSubst from="ꥢᅳ" to="스트레스"/>
 			<HanSubst from="ꥢᅳᆨ" to="소득"/>
 			<HanSubst from="ꥢᆕ" to="특수"/>
@@ -2138,7 +2212,6 @@
 			<HanSubst from="ꥣᅡᆼ" to="당장"/>
 			<HanSubst from="ꥣᅢ" to="제대로 "/>
 			<HanSubst from="ꥣᅢᆨ" to="대책"/>
-			<HanSubst from="ꥣᅣᆫ" to="전도"/>
 			<HanSubst from="ꥣᅥᆨ" to="적어도 "/>
 			<HanSubst from="ꥣᅥᇺ" to="전통적"/>
 			<HanSubst from="ꥣᅥᆫ" to="전통"/>
@@ -2152,6 +2225,7 @@
 			<HanSubst from="ꥣᅮᆨ" to="주택"/>
 			<HanSubst from="ꥣᅮᆼ" to="대중"/>
 			<HanSubst from="ꥣᆉ" to="투자"/>
+			<HanSubst from="ꥣᅯᆫ" to="전도"/>
 			<HanSubst from="ꥣᅳᆨ" to="특징"/>
 			<HanSubst from="ꥣᅳᆫ" to="든지"/>
 			<HanSubst from="ꥣᅳᆼ" to="등장"/>
@@ -2211,6 +2285,8 @@
 			<HanSubst from="ꥤᅵ" to="거리"/>
 			<HanSubst from="ꥤᅵᆯ" to="킬로"/>
 			<HanSubst from="ꥤᅵᆷ" to="그림"/>
+			<HanSubst from="ꥤퟄ" to="그러려고 "/>
+			<HanSubst from="ꥤퟄᆫ" to="그러려면 "/>
 			<HanSubst from="ꥤᆞ" to="가르"/>
 			<HanSubst from="ꥤᆢ" to="그러"/>
 			<HanSubst from="ꥨᅠᆫ" to="물론 "/>
@@ -2222,16 +2298,18 @@
 			<HanSubst from="ꥨᅢ" to="미래"/>
 			<HanSubst from="ꥨᅢᆨ" to="매력"/>
 			<HanSubst from="ꥨᅥ" to="머리"/>
+			<HanSubst from="ꥨᅥᆫ" to="아무런 "/>
 			<HanSubst from="ꥨᅧ" to="려면 "/>
 			<HanSubst from="ꥨᅧᆫ" to="라면"/>
+			<HanSubst from="ꥨᅾ" to="무려 "/>
 			<HanSubst from="ꥨᅩ" to="모래"/>
 			<HanSubst from="ꥨᅩᆯ" to="몰래 "/>
-			<HanSubst from="ꥨᅮ" to="아무런 "/>
+			<HanSubst from="ꥨᅮ" to="무리"/>
 			<HanSubst from="ꥨᅮᆯ" to="물리"/>
 			<HanSubst from="ꥨᆉ" to="마루"/>
-			<HanSubst from="ꥨᅱ" to="무리"/>
 			<HanSubst from="ꥨᅳ" to="므로 "/>
 			<HanSubst from="ꥨᅵ" to="미리 "/>
+			<HanSubst from="ꥨᅵᆫ" to="미련"/>
 			<HanSubst from="ꥨᅵᆯ" to="밀리"/>
 			<HanSubst from="ꥩᅠᆨ" to="비록 "/>
 			<HanSubst from="ꥩᅠᆯ" to="빨리 "/>
@@ -2289,6 +2367,7 @@
 			<HanSubst from="ᄛᅩ" to="노래"/>
 			<HanSubst from="ᄛᅳ" to="르는 "/>
 			<HanSubst from="ᄛᅴ" to="리는 "/>
+			<HanSubst from="ᄛᅵ" to="그러니"/>
 			<HanSubst from="ᄆᅠᆨ" to="미국"/>
 			<HanSubst from="ᄆᅠᇺ" to="만약"/>
 			<HanSubst from="ᄆᅠᆫ" to="문화"/>
@@ -2312,8 +2391,8 @@
 			<HanSubst from="ᄆᆉᆯ" to="물가"/>
 			<HanSubst from="ᄆힼ" to="모든 "/>
 			<HanSubst from="ᄆᆕ" to="의무"/>
-			<HanSubst from="ᄆퟀ" to="메일"/>
 			<HanSubst from="ᄆᆞ" to="마을"/>
+			<HanSubst from="ᄆᆞᆫ" to="많은 "/>
 			<HanSubst from="ᄆᆢ" to="먹는 "/>
 			<HanSubst from="ᄜᅠᆨ" to="목표"/>
 			<HanSubst from="ᄜᅠᆫ" to="반면"/>
@@ -2327,7 +2406,6 @@
 			<HanSubst from="ᄜᅭ" to="표면"/>
 			<HanSubst from="ᄜᅮ" to="부모"/>
 			<HanSubst from="ᄜᅮᆫ" to="부문"/>
-			<HanSubst from="ᄜᅮᆷ" to="부모님"/>
 			<HanSubst from="ᄜᅵᆼ" to="분명히 "/>
 			<HanSubst from="ᅠᆨ" to="민족"/>
 			<HanSubst from="ᅠᇺ" to="만족"/>
@@ -2493,9 +2571,9 @@
 			<HanSubst from="ᄡᅬ" to="비로소 "/>
 			<HanSubst from="ᄡᅮ" to="부상"/>
 			<HanSubst from="ᄡᅮᆫ" to="분석"/>
-			<HanSubst from="ᄡᅱ" to="신부"/>
 			<HanSubst from="ᄡᅳ" to="스포츠"/>
 			<HanSubst from="ᄡᅴ" to="서비스"/>
+			<HanSubst from="ᄡᅵ" to="신부"/>
 			<HanSubst from="ᄡᅵᆨ" to="식품"/>
 			<HanSubst from="ᄡᅵᆫ" to="신분"/>
 			<HanSubst from="ᄡᅵᆯ" to="실패"/>
@@ -2613,6 +2691,7 @@
 			<HanSubst from="ᄭᅩᆼ" to="성공"/>
 			<HanSubst from="ᄭᅪ" to="사과"/>
 			<HanSubst from="ᄭᅪᆼ" to="공사"/>
+			<HanSubst from="ᄭᅫ" to="소개"/>
 			<HanSubst from="ᄭᅫᆼ" to="고생"/>
 			<HanSubst from="ᄭᅬᆨ" to="공식"/>
 			<HanSubst from="ᄭᅬᆫ" to="신고"/>
@@ -2625,6 +2704,7 @@
 			<HanSubst from="ᄭᆉ" to="가수"/>
 			<HanSubst from="ᄭᆉᆫ" to="군사"/>
 			<HanSubst from="ᄭᅯ" to="서구"/>
+			<HanSubst from="ᄭᅱ" to="세기"/>
 			<HanSubst from="ᄭᅲ" to="수고"/>
 			<HanSubst from="ᄭᅳ" to="쓰레기"/>
 			<HanSubst from="ᄭᅳᆯ" to="글쎄"/>
@@ -2635,7 +2715,6 @@
 			<HanSubst from="ᄭᅵᆫ" to="신경"/>
 			<HanSubst from="ᄭᅵᆷ" to="심각"/>
 			<HanSubst from="ᄭힿ" to="에게서 "/>
-			<HanSubst from="ᄭퟀ" to="세기"/>
 			<HanSubst from="ᄭᆞ" to="가스"/>
 			<HanSubst from="ᄮᅠᆫ" to="아나운서"/>
 			<HanSubst from="ᄮᅠᆯ" to="날씨"/>
@@ -2661,13 +2740,13 @@
 			<HanSubst from="ᄯᅡ" to="사라"/>
 			<HanSubst from="ᄯᅢ" to="새로 "/>
 			<HanSubst from="ᄯᅢᆫ" to="새로운 "/>
-			<HanSubst from="ᄯᅣ" to="서로 "/>
 			<HanSubst from="ᄯᅥ" to="로써 "/>
 			<HanSubst from="ᄯᅥᆼ" to="성령"/>
 			<HanSubst from="ᄯᅧᆫ" to="소련"/>
 			<HanSubst from="ᄯᅨ" to="사례"/>
 			<HanSubst from="ᄯᅩ" to="로서 "/>
 			<HanSubst from="ᄯᅮ" to="수록 "/>
+			<HanSubst from="ᄯᅯ" to="서로 "/>
 			<HanSubst from="ᄯᅱ" to="수리"/>
 			<HanSubst from="ᄯᅳ" to="스스로"/>
 			<HanSubst from="ᄯᅳᆼ" to="승리"/>
@@ -2683,6 +2762,7 @@
 			<HanSubst from="ᄱᅠᆰ" to="목숨"/>
 			<HanSubst from="ᄱᅠᆸ" to="모습"/>
 			<HanSubst from="ᄱᅠᆼ" to="생명"/>
+			<HanSubst from="ᄱᅡ" to="사무"/>
 			<HanSubst from="ᄱᅡᆯ" to="사물"/>
 			<HanSubst from="ᄱᅢᆼ" to="생물"/>
 			<HanSubst from="ᄱᅥᆯ" to="설명"/>
@@ -2691,10 +2771,9 @@
 			<HanSubst from="ᄱᅩᆨ" to="물속"/>
 			<HanSubst from="ᄱᅩᆸ" to="몹시 "/>
 			<HanSubst from="ᄱᅬ" to="미소"/>
-			<HanSubst from="ᄱᅮ" to="무사"/>
+			<HanSubst from="ᄱᅮ" to="무시"/>
 			<HanSubst from="ᄱᅮᆯ" to="미술"/>
-			<HanSubst from="ᄱᆉ" to="사무"/>
-			<HanSubst from="ᄱᅱ" to="무시"/>
+			<HanSubst from="ᄱᆉ" to="무사"/>
 			<HanSubst from="ᄱᅵ" to="시민"/>
 			<HanSubst from="ᄱᅵᆨ" to="식물"/>
 			<HanSubst from="ᄱᅵᆫ" to="신문"/>
@@ -2731,9 +2810,10 @@
 			<HanSubst from="ᄲᅬ" to="회사"/>
 			<HanSubst from="ᄲᅬᆫ" to="신호"/>
 			<HanSubst from="ᄲᅮ" to="수행"/>
+			<HanSubst from="ᄲᅵ" to="단순히 "/>
 			<HanSubst from="ᄲᅵᆫ" to="하신 "/>
 			<HanSubst from="ᄲᅵᆯ" to="실천"/>
-			<HanSubst from="ᄲퟀ" to="자세히 "/>
+			<HanSubst from="ᄲᆘ" to="자세히 "/>
 			<HanSubst from="ᄲퟄᆫ" to="현실적"/>
 			<HanSubst from="ᄲퟄᆼ" to="형성"/>
 			<HanSubst from="ᄊᅠᆨ" to="역사"/>
@@ -2744,7 +2824,6 @@
 			<HanSubst from="ᄊᅠᆯ" to="서울"/>
 			<HanSubst from="ᄊᅠᆱ" to="열심"/>
 			<HanSubst from="ᄊᅠᆲ" to="입술"/>
-			<HanSubst from="ᄊᅠᆴ" to="임신"/>
 			<HanSubst from="ᄊᅠᆷ" to="예수님"/>
 			<HanSubst from="ᄊᅠᆸ" to="사업"/>
 			<HanSubst from="ᄊᅠᆼ" to="이상"/>
@@ -2780,7 +2859,6 @@
 			<HanSubst from="ᄶᅢᆯ" to="화장실"/>
 			<HanSubst from="ᄶᅢᆷ" to="참새"/>
 			<HanSubst from="ᄶᅢᆼ" to="지상"/>
-			<HanSubst from="ᄶᅣᆨ" to="서쪽"/>
 			<HanSubst from="ᄶᅥ" to="아저씨"/>
 			<HanSubst from="ᄶᅥᆨ" to="참석"/>
 			<HanSubst from="ᄶᅥᆫ" to="조선"/>
@@ -2798,14 +2876,17 @@
 			<HanSubst from="ᄶᅭᆫ" to="사전"/>
 			<HanSubst from="ᄶᅭᆼ" to="사정"/>
 			<HanSubst from="ᄶᅮ" to="수준"/>
-			<HanSubst from="ᄶᅮᆨ" to="선진국"/>
+			<HanSubst from="ᄶᅮᆨ" to="주식"/>
 			<HanSubst from="ᄶᅮᆯ" to="수출"/>
 			<HanSubst from="ᄶᅮᆼ" to="소중"/>
 			<HanSubst from="ᄶᆉ" to="숫자"/>
+			<HanSubst from="ᄶᅯ" to="선진국"/>
+			<HanSubst from="ᄶᅯᆨ" to="서쪽"/>
 			<HanSubst from="ᄶᅰ" to="중세"/>
 			<HanSubst from="ᄶᅰᆨ" to="숙제"/>
-			<HanSubst from="ᄶᅱ" to="성취"/>
+			<HanSubst from="ᄶᅱ" to="제시"/>
 			<HanSubst from="ᄶᅱᆨ" to="주식"/>
+			<HanSubst from="ᄶᅱᆼ" to="성취"/>
 			<HanSubst from="ᄶᅲ" to="소주"/>
 			<HanSubst from="ᄶᅴ" to="시리즈"/>
 			<HanSubst from="ᄶᅵ" to="지시"/>
@@ -2815,7 +2896,6 @@
 			<HanSubst from="ᄶᅵᆯ" to="실제"/>
 			<HanSubst from="ᄶᅵᆷ" to="점심"/>
 			<HanSubst from="ᄶᅵᆼ" to="실정"/>
-			<HanSubst from="ᄶퟀ" to="제시"/>
 			<HanSubst from="ᄋᅠᆨ" to="음악"/>
 			<HanSubst from="ᄋᅠᆫ" to="어떤 "/>
 			<HanSubst from="ᄋᅠᆬ" to="인물"/>
@@ -2828,6 +2908,7 @@
 			<HanSubst from="ᄋᅠᆹ" to="없이 "/>
 			<HanSubst from="ᄋᅠᆺ" to="이웃"/>
 			<HanSubst from="ᄋᅠᆼ" to="여성"/>
+			<HanSubst from="ᄋᅠᆽ" to="있을 "/>
 			<HanSubst from="ᄋᅠᇂ" to="이렇"/>
 			<HanSubst from="아ᇻ" to="압력"/>
 			<HanSubst from="ᄋᅾ" to="영국"/>
@@ -2838,14 +2919,13 @@
 			<HanSubst from="ᄋᆉᆯ" to="아울러"/>
 			<HanSubst from="ᄋᆉᆺ" to="아무것"/>
 			<HanSubst from="ᄋힻ" to="은혜"/>
+			<HanSubst from="ᄋힼ" to="예의"/>
 			<HanSubst from="ᄋᆕ" to="의문"/>
 			<HanSubst from="이ᇺ" to="인력"/>
 			<HanSubst from="ᄋᆘ" to="에요. "/>
 			<HanSubst from="ᄋힿ" to="예요. "/>
 			<HanSubst from="ᄋힿᆫ" to="언제나 "/>
 			<HanSubst from="ᄋퟀ" to="예외"/>
-			<HanSubst from="ᄋퟀᆫ" to="인제 "/>
-			<HanSubst from="ᄋퟀᆻ" to="있게 "/>
 			<HanSubst from="ᄋퟄ" to="영어"/>
 			<HanSubst from="ᄋퟄᆫ" to="영원"/>
 			<HanSubst from="ᄋퟄᆼ" to="영양"/>
@@ -2877,13 +2957,13 @@
 			<HanSubst from="ꥶᅮᆨ" to="이룩"/>
 			<HanSubst from="ꥶᅮᆫ" to="로운 "/>
 			<HanSubst from="ꥶᅯᆫ" to="원리"/>
-			<HanSubst from="ꥶᅱ" to="유리"/>
 			<HanSubst from="ꥶᅲ" to="인류"/>
 			<HanSubst from="ꥶᅳ" to="으로 "/>
 			<HanSubst from="ꥶᅳᆫ" to="얼른 "/>
 			<HanSubst from="ꥶᅳᆷ" to="음료"/>
 			<HanSubst from="ꥶᅵ" to="이래"/>
 			<HanSubst from="ꥶᅵᆫ" to="어린 "/>
+			<HanSubst from="ꥶퟀ" to="유리"/>
 			<HanSubst from="ꥶퟄᆷ" to="어려움"/>
 			<HanSubst from="ꥶᆞ" to="아름"/>
 			<HanSubst from="ꥶᆢ" to="어른"/>
@@ -2902,11 +2982,10 @@
 			<HanSubst from="ᅊᅢ" to="차이"/>
 			<HanSubst from="ᅊᅢᆫ" to="한때"/>
 			<HanSubst from="ᅊᅢᆼ" to="행위"/>
-			<HanSubst from="ᅊᅣᆫ" to="회원"/>
 			<HanSubst from="ᅊᅥᆷ" to="위험"/>
 			<HanSubst from="ᅊᅥᆼ" to="엄청 "/>
 			<HanSubst from="ᅊᅦ" to="업체"/>
-			<HanSubst from="ᅊᅧ" to="여전히"/>
+			<HanSubst from="ᅊᅧ" to="하여 "/>
 			<HanSubst from="ᅊᅧᆫ" to="편안"/>
 			<HanSubst from="ᅊᅧᆸ" to="위협"/>
 			<HanSubst from="ᅊᅧᆼ" to="영향"/>
@@ -2916,6 +2995,7 @@
 			<HanSubst from="ᅊᅪᆫ" to="완전히 "/>
 			<HanSubst from="ᅊᅫ" to="해외"/>
 			<HanSubst from="ᅊᅬ" to="회의"/>
+			<HanSubst from="ᅊᅬᆫ" to="회원"/>
 			<HanSubst from="ᅊᅭᆼ" to="조용히 "/>
 			<HanSubst from="ᅊᅮ" to="이후"/>
 			<HanSubst from="ᅊᅯᆫ" to="원한"/>
@@ -2931,6 +3011,7 @@
 			<HanSubst from="ᅊᅵᆸ" to="입학"/>
 			<HanSubst from="ᅊᆘ" to="카메라"/>
 			<HanSubst from="ᅊힿ" to="헤어"/>
+			<HanSubst from="ᅊퟄ" to="여전히"/>
 			<HanSubst from="ᅊᆞ" to="의학"/>
 			<HanSubst from="ᅌᅠᆫ" to="오는 "/>
 			<HanSubst from="ᅌᅠᆭ" to="안녕"/>
@@ -2955,12 +3036,13 @@
 			<HanSubst from="ᅌᆉ" to="눈앞"/>
 			<HanSubst from="ᅌᅳ" to="이는 "/>
 			<HanSubst from="ᅌᅳᆯ" to="늘어"/>
+			<HanSubst from="ᅌힼ" to="높은 "/>
 			<HanSubst from="ᅌᅴ" to="으니"/>
 			<HanSubst from="ᅌᅵ" to="니까"/>
 			<HanSubst from="ᅌᅵᆫ" to="노인"/>
 			<HanSubst from="ᅌᅵᆯ" to="내일"/>
 			<HanSubst from="ᅌᅵᆷ" to="느낌"/>
-			<HanSubst from="ᅌᆞ" to="어느새"/>
+			<HanSubst from="ᅌᆞ" to="어느새 "/>
 			<HanSubst from="ᅌᆢ" to="어느 "/>
 			<HanSubst from="ᄌᅠᆨ" to="조직"/>
 			<HanSubst from="ᄌᅠᆩ" to="직장"/>
@@ -3015,13 +3097,10 @@
 			<HanSubst from="ᄍᆉᆭ" to="위원장"/>
 			<HanSubst from="ᄍᆉᆼ" to="중앙"/>
 			<HanSubst from="ᄍᆕ" to="주의"/>
-			<HanSubst from="ᄍᆘ" to="이제"/>
 			<HanSubst from="ᄍᆘᆫ" to="언젠가 "/>
 			<HanSubst from="ᄍힿ" to="어제"/>
 			<HanSubst from="ᄍힿᆫ" to="언제"/>
 			<HanSubst from="ᄍힿᆼ" to="예정"/>
-			<HanSubst from="ᄍퟀ" to="이제"/>
-			<HanSubst from="ᄍퟀᆯ" to="제일"/>
 			<HanSubst from="ᄍퟄ" to="여전"/>
 			<HanSubst from="ᄍᆞ" to="의자"/>
 			<HanSubst from="ᄍᆞᆯ" to="짧은 "/>
@@ -3044,7 +3123,6 @@
 			<HanSubst from="ᄎᆘᆫ" to="제한"/>
 			<HanSubst from="ᄎힾ" to="형제"/>
 			<HanSubst from="ᄎힿ" to="체험"/>
-			<HanSubst from="ᄎퟀ" to="치게 "/>
 			<HanSubst from="ᄎퟄ" to="전혀 "/>
 			<HanSubst from="ᄎᆢ" to="저희"/>
 			<HanSubst from="ᄏᅠᆨ" to="개혁"/>
@@ -3055,11 +3133,9 @@
 			<HanSubst from="ᄏᅠᆷ" to="컴퓨터"/>
 			<HanSubst from="ᄏᅠᆺ" to="하겠"/>
 			<HanSubst from="ᄏᅠᆼ" to="고향"/>
+			<HanSubst from="ᄏힰ" to="경향"/>
 			<HanSubst from="ᄏힻ" to="크게 "/>
 			<HanSubst from="ᄏᆘ" to="한계"/>
-			<HanSubst from="ᄏퟀ" to="케이"/>
-			<HanSubst from="ᄏퟀᆨ" to="계획"/>
-			<HanSubst from="ᄏퟄ" to="경향"/>
 			<HanSubst from="ᄏᆞ" to="한글"/>
 			<HanSubst from="ᄐᅠᆨ" to="특히 "/>
 			<HanSubst from="ᄐᅠᆩ" to="특정"/>
@@ -3089,6 +3165,7 @@
 			<HanSubst from="ᅗᅠᆷ" to="주님"/>
 			<HanSubst from="ᅗᅠᆼ" to="나중"/>
 			<HanSubst from="ᅗᅡᆫ" to="지난 "/>
+			<HanSubst from="ᅗᅢ" to="내지 "/>
 			<HanSubst from="ᅗᅢᆫ" to="지난해"/>
 			<HanSubst from="ᅗᅢᆯ" to="지난달"/>
 			<HanSubst from="ᅗᅥ" to="저녁"/>

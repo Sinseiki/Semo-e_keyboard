@@ -8,12 +8,12 @@
 			<Key at="0x24" value="T==101 ? 0x2163 : T==102 ? 0x2084 : T==103 ? 0x2074 : 0x24"/>
 			<Key at="0x25" value="T==101 ? 0x2164 : T==102 ? 0x2085 : T==103 ? 0x2075 : 0x25"/>
 			<Key at="0x26" value="T==101 ? 0x2166 : T==102 ? 0x2087 : T==103 ? 0x2077 : 0x26"/>
-			<Key at="0x27" value="T==101 ? 0x5B : T==102 ? 0x266A : T==103 ? 0x266C : P ? N&amp;2 ? 0x3003 : 0x22 : 0x2C"/>
+			<Key at="0x27" value="T==101 ? 0x5B : T==102 ? 0x266A : T==103 ? 0x266C : P ? N&amp;2 ? 0x3003 : 0x22 : 0x27"/>
 			<Key at="0x28" value="T==101 ? 0x2168 : T==102 ? 0x2089 : T==103 ? 0x2079 : 0x28"/>
 			<Key at="0x29" value="T==101 ? 0x2169 : T==102 ? 0x2080 : T==103 ? 0x2070 : 0x29"/>
 			<Key at="0x2A" value="T==101 ? 0x2167 : T==102 ? 0x2088 : T==103 ? 0x2078 : 0x2A"/>
 			<Key at="0x2B" value="T==101 ? 0x216B : T==102 ? 0x208A : T==103 ? 0x207A : 0x2B"/>
-			<Key at="0x2C" value="T==101 ? 0x326A : T==102 ? 0x3008 : T==103 ? 0x300A : P ? 0x3C : 0x2E"/>
+			<Key at="0x2C" value="T==101 ? 0x326A : T==102 ? 0x3008 : T==103 ? 0x300A : P ? 0x3C : 0x2C"/>
 			<Key at="0x2D" value="T==101 ? 0xB1 : T==102 ? 0x2642 : T==103 ? 0x2602 : P ? 0x5F : 0x2D"/>
 			<Key at="0x2E" value="T==101 ? 0x3269 : T==102 ? 0x3009 : T==103 ? 0x300B : P ? 0x3E : H3|O_"/>
 			<Key at="0x2F" value="T==101 ? 0x2F : T==102 ? 0x203B : T==103 ? 0x2620 : P ? 0x3F : 0x2F"/>
@@ -40,18 +40,18 @@
 			<Key at="0x44" value="T==101 ? 0x3B4 : T==102 ? 0x2206 : T==103 ? 0x2207 : 0x203B"/>
 			<Key at="0x45" value="T==101 ? 0x3B5 : T==102 ? 0x2203 : T==103 ? 0x2204 : !z ? H3|_J : z==1 ? (z=0, H3|_wJ) : z==0x11 ? (z=0, H3|_wJJ) : z==2 ? (z=0, H3|_Jw) : z==0x12 ? (z=0, H3|_JJw) : 0"/>
 			<Key at="0x46" value="T==101 ? 0x3C6 : T==102 ? 0x3D5 : T==103 ? 0x2205 : H3|F_"/>
-			<Key at="0x47" value="T==101 ? 0x3B3 : T==102 ? 0x393 : T==103 ? 0x222B : H3|EU"/>
+			<Key at="0x47" value="T==101 ? 0x3B3 : T==102 ? 0x393 : T==103 ? 0x222B : H3|YA"/>
 			<Key at="0x48" value="T==101 ? 0x3B7 : T==102 ? 0x2610 : T==103 ? 0x2611 : N&amp;2 ? 0xA7 : 0xB7"/>
 			<Key at="0x49" value="T==101 ? 0x3B9 : T==102 ? 0x2229 : T==103 ? 0x221E : H3|T_"/>
 			<Key at="0x4A" value="T==101 ? 0x25CC : T==102 ? 0x2228 : T==103 ? 0x2235 : C1|100"/>
 			<Key at="0x4B" value="T==101 ? 0x3BA : T==102 ? 0x2227 : T==103 ? 0x2234 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|101 : H3|K_"/>
 			<Key at="0x4C" value="T==101 ? 0x3BB : T==102 ? 0x21B2 : T==103 ? 0x2B10 : T==100&amp;&amp;!E&amp;&amp;!F ? C1|102 : !z ? H3|C_ : z%0x10==1 ? (z=0, H3|wC) : z%0x10==2 ? (z=0, H3|Cw) : 0"/>
-			<Key at="0x4D" value="T==101 ? 0x3BC : T==102 ? 0x2287 : T==103 ? 0x228B : 0x27"/>
+			<Key at="0x4D" value="T==101 ? 0x3BC : T==102 ? 0x2287 : T==103 ? 0x228B : H3|R_"/>
 			<Key at="0x4E" value="T==101 ? 0x3BD : T==102 ? 0x2286 : T==103 ? 0x228A : H3|S_"/>
 			<Key at="0x4F" value="T==101 ? 0x3BF : T==102 ? 0x21B0 : T==103 ? 0x2B11 : !P ? !z ? H3|P_ : z==2 ? (z=0, H3|PQ) : 0 : z%0x10==2 ? (z=0, C0|0xE) : (z=(z&amp;&amp;z)*0x10+1) ? C0 : 0"/>
 			<Key at="0x50" value="T==101 ? 0x3C0 : T==102 ? 0x21B1 : T==103 ? 0x2B0F : 0x3B"/>
 			<Key at="0x51" value="T==101 ? 0x3B8 : T==102 ? 0x2208 : T==103 ? 0x2209 : !z ? H3|_C : z%0x10==1 ? (z=0, H3|_wC) : z%0x10==2 ? (z=0, H3|_Cw) : 0"/>
-			<Key at="0x52" value="T==101 ? 0x3C1 : T==102 ? 0xAC : T==103 ? 0x2202 : H3|YA"/>
+			<Key at="0x52" value="T==101 ? 0x3C1 : T==102 ? 0xAC : T==103 ? 0x2202 : H3|UEO"/>
 			<Key at="0x53" value="T==101 ? 0x3C3 : T==102 ? 0x2211 : T==103 ? 0x220F : !z ? H3|_H : z%0x10==1 ? (z=0, H3|_H) : z==2 ? (z=0, H3|_X) : z==0x12 ? (z=0, H3|_XX) : 0"/>
 			<Key at="0x54" value="T==101 ? 0x3C4 : T==102 ? 0x22A4 : T==103 ? 0x22A5 : H3|YAE"/>
 			<Key at="0x55" value="T==101 ? 0x3C5 : T==102 ? 0x222A : T==103 ? 0x221D : !z ? z%0x10==1 ? (z=0, C0|0xE) : (z=(z&amp;&amp;z)*0x10+2) ? C0 : 0 : z==1 || z==2 ? (z=0, 0x302E) : 0"/>
@@ -81,7 +81,7 @@
 			<Key at="0x6D" value="T==101 ? 0x3263 : T==102 ? 0x300D : T==103 ? 0x300F : !P ? !z ? H3|R_ : z==2 ? (z=0, H3|RQ) : 0 : z%0x10==2 ? (z=0, C0|0xE) : (z=(z&amp;&amp;z)*0x10+1) ? C0 : 0"/>
 			<Key at="0x6E" value="T==101 ? 0x3266 : T==102 ? 0x300C : T==103 ? 0x300E : !P ? !z ? H3|S_ : z==2 ? (z=0, H3|Z_) : 0 : z%0x10==2 ? (z=0, C0|0xE) : (z=(z&amp;&amp;z)*0x10+1) ? C0 : 0"/>
 			<Key at="0x6F" value="T==101 ? 0x3265 : T==102 ? 0x2196 : T==103 ? 0x21D6 : !P ? !z ? H3|B_ : z==2 ? (z=0, H3|BQ) : 0 : z%0x10==2 ? (z=0, C0|0xE) : (z=(z&amp;&amp;z)*0x10+1) ? C0 : 0"/>
-			<Key at="0x70" value="T==101 ? 0x326C : T==102 ? 0x2197 : T==103 ? 0x21D7 : P ? N&amp;2 ? 0x25BC : 0x25BD : H3|U_"/>
+			<Key at="0x70" value="T==101 ? 0x326C : T==102 ? 0x2197 : T==103 ? 0x21D7 : P ? N&amp;2 ? 0x25BC : 0x25BD : 0x2E"/>
 			<Key at="0x71" value="T==101 ? 0x25C1 : T==102 ? 0x2190 : T==103 ? 0x21D0 : P ? !z ? H3|_C : z%0x10==1 ? (z=0, H3|_wC) : z%0x10==2 ? (z=0, H3|_Cw) : 0 : !z ? H3|_S : z==1 ? (z=0, H3|_S) : z==0x11 ? (z=0, H3|_S) : z==2 ? (z=0, H3|_Z) : z==0x12 ? (z=0, H3|_Z) : 0"/>
 			<Key at="0x72" value="T==101 ? 0x25B7 : T==102 ? 0x2192 : T==103 ? 0x21D2 : P ? N&amp;2 ? 0x2605 : 0x2606 : H3|EO"/>
 			<Key at="0x73" value="T==101 ? 0x25A1 : T==102 ? 0x25A3 : T==103 ? 0x25A0 : P ? N&amp;2 ? 0x21E9 : 0x2193 : H3|_N"/>
