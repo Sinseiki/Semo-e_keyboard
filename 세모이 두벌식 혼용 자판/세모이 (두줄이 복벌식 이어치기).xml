@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND" remark="&#x01;두줄이 세모이 복벌식 - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 세모이 자판과 두줄이 자판을 쉽게 왔다갔다 할 수 있는 복벌식 자판입니다. &#x0D;&#x0A;    ● 왼손부터 타자를 시작하면 두줄이 자판, 오른손부터 타자를 시작하면 세모이자판으로 타자를 할 수 있습니다. (이어치기만 가능합니다.)&#x0D;&#x0A;    &#x0D;&#x0A;- 세모이 자판의 경우 세미콜론(;)은 P에, 온점(.)은 p에 있습니다. &#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트)의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● ㅟ는 ㅔ + ㅣ 로도 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다.&#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.&#x0D;&#x0A;        (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '! '=y+u, ', '=u+i, '. '=i+o, '? '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: https://blog.naver.com/eekdland/220239514856&#x0D;&#x0A;- 자판 설명: https://blog.naver.com/eekdland/220526834927" name="두벌식 두줄이 세모이 복벌식" object="CAdvancedScheme">
+	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND" remark="&#x01;두줄이 세모이 복벌식 - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 세모이 자판과 두줄이 자판을 쉽게 왔다갔다 할 수 있는 복벌식 자판입니다. &#x0D;&#x0A;    ● 왼손부터 타자를 시작하면 두줄이 자판, 오른손부터 타자를 시작하면 세모이자판으로 타자를 할 수 있습니다. (이어치기만 가능합니다.)&#x0D;&#x0A;&#x0D;&#x0A;- 두줄이 자판의 경우 겹받침확장 부가 기능이 지원되어 받침을 입력할 때에 i은 ㅄ, j는 ㄶ, k는 ㄺ, l은 ㄲ로 임시 전환됩니다. (이중모음을 쓸 경우에는 이중모음이 겹받침보다 우선적으로 입력됩니다.)&#x0D;&#x0A;- 그 외에도 두줄이 자판에서는 대체시프트(/) 부가기능이 지원되어 한글 낱자를 입력할 때 아랫글쇠 → / 키를 누르시면 윗글쇠를 입력하실 수 있습니다.&#x0D;&#x0A;    &#x0D;&#x0A;- 세모이 자판의 경우 세미콜론(;)은 P에, 온점(.)은 p에 있습니다. &#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트)의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● ㅟ는 ㅔ + ㅣ 로도 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다.&#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.&#x0D;&#x0A;        (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '! '=y+u, ', '=u+i, '. '=i+o, '? '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: https://blog.naver.com/eekdland/220239514856&#x0D;&#x0A;- 자판 설명: https://blog.naver.com/eekdland/220526834927" name="두벌식 두줄이 세모이 복벌식" object="CAdvancedScheme">
 		<KeyTable name="세벌식 모아치기 e (세모이) (복벌식)" flag="0" from="33" to="126">
 			<Key at="0x21" value="0x21"/>
 			<Key at="0x22" value="0x22"/>
@@ -16,7 +16,7 @@
 			<Key at="0x2C" value="0x2C"/>
 			<Key at="0x2D" value="0x2D"/>
 			<Key at="0x2E" value="q ? H3|0x1F40000 : 0x2E"/>
-			<Key at="0x2F" value="q=T ? q : 1, q ? 0x2F : Z ? (Z=0, 0x3F) : (D==1 || D==24 || D==86 || D==161)&amp;&amp;!E ? H2|0x1F4 : (E==5 || E==15)&amp;&amp;!F ? H2|0x1F50000 : F==1 ? (h=1, H2|_GG) : F==24 ? (h=1, H2|_DD) : F==86 ? (h=1, H2|_BB) : F==161 ? (h=1, H2|_JJ) : 0x2F"/>
+			<Key at="0x2F" value="q=T ? q : 1, q ? 0x2F : (D==1 || D==24 || D==86 || D==161)&amp;&amp;!E ? H2|0x1F4 : (E==5 || E==15)&amp;&amp;!F ? H2|0x1F50000 : F==1 ? (h=1, H2|_GG) : F==20 || F==24 || F==37 || F==51 || F==86 || F==161 ? H2|0x1F400000000 : 0x2F"/>
 			<Key at="0x30" value="0x30"/>
 			<Key at="0x31" value="0x31"/>
 			<Key at="0x32" value="0x32"/>
@@ -82,14 +82,14 @@
 			<Key at="0x6E" value="q=T ? q : 1, q ? H3|S_ : H2|AE"/>
 			<Key at="0x6F" value="q=T ? q : 1, q ? H3|B_ : H2|YA"/>
 			<Key at="0x70" value="q ? 0x2E : H2|YU"/>
-			<Key at="0x71" value="q=T ? q : 0, q ? H3|_S : T&lt;=1 ? H2|B_ : H2|_B"/>
+			<Key at="0x71" value="q=T ? q : 0, q ? H3|0x1FB00000000 : T&lt;=1 ? H2|B_ : H2|_B"/>
 			<Key at="0x72" value="q=T ? q : 0, q ? H3|EO : T&lt;=1 ? H2|H_ : H2|_H"/>
 			<Key at="0x73" value="q=T ? q : 0, q ? H3|_N : T&lt;=1 ? H2|N_ : H2|_N"/>
 			<Key at="0x74" value="q=T ? q : 0, q ? H3|YEO : T&lt;=1 ? H2|S_ : H2|_S"/>
 			<Key at="0x75" value="q=T ? q : 1, q ? H3|N_ : H2|EO"/>
 			<Key at="0x76" value="q=T ? q : 0, q ? H3|O_ : T&lt;=1 ? H2|SS : H2|_SS"/>
-			<Key at="0x77" value="q=T ? q : 0, q ? H3|_B : T&lt;=1 ? H2|J_ : H2|_J"/>
-			<Key at="0x78" value="q=T ? q : 0, q ? H3|_G : T&lt;=1 ? H2|T_ : H2|_T"/>
+			<Key at="0x77" value="q=T ? q : 0, q ? H3|0x1FA00000000 : T&lt;=1 ? H2|J_ : H2|_J"/>
+			<Key at="0x78" value="q=T ? q : 0, q ? H3|0x1F500000000 : T&lt;=1 ? H2|T_ : H2|_T"/>
 			<Key at="0x79" value="q=T ? q : 1, q ? H3|M_ : H2|YO"/>
 			<Key at="0x7A" value="q=T ? q : 0, q ? H3|_M : T&lt;=1 ? H2|K_ : H2|_K"/>
 			<Key at="0x7B" value="0x7B"/>
@@ -401,165 +401,189 @@
 			<UnitMix unit="JUNG" a="500" b="I_" to="OI"/>
 			<UnitMix unit="JUNG" a="500" b="FI" to="YAO"/>
 			<UnitMix unit="JUNG" a="500" b="500" to="YO"/>
-			<UnitMix unit="JONG" a="G_" b="G_" to="GG"/>
-			<UnitMix unit="JONG" a="G_" b="N_" to="GN"/>
-			<UnitMix unit="JONG" a="G_" b="D_" to="GS"/>
 			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
-			<UnitMix unit="JONG" a="G_" b="RS" to="RGS"/>
-			<UnitMix unit="JONG" a="G_" b="RX" to="SG"/>
-			<UnitMix unit="JONG" a="G_" b="M_" to="RG"/>
-			<UnitMix unit="JONG" a="G_" b="B_" to="GB"/>
 			<UnitMix unit="JONG" a="G_" b="S_" to="GS"/>
-			<UnitMix unit="JONG" a="G_" b="SS" to="K_"/>
-			<UnitMix unit="JONG" a="G_" b="Q_" to="GG"/>
-			<UnitMix unit="JONG" a="G_" b="H_" to="K_"/>
-			<UnitMix unit="JONG" a="GG" b="G_" to="K_"/>
-			<UnitMix unit="JONG" a="N_" b="G_" to="GN"/>
+			<UnitMix unit="JONG" a="GG" b="500" to="65531"/>
+			<UnitMix unit="JONG" a="GG" b="501" to="K_"/>
 			<UnitMix unit="JONG" a="N_" b="N_" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="R_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="RX" to="ND"/>
 			<UnitMix unit="JONG" a="N_" b="M_" to="T_"/>
-			<UnitMix unit="JONG" a="N_" b="B_" to="P_"/>
-			<UnitMix unit="JONG" a="N_" b="S_" to="NS"/>
 			<UnitMix unit="JONG" a="N_" b="SS" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
 			<UnitMix unit="JONG" a="N_" b="J_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="501" to="GN"/>
+			<UnitMix unit="JONG" a="N_" b="506" to="P_"/>
+			<UnitMix unit="JONG" a="N_" b="507" to="NS"/>
+			<UnitMix unit="JONG" a="N_" b="509" to="NJ"/>
 			<UnitMix unit="JONG" a="NJ" b="N_" to="RH"/>
-			<UnitMix unit="JONG" a="D_" b="G_" to="GS"/>
-			<UnitMix unit="JONG" a="D_" b="RH" to="RT"/>
-			<UnitMix unit="JONG" a="D_" b="M_" to="T_"/>
-			<UnitMix unit="JONG" a="D_" b="Q_" to="RT"/>
-			<UnitMix unit="JONG" a="D_" b="H_" to="T_"/>
+			<UnitMix unit="JONG" a="NJ" b="500" to="65531"/>
+			<UnitMix unit="JONG" a="D_" b="500" to="65531"/>
 			<UnitMix unit="JONG" a="R_" b="G_" to="RG"/>
 			<UnitMix unit="JONG" a="R_" b="N_" to="NJ"/>
-			<UnitMix unit="JONG" a="R_" b="R_" to="J_"/>
+			<UnitMix unit="JONG" a="R_" b="R_" to="509"/>
 			<UnitMix unit="JONG" a="R_" b="RX" to="RD"/>
 			<UnitMix unit="JONG" a="R_" b="M_" to="RM"/>
 			<UnitMix unit="JONG" a="R_" b="B_" to="RB"/>
 			<UnitMix unit="JONG" a="R_" b="S_" to="RS"/>
-			<UnitMix unit="JONG" a="R_" b="SS" to="J_"/>
+			<UnitMix unit="JONG" a="R_" b="SS" to="509"/>
 			<UnitMix unit="JONG" a="R_" b="Z_" to="RZ"/>
-			<UnitMix unit="JONG" a="R_" b="Q_" to="G_"/>
+			<UnitMix unit="JONG" a="R_" b="Q_" to="501"/>
 			<UnitMix unit="JONG" a="R_" b="C_" to="GG"/>
 			<UnitMix unit="JONG" a="R_" b="T_" to="RT"/>
 			<UnitMix unit="JONG" a="R_" b="P_" to="RP"/>
 			<UnitMix unit="JONG" a="R_" b="H_" to="RH"/>
+			<UnitMix unit="JONG" a="R_" b="501" to="RG"/>
+			<UnitMix unit="JONG" a="R_" b="506" to="RB"/>
+			<UnitMix unit="JONG" a="R_" b="507" to="RS"/>
 			<UnitMix unit="JONG" a="RG" b="SS" to="GS"/>
+			<UnitMix unit="JONG" a="RG" b="500" to="65531"/>
 			<UnitMix unit="JONG" a="RM" b="M_" to="RT"/>
-			<UnitMix unit="JONG" a="RB" b="B_" to="RP"/>
 			<UnitMix unit="JONG" a="RB" b="SS" to="T_"/>
-			<UnitMix unit="JONG" a="RS" b="G_" to="RGS"/>
+			<UnitMix unit="JONG" a="RB" b="500" to="65531"/>
+			<UnitMix unit="JONG" a="RB" b="506" to="RP"/>
 			<UnitMix unit="JONG" a="RS" b="RX" to="SB"/>
-			<UnitMix unit="JONG" a="RS" b="B_" to="RBS"/>
 			<UnitMix unit="JONG" a="RS" b="SS" to="GG"/>
-			<UnitMix unit="JONG" a="RH" b="D_" to="RT"/>
+			<UnitMix unit="JONG" a="RS" b="501" to="RGS"/>
+			<UnitMix unit="JONG" a="RS" b="506" to="RBS"/>
 			<UnitMix unit="JONG" a="RH" b="R_" to="K_"/>
-			<UnitMix unit="JONG" a="RH" b="B_" to="RP"/>
-			<UnitMix unit="JONG" a="RX" b="G_" to="SG"/>
+			<UnitMix unit="JONG" a="RH" b="503" to="RT"/>
+			<UnitMix unit="JONG" a="RH" b="506" to="RP"/>
 			<UnitMix unit="JONG" a="RX" b="N_" to="ND"/>
 			<UnitMix unit="JONG" a="RX" b="R_" to="RD"/>
 			<UnitMix unit="JONG" a="RX" b="RS" to="SB"/>
 			<UnitMix unit="JONG" a="RX" b="M_" to="MQ"/>
-			<UnitMix unit="JONG" a="RX" b="B_" to="BQ"/>
-			<UnitMix unit="JONG" a="RX" b="S_" to="SD"/>
 			<UnitMix unit="JONG" a="RX" b="Z_" to="RRK"/>
 			<UnitMix unit="JONG" a="RX" b="Q_" to="PQ"/>
 			<UnitMix unit="JONG" a="RX" b="V_" to="X_"/>
-			<UnitMix unit="JONG" a="M_" b="G_" to="RG"/>
+			<UnitMix unit="JONG" a="RX" b="501" to="SG"/>
+			<UnitMix unit="JONG" a="RX" b="506" to="BQ"/>
+			<UnitMix unit="JONG" a="RX" b="507" to="SD"/>
 			<UnitMix unit="JONG" a="M_" b="N_" to="T_"/>
 			<UnitMix unit="JONG" a="M_" b="R_" to="RM"/>
 			<UnitMix unit="JONG" a="M_" b="RX" to="MQ"/>
-			<UnitMix unit="JONG" a="M_" b="M_" to="D_"/>
-			<UnitMix unit="JONG" a="M_" b="B_" to="MB"/>
-			<UnitMix unit="JONG" a="M_" b="S_" to="MS"/>
-			<UnitMix unit="JONG" a="M_" b="SS" to="D_"/>
+			<UnitMix unit="JONG" a="M_" b="M_" to="503"/>
+			<UnitMix unit="JONG" a="M_" b="SS" to="503"/>
 			<UnitMix unit="JONG" a="M_" b="Z_" to="MZ"/>
 			<UnitMix unit="JONG" a="M_" b="Q_" to="RT"/>
 			<UnitMix unit="JONG" a="M_" b="K_" to="GS"/>
-			<UnitMix unit="JONG" a="B_" b="G_" to="GB"/>
-			<UnitMix unit="JONG" a="B_" b="N_" to="P_"/>
+			<UnitMix unit="JONG" a="M_" b="501" to="RG"/>
+			<UnitMix unit="JONG" a="M_" b="506" to="MB"/>
+			<UnitMix unit="JONG" a="M_" b="507" to="MS"/>
 			<UnitMix unit="JONG" a="B_" b="R_" to="RB"/>
-			<UnitMix unit="JONG" a="B_" b="RS" to="RBS"/>
-			<UnitMix unit="JONG" a="B_" b="RH" to="RP"/>
-			<UnitMix unit="JONG" a="B_" b="RX" to="BQ"/>
-			<UnitMix unit="JONG" a="B_" b="M_" to="MB"/>
-			<UnitMix unit="JONG" a="B_" b="B_" to="P_"/>
 			<UnitMix unit="JONG" a="B_" b="S_" to="BS"/>
-			<UnitMix unit="JONG" a="B_" b="SS" to="P_"/>
-			<UnitMix unit="JONG" a="B_" b="Q_" to="RP"/>
-			<UnitMix unit="JONG" a="B_" b="J_" to="T_"/>
-			<UnitMix unit="JONG" a="B_" b="C_" to="RM"/>
-			<UnitMix unit="JONG" a="B_" b="H_" to="P_"/>
+			<UnitMix unit="JONG" a="B_" b="500" to="65531"/>
 			<UnitMix unit="JONG" a="BS" b="SS" to="RM"/>
 			<UnitMix unit="JONG" a="S_" b="G_" to="GS"/>
-			<UnitMix unit="JONG" a="S_" b="N_" to="NS"/>
 			<UnitMix unit="JONG" a="S_" b="R_" to="RS"/>
-			<UnitMix unit="JONG" a="S_" b="RX" to="SD"/>
-			<UnitMix unit="JONG" a="S_" b="M_" to="MS"/>
 			<UnitMix unit="JONG" a="S_" b="B_" to="BS"/>
-			<UnitMix unit="JONG" a="S_" b="S_" to="SS"/>
-			<UnitMix unit="JONG" a="S_" b="SS" to="C_"/>
-			<UnitMix unit="JONG" a="S_" b="Q_" to="SS"/>
-			<UnitMix unit="JONG" a="S_" b="V_" to="VS"/>
-			<UnitMix unit="JONG" a="S_" b="J_" to="GG"/>
-			<UnitMix unit="JONG" a="S_" b="P_" to="RM"/>
-			<UnitMix unit="JONG" a="SS" b="G_" to="K_"/>
 			<UnitMix unit="JONG" a="SS" b="N_" to="H_"/>
-			<UnitMix unit="JONG" a="SS" b="D_" to="T_"/>
-			<UnitMix unit="JONG" a="SS" b="R_" to="J_"/>
+			<UnitMix unit="JONG" a="SS" b="R_" to="509"/>
 			<UnitMix unit="JONG" a="SS" b="RG" to="GS"/>
 			<UnitMix unit="JONG" a="SS" b="RB" to="T_"/>
 			<UnitMix unit="JONG" a="SS" b="RS" to="GG"/>
-			<UnitMix unit="JONG" a="SS" b="M_" to="D_"/>
-			<UnitMix unit="JONG" a="SS" b="B_" to="P_"/>
+			<UnitMix unit="JONG" a="SS" b="M_" to="503"/>
 			<UnitMix unit="JONG" a="SS" b="BS" to="RM"/>
-			<UnitMix unit="JONG" a="SS" b="S_" to="C_"/>
 			<UnitMix unit="JONG" a="SS" b="Q_" to="RH"/>
+			<UnitMix unit="JONG" a="SS" b="501" to="K_"/>
+			<UnitMix unit="JONG" a="SS" b="503" to="T_"/>
+			<UnitMix unit="JONG" a="SS" b="506" to="P_"/>
+			<UnitMix unit="JONG" a="SS" b="507" to="C_"/>
 			<UnitMix unit="JONG" a="Z_" b="N_" to="NZ"/>
 			<UnitMix unit="JONG" a="Z_" b="R_" to="RZ"/>
 			<UnitMix unit="JONG" a="Z_" b="RX" to="RRK"/>
 			<UnitMix unit="JONG" a="Z_" b="M_" to="MZ"/>
 			<UnitMix unit="JONG" a="Z_" b="V_" to="VZ"/>
-			<UnitMix unit="JONG" a="Q_" b="G_" to="GG"/>
 			<UnitMix unit="JONG" a="Q_" b="N_" to="NH"/>
-			<UnitMix unit="JONG" a="Q_" b="R_" to="G_"/>
+			<UnitMix unit="JONG" a="Q_" b="R_" to="501"/>
 			<UnitMix unit="JONG" a="Q_" b="RX" to="PQ"/>
 			<UnitMix unit="JONG" a="Q_" b="M_" to="RT"/>
-			<UnitMix unit="JONG" a="Q_" b="B_" to="RP"/>
-			<UnitMix unit="JONG" a="Q_" b="S_" to="SS"/>
 			<UnitMix unit="JONG" a="Q_" b="SS" to="RH"/>
 			<UnitMix unit="JONG" a="Q_" b="Q_" to="T_"/>
+			<UnitMix unit="JONG" a="Q_" b="501" to="GG"/>
+			<UnitMix unit="JONG" a="Q_" b="506" to="RP"/>
+			<UnitMix unit="JONG" a="Q_" b="507" to="SS"/>
 			<UnitMix unit="JONG" a="V_" b="RX" to="X_"/>
-			<UnitMix unit="JONG" a="V_" b="S_" to="VS"/>
 			<UnitMix unit="JONG" a="V_" b="Z_" to="VZ"/>
+			<UnitMix unit="JONG" a="V_" b="507" to="VS"/>
 			<UnitMix unit="JONG" a="J_" b="N_" to="NJ"/>
-			<UnitMix unit="JONG" a="J_" b="B_" to="T_"/>
-			<UnitMix unit="JONG" a="J_" b="S_" to="GG"/>
-			<UnitMix unit="JONG" a="J_" b="Q_" to="K_"/>
+			<UnitMix unit="JONG" a="J_" b="500" to="65531"/>
 			<UnitMix unit="JONG" a="C_" b="R_" to="GG"/>
-			<UnitMix unit="JONG" a="C_" b="B_" to="RM"/>
+			<UnitMix unit="JONG" a="C_" b="506" to="RM"/>
 			<UnitMix unit="JONG" a="K_" b="M_" to="GS"/>
 			<UnitMix unit="JONG" a="T_" b="R_" to="RT"/>
 			<UnitMix unit="JONG" a="T_" b="Q_" to="RH"/>
 			<UnitMix unit="JONG" a="P_" b="R_" to="RP"/>
-			<UnitMix unit="JONG" a="P_" b="S_" to="RM"/>
-			<UnitMix unit="JONG" a="H_" b="G_" to="K_"/>
+			<UnitMix unit="JONG" a="P_" b="507" to="RM"/>
 			<UnitMix unit="JONG" a="H_" b="N_" to="NH"/>
-			<UnitMix unit="JONG" a="H_" b="D_" to="T_"/>
 			<UnitMix unit="JONG" a="H_" b="R_" to="RH"/>
-			<UnitMix unit="JONG" a="H_" b="B_" to="P_"/>
+			<UnitMix unit="JONG" a="H_" b="501" to="K_"/>
+			<UnitMix unit="JONG" a="H_" b="503" to="T_"/>
+			<UnitMix unit="JONG" a="H_" b="506" to="P_"/>
+			<UnitMix unit="JONG" a="501" b="N_" to="GN"/>
+			<UnitMix unit="JONG" a="501" b="R_" to="RG"/>
+			<UnitMix unit="JONG" a="501" b="RS" to="RGS"/>
+			<UnitMix unit="JONG" a="501" b="RX" to="SG"/>
+			<UnitMix unit="JONG" a="501" b="M_" to="RG"/>
+			<UnitMix unit="JONG" a="501" b="SS" to="K_"/>
+			<UnitMix unit="JONG" a="501" b="Q_" to="GG"/>
+			<UnitMix unit="JONG" a="501" b="H_" to="K_"/>
+			<UnitMix unit="JONG" a="501" b="501" to="GG"/>
+			<UnitMix unit="JONG" a="501" b="503" to="GS"/>
+			<UnitMix unit="JONG" a="501" b="506" to="GB"/>
+			<UnitMix unit="JONG" a="501" b="507" to="GS"/>
+			<UnitMix unit="JONG" a="503" b="RH" to="RT"/>
+			<UnitMix unit="JONG" a="503" b="M_" to="T_"/>
+			<UnitMix unit="JONG" a="503" b="Q_" to="RT"/>
+			<UnitMix unit="JONG" a="503" b="H_" to="T_"/>
+			<UnitMix unit="JONG" a="503" b="501" to="GS"/>
+			<UnitMix unit="JONG" a="506" b="N_" to="P_"/>
+			<UnitMix unit="JONG" a="506" b="R_" to="RB"/>
+			<UnitMix unit="JONG" a="506" b="RS" to="RBS"/>
+			<UnitMix unit="JONG" a="506" b="RH" to="RP"/>
+			<UnitMix unit="JONG" a="506" b="RX" to="BQ"/>
+			<UnitMix unit="JONG" a="506" b="M_" to="MB"/>
+			<UnitMix unit="JONG" a="506" b="SS" to="P_"/>
+			<UnitMix unit="JONG" a="506" b="Q_" to="RP"/>
+			<UnitMix unit="JONG" a="506" b="C_" to="RM"/>
+			<UnitMix unit="JONG" a="506" b="H_" to="P_"/>
+			<UnitMix unit="JONG" a="506" b="501" to="GB"/>
+			<UnitMix unit="JONG" a="506" b="506" to="P_"/>
+			<UnitMix unit="JONG" a="506" b="507" to="BS"/>
+			<UnitMix unit="JONG" a="506" b="509" to="T_"/>
+			<UnitMix unit="JONG" a="507" b="N_" to="NS"/>
+			<UnitMix unit="JONG" a="507" b="R_" to="RS"/>
+			<UnitMix unit="JONG" a="507" b="RX" to="SD"/>
+			<UnitMix unit="JONG" a="507" b="M_" to="MS"/>
+			<UnitMix unit="JONG" a="507" b="SS" to="C_"/>
+			<UnitMix unit="JONG" a="507" b="Q_" to="SS"/>
+			<UnitMix unit="JONG" a="507" b="V_" to="VS"/>
+			<UnitMix unit="JONG" a="507" b="P_" to="RM"/>
+			<UnitMix unit="JONG" a="507" b="501" to="GS"/>
+			<UnitMix unit="JONG" a="507" b="506" to="BS"/>
+			<UnitMix unit="JONG" a="507" b="507" to="SS"/>
+			<UnitMix unit="JONG" a="507" b="509" to="GG"/>
+			<UnitMix unit="JONG" a="509" b="N_" to="NJ"/>
+			<UnitMix unit="JONG" a="509" b="Q_" to="K_"/>
+			<UnitMix unit="JONG" a="509" b="506" to="T_"/>
+			<UnitMix unit="JONG" a="509" b="507" to="GG"/>
 		</UnitMixTable>
 		<VirtualUnitTable>
 			<VirtualUnit unit="JUNG" from="500" to="O_"/>
+			<VirtualUnit unit="JONG" from="501" to="G_"/>
+			<VirtualUnit unit="JONG" from="503" to="D_"/>
+			<VirtualUnit unit="JONG" from="506" to="B_"/>
+			<VirtualUnit unit="JONG" from="507" to="S_"/>
+			<VirtualUnit unit="JONG" from="509" to="J_"/>
 		</VirtualUnitTable>
 		<UnitAbbrTable/>
 		<AutomataTable default="0">
 			<Automata state="0" value="A ? 1 : B ? 2 : C ? 3 : 0" default="0" remark="초기 상태"/>
 			<Automata state="1" value="A ? 1 : B ? 2 : C ? 3 : 0" default="0" remark="초성"/>
 			<Automata state="2" value="B ? 2 : C ? 3 : 0" default="0" remark="[초성] + 중성"/>
-			<Automata state="3" value="h&amp;&amp;(F==1&amp;&amp;C==2 || F==24&amp;&amp;C==26 || F==86&amp;&amp;C==93 || F==161&amp;&amp;C==165) ? (h=0, -2) : C ? 3 : 0" default="0" remark="[초성] + [중성] + 종성"/>
+			<Automata state="3" value="h&amp;&amp;F==1&amp;&amp;C==2 ? (h=0, -2) : C ? 3 : 0" default="0" remark="[초성] + [중성] + 종성"/>
 		</AutomataTable>
 		<Extra>
 			<Bksp key="1" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
