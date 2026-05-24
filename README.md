@@ -481,3 +481,9 @@ rule-based input system + dictionary
 https://blog.naver.com/eekdland/30187905646
 
 ---
+
+## 참고 사항
+
+본 자판 XML 파일은 날개셋 입력기의 설정 형식을 사용합니다.
+
+날개셋 입력기 자체의 저작권은 제작자 [김용묵](http://moogi.new21.org) 님께 있습니다.
