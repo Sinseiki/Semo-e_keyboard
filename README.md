@@ -484,6 +484,11 @@ https://blog.naver.com/eekdland/30187905646
 
 ## 참고 사항
 
+이 자판과 저장소는 공공성을 위하고 독점화를 막기 위해 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko) 라이선스로 공개되어 있습니다.
+
+또한 원칙은 아니지만, 다른 곳에 소개하실 때 ssgi.kr 를 함께 표시해주시면 감사드리겠습니다.
+
+
 본 자판 XML 파일은 날개셋 입력기의 설정 형식을 사용합니다.
 
 날개셋 입력기 자체의 저작권은 제작자 [김용묵](http://moogi.new21.org) 님께 있습니다.
