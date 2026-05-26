@@ -2,15 +2,21 @@
 
 ## 일반 설명 링크
 
+이 문서는 개발자를 위한 문서입니다.
+일반 사용자를 위한 세모이 자판의 설명과 사용법은 다음 링크에서 보실 수 있습니다.
+
 - 자판 설명: https://blog.naver.com/eekdland/220526834927
 - 결합 규칙: https://blog.naver.com/eekdland/220239514856
 
+---
 
 ## 프로젝트 개요
 
 세모이 (세벌식 모아치기 e) 자판은 **속기형 한글 입력 방식을 일반 키보드에서 구현하기 위한 입력기**입니다.
 
-2014년에 개인적인 녹취가 필요하여 시작된 프로젝트로 입력 방식과 약어 구조를 설계했고,
+2014년에 개인적인 녹취가 필요하여 시작된 프로젝트로
+
+[공병우 세벌식](https://namu.wiki/w/세벌식/자판%20종류#공병우%20세벌식%20자판)을 응용하여 배열을 정하고, 속기형 입력 방식과 약어 구조를 설계했으며,
 
 장기간의 실사용자 분들의 피드백을 통해 반복적인 수정이 이루어졌습니다.
 
@@ -32,6 +38,14 @@ Chord Input
 → Syllable Reconstruction
 → Abbreviation Expansion
 ```
+
+---
+
+## 배열도
+
+<p style="text-align:center">
+  <img src="./images/semo-e-layout.png" width="640">
+</p>
 
 ---
 
@@ -384,6 +398,18 @@ Output
 
 ---
 
+## 모아치기 예시
+<p style="text-align:center">
+  <img src="./images/semo-e-sample-chord.gif" width="640">
+</p>
+
+## 약어 입력 예시
+<p style="text-align:center">
+  <img src="./images/semo-e-sample-macro.gif" width="640">
+</p>
+
+---
+
 ## 세벌식과의 관계
 
 세모이는 세벌식 계열 입력기이지만
@@ -492,3 +518,19 @@ https://blog.naver.com/eekdland/30187905646
 본 자판 XML 파일은 날개셋 입력기의 설정 형식을 사용합니다.
 
 날개셋 입력기 자체의 저작권은 제작자 [김용묵](http://moogi.new21.org) 님께 있습니다.
+
+---
+
+## 연관 자판 프로젝트
+
+이 저장소들은 한국어 키보드 배열 및 타자 인체공학에 관하여 진행 중인 연구 프로젝트의 일부입니다.
+
+| 이름 | 설명 |
+| --- | --- |
+| [**세벌식 모아치기 e (세모이)**](https://github.com/Sinseiki/Semo-e_keyboard) | **입력을 압축하는 준속기 자판** |
+| [두벌식 줄맞춤 e (두줄이)](https://github.com/Sinseiki/Dujul-e_keyboard) | 표준 두벌식 응용 효율 개선 자판 |
+| [두벌식 겹받침 e (두겹이)](https://github.com/Sinseiki/Dugyeob-e_keyboard) | 표준 두벌식 배열 기반 개선 자판 |
+| [두벌식 자판 모아치기](https://github.com/Sinseiki/Dubeolsik_Moachigi) | 두벌식 자판의 모아치기 연구 |
+| [타자 피로도 분석기](https://github.com/Sinseiki/typing-fatigue-analyzer) | 자판 연구를 위한 타자 피로도 분석 도구 |
+
+※ 타자 피로도 분석기는 [Hyunjun Ji](https://github.com/isty2e) 님의 분석기를 기반으로 연구 및 수정되었습니다.
