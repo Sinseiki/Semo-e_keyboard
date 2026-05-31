@@ -523,7 +523,7 @@ https://blog.naver.com/eekdland/30187905646
 
 ## 연관 자판 프로젝트
 
-이 저장소들은 한국어 키보드 배열 및 타자 인체공학에 관하여 진행 중인 연구 프로젝트의 일부입니다.
+이 저장소들은 한국어 및 영어 키보드 배열 및 타자 인체공학에 관하여 진행 중인 연구 프로젝트의 일부입니다.
 
 | 이름 | 설명 |
 | --- | --- |
@@ -531,6 +531,7 @@ https://blog.naver.com/eekdland/30187905646
 | [두벌식 줄맞춤 e (두줄이)](https://github.com/Sinseiki/Dujul-e_keyboard) | 표준 두벌식 응용 효율 개선 자판 |
 | [두벌식 겹받침 e (두겹이)](https://github.com/Sinseiki/Dugyeob-e_keyboard) | 표준 두벌식 배열 기반 개선 자판 |
 | [두벌식 자판 모아치기](https://github.com/Sinseiki/Dubeolsik_Moachigi) | 두벌식 자판의 모아치기 연구 |
+| [세벌식 ROS-e (ROSE)](https://github.com/Sinseiki/ros-e_keyboard) | 영어 모아치기 및 순서 교정 자판 |
 | [타자 피로도 분석기](https://github.com/Sinseiki/typing-fatigue-analyzer) | 자판 연구를 위한 타자 피로도 분석 도구 |
 
 ※ 타자 피로도 분석기는 [Hyunjun Ji](https://github.com/isty2e) 님의 분석기를 기반으로 연구 및 수정되었습니다.
