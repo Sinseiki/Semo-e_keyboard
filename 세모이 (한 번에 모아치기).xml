@@ -99,7 +99,7 @@
 		</KeyTable>
 		<KeyProgramTable>
 			<KeyProgram key="VK_SPACE" flag="0">
-				<Program event="DOWN" top="v&lt;1 || J&gt;0&amp;&amp;v==1 ? 0 : 1" middle="v=V, v&gt;1 ? (s=2) : 0" bottom="0"/>
+				<Program event="DOWN" top="T ? 1 : 0" middle="v=V, T ? (s=2) : 0" bottom="0"/>
 				<Program event="UP" top="0" middle="v=V" bottom="0"/>
 			</KeyProgram>
 			<KeyProgram key="VK_A" flag="ShiftMask|CtrlMask|AltMask">

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND|ADVSCH_KEEP_NONHANGUL" remark="&#x01;세모이(세벌식 모아치기 e) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 합니다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에, 반점(,)은 '에, 온점(.)은 ,에 있습니다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다. &#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㅟ=ㅔ+ㅣ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.                (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '? '=y+u, ', '=u+i, '. '=i+o, '! '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: http://ssg.wo.tc/220239514856&#x0D;&#x0A;- 자판 설명: http://ssg.wo.tc/30187905646" name="세벌식 모아치기 e 직결식" object="CAdvancedScheme">
+	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_N_EXTEND|ADVSCH_KEEP_NONHANGUL" remark="&#x01;세모이(세벌식 모아치기 e) - 만든이 : 신세기, 설명수정 : 3beol&#x0D;&#x0A;&#x0D;&#x0A;※ 평소에는 CapsLock과 Scroll Lock이 꺼져 있도록 유지해 주세요. 이 둘이 켜져 있으면 특수기호나 옛한글이 나올 수 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;- 한 글자를 한 타에 입력하는 '모두모아치기' 글판입니다.&#x0D;&#x0A;    ● '모두모아치기' 사용시, 조합 완료 타이머를 20 정도로 해야 합니다.&#x0D;&#x0A;- 작은 따옴표(')는 B에, 세미콜론(;)은 L에, 반점(,)은 '에, 온점(.)은 ,에 있습니다.&#x0D;&#x0A;- 된소리 (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)&#x0D;&#x0A;    ● ㅇ + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ&#x0D;&#x0A;- 거센소리 (ㅊ, ㅋ, ㅌ, ㅍ)&#x0D;&#x0A;    ● ㅎ + ㅈ, ㄱ, ㄷ, ㅂ&#x0D;&#x0A;- 오른쪽의 ㅗ, ㅜ는 이중모음에 쓰입니다.&#x0D;&#x0A;    ● ㅗ(모음시프트), ㅜ의 경우는 왼쪽 것이 편할 때 왼쪽 것으로도 조합이 가능합니다.&#x0D;&#x0A;      (단, ㅘ, ㅙ 는 오른쪽 ㅗ로 치는 것이 권장됩니다.)&#x0D;&#x0A;    ● 아래아는 ㅡ + ㅏ 로, 쌍아래아는 ㅡ +ㅑ 로 입력할 수 있습니다.&#x0D;&#x0A;- 종성 시프트는 다른 종성이 없으면 ㅆ 로 쓰입니다.&#x0D;&#x0A;    ● 일반적으로 겹받침은 구성하는 글자를 함께 쳐서 입력하지만, &#x0D;&#x0A;        갈마들이 타법에 의해 몇몇 조합은 ㄵ = ㄴ+ㄹ  등으로 입력하게 됩니다. &#x0D;&#x0A;    ● 특이한 조합은 다음 세 개가 있습니다.&#x0D;&#x0A;        ㄶ = ㄴ + ㅀ (s + z)&#x0D;&#x0A;        ㄾ = ㅀ + ㄷ (a + z)&#x0D;&#x0A;        ㄿ = ㅀ + ㅂ (a + w)&#x0D;&#x0A;    ● 손이 불편한 조합을 대신하기 위해 ㅛ=ㅓ+ㅏ, ㅟ=ㅔ+ㅣ, ㄺ = ㅁ+ㄱ,&#x0D;&#x0A;        ㄲ = ㄽ+ㅆ, ㄳ=ㄱ+ㅁ+ㅆ, ㄻ=ㅄ+ㅆ, ㅌ=ㄼ+ㅆ 로 입력할 수 있습니다.                (fetrantium 님과 제한적관찰자 님의 제안)&#x0D;&#x0A;    ● 기호 약어로는 '? '=y+u, ', '=u+i, '. '=i+o, '! '=n+m 이 있습니다.&#x0D;&#x0A;    ● 윗글쇠로 넣는 기호 외에 기호 확장 배열을 통해 많은 기호를 넣을 수 있습니다.&#x0D;&#x0A;        [ shift + J(기호) ] 로 기호 배열을 준비하고&#x0D;&#x0A;        [ shift + K(ㄱ) ], [ shift + L(ㅈ) ], [ shift + ;(ㅆ) ] 로 1, 2, 3 단계를 정합니다.&#x0D;&#x0A;        기호 배열은 신세벌식 P 와 대부분 같습니다.&#x0D;&#x0A;          - http://bbs.pat.im/viewtopic.php?f=6&amp;t=932&amp;p=1062#p1062&#x0D;&#x0A;- CapsLock 은 ShiftLock 의 기능을 하여, Capslock 이 켜져 있으면 윗글쇠가 나옵니다.&#x0D;&#x0A;- ScrollLock 은 특수기호확장과 옛한글입력모드 역할을 합니다.&#x0D;&#x0A;    ● ScrollLock 이 켜진 상태에서 특수기호를 입력하면 비슷한 다른 특수기호가 나옵니다.&#x0D;&#x0A;    ● 숫자열은 ScrollLock 이 꺼져 있으면 숫자로, ScrollLock 이 켜져 있으면 옛한글로 나옵니다.&#x0D;&#x0A;&#x0D;&#x0A;- 결합 규칙: https://blog.naver.com/eekdland/220239514856&#x0D;&#x0A;- 자판 설명: https://blog.naver.com/eekdland/30187905646" name="세벌식 모아치기 e 직결식" object="CAdvancedScheme">
 		<KeyTable name="세벌식 모아치기 e 직결식" flag="0" from="33" to="126">
 			<Key at="0x21" value="T==101 ? 0x2160 : T==102 ? 0x2081 : T==103 ? 0xB9 : 0x21"/>
 			<Key at="0x22" value="T==101 ? 0 : T==102 ? 0 : T==103 ? 0 : N&amp;2 ? 0x3003 : 0x22"/>
@@ -99,13 +99,134 @@
 		</KeyTable>
 		<KeyProgramTable>
 			<KeyProgram key="VK_SPACE" flag="0">
-				<Program event="DOWN" top="1" middle="s=1" bottom="0"/>
-				<Program event="UP" top="2" middle="s=2" bottom="0"/>
+				<Program event="DOWN" top="T ? 1 : 0" middle="v=V, T ? (s=2) : 0" bottom="0"/>
+				<Program event="UP" top="0" middle="v=V" bottom="0"/>
+			</KeyProgram>
+			<KeyProgram key="VK_A" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_B" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_C" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_D" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_E" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_F" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_G" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_H" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_I" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_J" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_K" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_L" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_M" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_N" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_O" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_P" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_Q" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_R" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_S" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_T" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_U" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_V" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_W" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_X" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_Y" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_Z" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_DIVIDE" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_OEM_1" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_OEM_COMMA" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
+			</KeyProgram>
+			<KeyProgram key="VK_OEM_PERIOD" flag="ShiftMask|CtrlMask|AltMask">
+				<Program event="DOWN" top="0" middle="v=V" bottom="0"/>
+				<Program event="UP" top="2" middle="v=V" bottom="v&lt;1 ? 0 : C1|1"/>
 			</KeyProgram>
 		</KeyProgramTable>
 	</InputSchemeSetting>
 	<GeneratorSetting flag="AUTOMATIC_TIMER" object="CNgsImeEx" flagex="0">
 		<UnitMixTable>
+			<UnitMix unit="CHO" a="G_" b="G_" to="GG"/>
 			<UnitMix unit="CHO" a="G_" b="N_" to="BT"/>
 			<UnitMix unit="CHO" a="G_" b="D_" to="DG"/>
 			<UnitMix unit="CHO" a="G_" b="R_" to="RG"/>
@@ -116,6 +237,7 @@
 			<UnitMix unit="CHO" a="G_" b="QQ" to="QG"/>
 			<UnitMix unit="CHO" a="G_" b="J_" to="GC"/>
 			<UnitMix unit="CHO" a="G_" b="H_" to="K_"/>
+			<UnitMix unit="CHO" a="GG" b="G_" to="K_"/>
 			<UnitMix unit="CHO" a="N_" b="G_" to="BT"/>
 			<UnitMix unit="CHO" a="N_" b="D_" to="ND"/>
 			<UnitMix unit="CHO" a="N_" b="R_" to="RQ"/>
@@ -131,6 +253,7 @@
 			<UnitMix unit="CHO" a="N_" b="H_" to="X_"/>
 			<UnitMix unit="CHO" a="D_" b="G_" to="DG"/>
 			<UnitMix unit="CHO" a="D_" b="N_" to="ND"/>
+			<UnitMix unit="CHO" a="D_" b="D_" to="DD"/>
 			<UnitMix unit="CHO" a="D_" b="R_" to="DR"/>
 			<UnitMix unit="CHO" a="D_" b="M_" to="MD"/>
 			<UnitMix unit="CHO" a="D_" b="B_" to="BD"/>
@@ -140,6 +263,7 @@
 			<UnitMix unit="CHO" a="D_" b="QQ" to="QD"/>
 			<UnitMix unit="CHO" a="D_" b="J_" to="DJ"/>
 			<UnitMix unit="CHO" a="D_" b="H_" to="T_"/>
+			<UnitMix unit="CHO" a="DD" b="D_" to="T_"/>
 			<UnitMix unit="CHO" a="R_" b="G_" to="RG"/>
 			<UnitMix unit="CHO" a="R_" b="N_" to="RQ"/>
 			<UnitMix unit="CHO" a="R_" b="D_" to="DR"/>
@@ -162,6 +286,7 @@
 			<UnitMix unit="CHO" a="B_" b="D_" to="BD"/>
 			<UnitMix unit="CHO" a="B_" b="R_" to="RB"/>
 			<UnitMix unit="CHO" a="B_" b="M_" to="MB"/>
+			<UnitMix unit="CHO" a="B_" b="B_" to="BB"/>
 			<UnitMix unit="CHO" a="B_" b="S_" to="BS"/>
 			<UnitMix unit="CHO" a="B_" b="Q_" to="BB"/>
 			<UnitMix unit="CHO" a="B_" b="QQ" to="QB"/>
@@ -169,6 +294,7 @@
 			<UnitMix unit="CHO" a="B_" b="J_" to="BJ"/>
 			<UnitMix unit="CHO" a="B_" b="H_" to="P_"/>
 			<UnitMix unit="CHO" a="BB" b="N_" to="BBQ"/>
+			<UnitMix unit="CHO" a="BB" b="B_" to="P_"/>
 			<UnitMix unit="CHO" a="BS" b="G_" to="BSG"/>
 			<UnitMix unit="CHO" a="BS" b="N_" to="QP"/>
 			<UnitMix unit="CHO" a="BS" b="D_" to="BSD"/>
@@ -185,6 +311,7 @@
 			<UnitMix unit="CHO" a="S_" b="M_" to="SM"/>
 			<UnitMix unit="CHO" a="S_" b="B_" to="BS"/>
 			<UnitMix unit="CHO" a="S_" b="BS" to="Sw"/>
+			<UnitMix unit="CHO" a="S_" b="S_" to="SS"/>
 			<UnitMix unit="CHO" a="S_" b="Z_" to="wS"/>
 			<UnitMix unit="CHO" a="S_" b="Q_" to="SS"/>
 			<UnitMix unit="CHO" a="S_" b="QQ" to="QS"/>
@@ -237,11 +364,13 @@
 			<UnitMix unit="CHO" a="J_" b="Z_" to="wJ"/>
 			<UnitMix unit="CHO" a="J_" b="Q_" to="JJ"/>
 			<UnitMix unit="CHO" a="J_" b="QQ" to="JJ"/>
+			<UnitMix unit="CHO" a="J_" b="J_" to="JJ"/>
 			<UnitMix unit="CHO" a="J_" b="wC" to="wJJ"/>
 			<UnitMix unit="CHO" a="J_" b="Cw" to="JJw"/>
 			<UnitMix unit="CHO" a="J_" b="H_" to="C_"/>
 			<UnitMix unit="CHO" a="JJ" b="BS" to="JJw"/>
 			<UnitMix unit="CHO" a="JJ" b="Z_" to="wJJ"/>
+			<UnitMix unit="CHO" a="JJ" b="J_" to="C_"/>
 			<UnitMix unit="CHO" a="wJ" b="QQ" to="wJJ"/>
 			<UnitMix unit="CHO" a="Jw" b="QQ" to="JJw"/>
 			<UnitMix unit="CHO" a="wC" b="S_" to="wSS"/>
@@ -258,6 +387,7 @@
 			<UnitMix unit="CHO" a="H_" b="Q_" to="QT"/>
 			<UnitMix unit="CHO" a="H_" b="QQ" to="HH"/>
 			<UnitMix unit="CHO" a="H_" b="J_" to="C_"/>
+			<UnitMix unit="JUNG" a="A_" b="A_" to="YA"/>
 			<UnitMix unit="JUNG" a="A_" b="EO" to="YO"/>
 			<UnitMix unit="JUNG" a="A_" b="E_" to="IA"/>
 			<UnitMix unit="JUNG" a="A_" b="O_" to="WA"/>
@@ -274,6 +404,7 @@
 			<UnitMix unit="JUNG" a="AE" b="500" to="WAE"/>
 			<UnitMix unit="JUNG" a="YA" b="EU" to="FF"/>
 			<UnitMix unit="JUNG" a="EO" b="A_" to="YO"/>
+			<UnitMix unit="JUNG" a="EO" b="EO" to="UEO"/>
 			<UnitMix unit="JUNG" a="EO" b="E_" to="IYEO"/>
 			<UnitMix unit="JUNG" a="EO" b="YEO" to="II"/>
 			<UnitMix unit="JUNG" a="EO" b="O_" to="UEO"/>
@@ -285,6 +416,7 @@
 			<UnitMix unit="JUNG" a="EO" b="500" to="UEO"/>
 			<UnitMix unit="JUNG" a="E_" b="A_" to="IA"/>
 			<UnitMix unit="JUNG" a="E_" b="EO" to="IYEO"/>
+			<UnitMix unit="JUNG" a="E_" b="E_" to="YE"/>
 			<UnitMix unit="JUNG" a="E_" b="YEO" to="IYAE"/>
 			<UnitMix unit="JUNG" a="E_" b="O_" to="YE"/>
 			<UnitMix unit="JUNG" a="E_" b="OI" to="IYE"/>
@@ -296,6 +428,7 @@
 			<UnitMix unit="JUNG" a="E_" b="500" to="YE"/>
 			<UnitMix unit="JUNG" a="YEO" b="EO" to="II"/>
 			<UnitMix unit="JUNG" a="YEO" b="E_" to="IYAE"/>
+			<UnitMix unit="JUNG" a="YEO" b="YEO" to="YAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="O_" to="YAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="YOI" to="YOYAE"/>
 			<UnitMix unit="JUNG" a="YEO" b="U_" to="YEOU"/>
@@ -330,6 +463,7 @@
 			<UnitMix unit="JUNG" a="U_" b="YEO" to="YEOU"/>
 			<UnitMix unit="JUNG" a="U_" b="O_" to="YU"/>
 			<UnitMix unit="JUNG" a="U_" b="OI" to="IYE"/>
+			<UnitMix unit="JUNG" a="U_" b="U_" to="YU"/>
 			<UnitMix unit="JUNG" a="U_" b="EU" to="EUU"/>
 			<UnitMix unit="JUNG" a="U_" b="I_" to="WI"/>
 			<UnitMix unit="JUNG" a="U_" b="500" to="YU"/>
@@ -349,6 +483,7 @@
 			<UnitMix unit="JUNG" a="EU" b="YEO" to="OYEO"/>
 			<UnitMix unit="JUNG" a="EU" b="O_" to="EUO"/>
 			<UnitMix unit="JUNG" a="EU" b="U_" to="EUU"/>
+			<UnitMix unit="JUNG" a="EU" b="EU" to="YA"/>
 			<UnitMix unit="JUNG" a="EU" b="I_" to="EUI"/>
 			<UnitMix unit="JUNG" a="EU" b="FI" to="EUEO"/>
 			<UnitMix unit="JUNG" a="EU" b="500" to="YA"/>
@@ -385,6 +520,7 @@
 			<UnitMix unit="JUNG" a="500" b="I_" to="OI"/>
 			<UnitMix unit="JUNG" a="500" b="FI" to="YAO"/>
 			<UnitMix unit="JUNG" a="500" b="500" to="YO"/>
+			<UnitMix unit="JONG" a="G_" b="G_" to="GG"/>
 			<UnitMix unit="JONG" a="G_" b="N_" to="GN"/>
 			<UnitMix unit="JONG" a="G_" b="D_" to="GS"/>
 			<UnitMix unit="JONG" a="G_" b="R_" to="RG"/>
@@ -396,8 +532,9 @@
 			<UnitMix unit="JONG" a="G_" b="SS" to="K_"/>
 			<UnitMix unit="JONG" a="G_" b="Q_" to="GG"/>
 			<UnitMix unit="JONG" a="G_" b="H_" to="K_"/>
+			<UnitMix unit="JONG" a="GG" b="G_" to="K_"/>
 			<UnitMix unit="JONG" a="N_" b="G_" to="GN"/>
-			<UnitMix unit="JONG" a="N_" b="N_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="N_" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="R_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="RX" to="ND"/>
 			<UnitMix unit="JONG" a="N_" b="M_" to="T_"/>
@@ -407,12 +544,15 @@
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
+			<UnitMix unit="JONG" a="NJ" b="N_" to="RH"/>
 			<UnitMix unit="JONG" a="D_" b="G_" to="GS"/>
 			<UnitMix unit="JONG" a="D_" b="RH" to="RT"/>
+			<UnitMix unit="JONG" a="D_" b="M_" to="T_"/>
 			<UnitMix unit="JONG" a="D_" b="Q_" to="RT"/>
 			<UnitMix unit="JONG" a="D_" b="H_" to="T_"/>
 			<UnitMix unit="JONG" a="R_" b="G_" to="RG"/>
 			<UnitMix unit="JONG" a="R_" b="N_" to="NJ"/>
+			<UnitMix unit="JONG" a="R_" b="R_" to="J_"/>
 			<UnitMix unit="JONG" a="R_" b="RX" to="RD"/>
 			<UnitMix unit="JONG" a="R_" b="M_" to="RM"/>
 			<UnitMix unit="JONG" a="R_" b="B_" to="RB"/>
@@ -423,12 +563,15 @@
 			<UnitMix unit="JONG" a="R_" b="C_" to="GG"/>
 			<UnitMix unit="JONG" a="R_" b="P_" to="T_"/>
 			<UnitMix unit="JONG" a="RG" b="SS" to="GS"/>
+			<UnitMix unit="JONG" a="RM" b="M_" to="RT"/>
+			<UnitMix unit="JONG" a="RB" b="B_" to="RP"/>
 			<UnitMix unit="JONG" a="RB" b="SS" to="T_"/>
 			<UnitMix unit="JONG" a="RS" b="G_" to="RGS"/>
 			<UnitMix unit="JONG" a="RS" b="RX" to="SB"/>
 			<UnitMix unit="JONG" a="RS" b="B_" to="RBS"/>
 			<UnitMix unit="JONG" a="RS" b="SS" to="GG"/>
 			<UnitMix unit="JONG" a="RH" b="D_" to="RT"/>
+			<UnitMix unit="JONG" a="RH" b="R_" to="K_"/>
 			<UnitMix unit="JONG" a="RH" b="B_" to="RP"/>
 			<UnitMix unit="JONG" a="RX" b="G_" to="SG"/>
 			<UnitMix unit="JONG" a="RX" b="N_" to="ND"/>
@@ -444,6 +587,7 @@
 			<UnitMix unit="JONG" a="M_" b="N_" to="T_"/>
 			<UnitMix unit="JONG" a="M_" b="R_" to="RM"/>
 			<UnitMix unit="JONG" a="M_" b="RX" to="MQ"/>
+			<UnitMix unit="JONG" a="M_" b="M_" to="D_"/>
 			<UnitMix unit="JONG" a="M_" b="B_" to="MB"/>
 			<UnitMix unit="JONG" a="M_" b="S_" to="MS"/>
 			<UnitMix unit="JONG" a="M_" b="SS" to="D_"/>
@@ -457,6 +601,7 @@
 			<UnitMix unit="JONG" a="B_" b="RH" to="RP"/>
 			<UnitMix unit="JONG" a="B_" b="RX" to="BQ"/>
 			<UnitMix unit="JONG" a="B_" b="M_" to="MB"/>
+			<UnitMix unit="JONG" a="B_" b="B_" to="P_"/>
 			<UnitMix unit="JONG" a="B_" b="S_" to="BS"/>
 			<UnitMix unit="JONG" a="B_" b="SS" to="P_"/>
 			<UnitMix unit="JONG" a="B_" b="Q_" to="RP"/>
@@ -501,14 +646,17 @@
 			<UnitMix unit="JONG" a="Q_" b="B_" to="RP"/>
 			<UnitMix unit="JONG" a="Q_" b="S_" to="SS"/>
 			<UnitMix unit="JONG" a="Q_" b="SS" to="RH"/>
+			<UnitMix unit="JONG" a="Q_" b="Q_" to="T_"/>
 			<UnitMix unit="JONG" a="V_" b="RX" to="X_"/>
 			<UnitMix unit="JONG" a="V_" b="S_" to="VS"/>
 			<UnitMix unit="JONG" a="V_" b="Z_" to="VZ"/>
 			<UnitMix unit="JONG" a="J_" b="B_" to="T_"/>
 			<UnitMix unit="JONG" a="J_" b="S_" to="GG"/>
+			<UnitMix unit="JONG" a="J_" b="Q_" to="K_"/>
 			<UnitMix unit="JONG" a="C_" b="R_" to="GG"/>
 			<UnitMix unit="JONG" a="C_" b="B_" to="RM"/>
 			<UnitMix unit="JONG" a="K_" b="M_" to="GS"/>
+			<UnitMix unit="JONG" a="T_" b="Q_" to="RH"/>
 			<UnitMix unit="JONG" a="P_" b="R_" to="T_"/>
 			<UnitMix unit="JONG" a="P_" b="S_" to="RM"/>
 			<UnitMix unit="JONG" a="H_" b="G_" to="K_"/>
@@ -521,10 +669,8 @@
 		</VirtualUnitTable>
 		<UnitAbbrTable/>
 		<AutomataTable default="0">
-			<Automata state="0" value="A ? 1 : B|C ? 2 : 0" default="0" remark="초기 상태"/>
-			<Automata state="1" value="A ? 1 : B|C ? 3 : 0" default="0" remark="초성"/>
-			<Automata state="2" value="A ? 3 : B|C ? 2 : 0" default="0" remark="중성|종성"/>
-			<Automata state="3" value="A ? 3 : B|C ? 3 : 0" default="0" remark="초성 + (중성|종성)"/>
+			<Automata state="0" value="A|B|C ? 1 : 0" default="0" remark="초기 상태"/>
+			<Automata state="1" value="A|B|C ? 1 : 0" default="0"/>
 		</AutomataTable>
 		<Extra>
 			<Bksp key="1" value1="0" value2="BySyllable" condition1="0" condition2="0"/>
@@ -1674,39 +1820,50 @@
 			</UserCandiTable>
 		</ConvertHelper>
 		<UserCompoTable>
+			<UserCompo state="0" key="0x3B" newstate="10" interim=";"/>
 			<UserCompo state="0" key="0x3E" newstate="2" interim="&gt;"/>
-			<UserCompo state="0" key="0x2015" newstate="18" interim="―"/>
-			<UserCompo state="0" key="0x203B" newstate="15" interim="※"/>
+			<UserCompo state="0" key="0x3F" newstate="27" interim="?"/>
+			<UserCompo state="0" key="0xB7" newstate="24" interim="·"/>
+			<UserCompo state="0" key="0xD7" newstate="16" interim="×"/>
+			<UserCompo state="0" key="0x2026" newstate="1" interim="…"/>
+			<UserCompo state="0" key="0x203B" newstate="23" interim="※"/>
 			<UserCompo state="0" key="0x2191" newstate="12" interim="↑"/>
+			<UserCompo state="0" key="0x2192" newstate="26" interim="→"/>
+			<UserCompo state="0" key="0x2193" newstate="29" interim="↓"/>
 			<UserCompo state="0" key="0x2194" newstate="11" interim="↔"/>
-			<UserCompo state="0" key="0x25B3" newstate="19" interim="△"/>
-			<UserCompo state="0" key="0x25BD" newstate="10" interim="▽"/>
+			<UserCompo state="0" key="0x25B3" newstate="21" interim="△"/>
+			<UserCompo state="0" key="0x25BD" newstate="25" interim="▽"/>
+			<UserCompo state="0" key="0x25CB" newstate="17" interim="○"/>
+			<UserCompo state="0" key="0x25CE" newstate="15" interim="◎"/>
 			<UserCompo state="0" key="0x2606" newstate="14" interim="☆"/>
 			<UserCompo state="0" key="0x2661" newstate="13" interim="♡"/>
-			<UserCompo state="0" key="0x3008" newstate="16" interim="〈"/>
-			<UserCompo state="0" key="0x3009" newstate="17" interim="〉"/>
-			<UserCompo state="0" key="0x300F" newstate="1" interim="』"/>
+			<UserCompo state="0" key="0x3008" newstate="18" interim="〈"/>
+			<UserCompo state="0" key="0x3009" newstate="19" interim="〉"/>
+			<UserCompo state="0" key="0x300C" newstate="28" interim="「"/>
+			<UserCompo state="0" key="0x300D" newstate="22" interim="」"/>
 			<UserCompo state="1" key="0x23" result="대통령"/>
 			<UserCompo state="1" key="0x24" result="이야기"/>
 			<UserCompo state="1" key="0x25" result="퍼센트"/>
 			<UserCompo state="1" key="0x40" result="가운데"/>
-			<UserCompo state="1" key="0xB7" result="아버지"/>
-			<UserCompo state="1" key="0xD7" result="합니다. "/>
-			<UserCompo state="1" key="0x203B" result="그리고 "/>
 			<UserCompo state="1" key="0x2190" result="선생님"/>
 			<UserCompo state="1" key="0x2191" result="그런데 "/>
 			<UserCompo state="1" key="0x2192" result="입니다. "/>
 			<UserCompo state="1" key="0x2193" result="으로써 "/>
 			<UserCompo state="1" key="0x2194" result="따라서 "/>
-			<UserCompo state="1" key="0x25A1" result="으로서 "/>
-			<UserCompo state="1" key="0x25B3" result="입니다. "/>
-			<UserCompo state="1" key="0x25CB" result="습니다. "/>
-			<UserCompo state="1" key="0x25CE" result="우리나라"/>
+			<UserCompo state="1" key="0x25A1" result="아버지"/>
+			<UserCompo state="1" key="0x25B3" result="라. "/>
+			<UserCompo state="1" key="0x25BD" result="합니다. "/>
+			<UserCompo state="1" key="0x25CE" result="그리고 "/>
 			<UserCompo state="1" key="0x2606" result="그러나 "/>
 			<UserCompo state="1" key="0x2661" result="그래서 "/>
+			<UserCompo state="1" key="0x3009" result="입니다. "/>
 			<UserCompo state="1" key="0x300D" result="어머니"/>
-			<UserCompo state="2" key="0x80" result="&gt;&gt;"/>
-			<UserCompo state="3" key="0x80" result="&lt;&lt;"/>
+			<UserCompo state="1" key="0x300E" result="으로서 "/>
+			<UserCompo state="1" key="0x300F" result="우리나라"/>
+			<UserCompo state="2" key="0x3E" result="&gt;&gt;"/>
+			<UserCompo state="2" key="0x25BD" result="야? "/>
+			<UserCompo state="2" key="0x300D" result="요. "/>
+			<UserCompo state="3" key="0x3C" result="&lt;&lt;"/>
 			<UserCompo state="6" key="0x3008" result="《"/>
 			<UserCompo state="7" key="0x3009" result="》"/>
 			<UserCompo state="10" key="0x21" result="한 "/>
@@ -1758,6 +1915,7 @@
 			<UserCompo state="14" key="0x2A" result="마흔여덟 "/>
 			<UserCompo state="14" key="0x40" result="마흔두 "/>
 			<UserCompo state="14" key="0x5E" result="마흔여섯 "/>
+			<UserCompo state="14" key="0x25B3" result="요? "/>
 			<UserCompo state="15" key="0x21" result="쉰한 "/>
 			<UserCompo state="15" key="0x23" result="쉰세 "/>
 			<UserCompo state="15" key="0x24" result="쉰네 "/>
@@ -1778,6 +1936,7 @@
 			<UserCompo state="16" key="0x2A" result="예순여덟 "/>
 			<UserCompo state="16" key="0x40" result="예순두 "/>
 			<UserCompo state="16" key="0x5E" result="예순여섯 "/>
+			<UserCompo state="16" key="0x25B3" result="다. "/>
 			<UserCompo state="16" key="0x3008" result="《"/>
 			<UserCompo state="17" key="0x21" result="일흔한 "/>
 			<UserCompo state="17" key="0x23" result="일흔세 "/>
@@ -1789,7 +1948,11 @@
 			<UserCompo state="17" key="0x2A" result="일흔여덟 "/>
 			<UserCompo state="17" key="0x40" result="일흔두 "/>
 			<UserCompo state="17" key="0x5E" result="일흔여섯 "/>
+			<UserCompo state="17" key="0x2192" result="니? "/>
+			<UserCompo state="17" key="0x25B3" result="나? "/>
+			<UserCompo state="17" key="0x25BD" result="냐? "/>
 			<UserCompo state="17" key="0x3009" result="》"/>
+			<UserCompo state="17" key="0x300C" result="네. "/>
 			<UserCompo state="18" key="0x21" result="여든한 "/>
 			<UserCompo state="18" key="0x23" result="여든세 "/>
 			<UserCompo state="18" key="0x24" result="여든네 "/>
@@ -1800,6 +1963,7 @@
 			<UserCompo state="18" key="0x2A" result="여든여덟 "/>
 			<UserCompo state="18" key="0x40" result="여든두 "/>
 			<UserCompo state="18" key="0x5E" result="여든여섯 "/>
+			<UserCompo state="18" key="0x25B3" result="다. "/>
 			<UserCompo state="19" key="0x21" result="아흔한 "/>
 			<UserCompo state="19" key="0x23" result="아흔세 "/>
 			<UserCompo state="19" key="0x24" result="아흔네 "/>
@@ -1810,6 +1974,30 @@
 			<UserCompo state="19" key="0x2A" result="아흔여덟 "/>
 			<UserCompo state="19" key="0x40" result="아흔두 "/>
 			<UserCompo state="19" key="0x5E" result="아흔여섯 "/>
+			<UserCompo state="19" key="0x3008" result="다. "/>
+			<UserCompo state="21" key="0x3F" result="까? "/>
+			<UserCompo state="21" key="0xB7" result="자. "/>
+			<UserCompo state="21" key="0x2026" result="라. "/>
+			<UserCompo state="21" key="0x203B" result="가? "/>
+			<UserCompo state="21" key="0x25CB" result="나? "/>
+			<UserCompo state="21" key="0x2606" result="요? "/>
+			<UserCompo state="21" key="0x3008" result="다. "/>
+			<UserCompo state="22" key="0x3E" result="요. "/>
+			<UserCompo state="22" key="0xB7" result="죠. "/>
+			<UserCompo state="22" key="0x25BD" result="야? "/>
+			<UserCompo state="23" key="0x2193" result="군. "/>
+			<UserCompo state="23" key="0x25B3" result="가? "/>
+			<UserCompo state="24" key="0x2192" result="지. "/>
+			<UserCompo state="24" key="0x25B3" result="자. "/>
+			<UserCompo state="24" key="0x300D" result="죠. "/>
+			<UserCompo state="25" key="0x3E" result="야? "/>
+			<UserCompo state="25" key="0x25CB" result="냐? "/>
+			<UserCompo state="25" key="0x300D" result="야? "/>
+			<UserCompo state="26" key="0xB7" result="지. "/>
+			<UserCompo state="26" key="0x25CB" result="니? "/>
+			<UserCompo state="27" key="0x25B3" result="까? "/>
+			<UserCompo state="28" key="0x25CB" result="네. "/>
+			<UserCompo state="29" key="0x203B" result="군. "/>
 		</UserCompoTable>
 		<UserCandiTable/>
 		<UserKeyTable doobeolchk="T&lt;=1"/>
@@ -2104,6 +2292,7 @@
 			<HanSubst from="ᄄᆢ" to="드디어 "/>
 			<HanSubst from="ᄄᆢᆯ" to="떠들"/>
 			<HanSubst from="ᅞᅠᆨ" to="도록 "/>
+			<HanSubst from="ᅞᅠᆭ" to="오랫동안"/>
 			<HanSubst from="ᅞᅠᆯ" to="달리"/>
 			<HanSubst from="ᅞᅠᆼ" to="대통령"/>
 			<HanSubst from="ᅞᅡ" to="따라"/>
@@ -2128,6 +2317,8 @@
 			<HanSubst from="ꥢᅠᆨ" to="속도"/>
 			<HanSubst from="ꥢᅠᆩ" to="특성"/>
 			<HanSubst from="ꥢᅠᆫ" to="당신"/>
+			<HanSubst from="ꥢᅠᆹ" to=" 수도 없"/>
+			<HanSubst from="ꥢᅠᆺ" to=" 수도 있"/>
 			<HanSubst from="ꥢᅠᆼ" to="당시"/>
 			<HanSubst from="ꥢᅡ" to="시다. "/>
 			<HanSubst from="ꥢᅡᆫ" to="수단"/>
@@ -2398,7 +2589,7 @@
 			<HanSubst from="ᅵ" to="마치 "/>
 			<HanSubst from="ᅵᆫ" to="민주"/>
 			<HanSubst from="ᅵᆯ" to="질문"/>
-			<HanSubst from="ᄝᅠ" to="? "/>
+			<HanSubst from="ᄝᅠ" to="! "/>
 			<HanSubst from="ᄝᅠᆫ" to="논문"/>
 			<HanSubst from="ᄝᅠᆯ" to="눈물"/>
 			<HanSubst from="ᄝᅠᆼ" to="농민"/>
@@ -2471,7 +2662,7 @@
 			<HanSubst from="ᄠᅠᆷ" to="담배"/>
 			<HanSubst from="ᄠᅠᆼ" to="바탕"/>
 			<HanSubst from="ᄠᅠᆽ" to="부딪"/>
-			<HanSubst from="ᄠᅡ" to="바다"/>
+			<HanSubst from="ᄠᅡ" to="다. "/>
 			<HanSubst from="ᄠᅡᆨ" to="바닥"/>
 			<HanSubst from="ᄠᅡᆫ" to="판단"/>
 			<HanSubst from="ᄠᅢ" to="부대"/>
@@ -2514,6 +2705,7 @@
 			<HanSubst from="ᄡᅠᆬ" to="신발"/>
 			<HanSubst from="ᄡᅠᆯ" to="살펴"/>
 			<HanSubst from="ᄡᅠᆷ" to="상품"/>
+			<HanSubst from="ᄡᅠᆹ" to=" 수밖에 없"/>
 			<HanSubst from="ᄡᅠᆺ" to="비슷"/>
 			<HanSubst from="ᄡᅠᆼ" to="방식"/>
 			<HanSubst from="ᄡᅡᆨ" to="박사"/>
@@ -2617,6 +2809,8 @@
 			<HanSubst from="ᄭᅠᆰ" to="삼국"/>
 			<HanSubst from="ᄭᅠᆷ" to="관심"/>
 			<HanSubst from="ᄭᅠᆸ" to="쉽게 "/>
+			<HanSubst from="ᄭᅠᆹ" to=" 수가 없"/>
+			<HanSubst from="ᄭᅠᆺ" to=" 수가 있"/>
 			<HanSubst from="ᄭᅠᆼ" to="성격"/>
 			<HanSubst from="ᄭᅡ" to="기사"/>
 			<HanSubst from="ᄭᅡᆫ" to="사건"/>
@@ -2677,6 +2871,8 @@
 			<HanSubst from="ᄮᅠᆫ" to="아나운서"/>
 			<HanSubst from="ᄮᅠᆯ" to="날씨"/>
 			<HanSubst from="ᄮᅠᆷ" to="선생님"/>
+			<HanSubst from="ᄮᅠᆹ" to=" 수는 없"/>
+			<HanSubst from="ᄮᅠᆺ" to=" 수는 있"/>
 			<HanSubst from="ᄮᅠᆼ" to="가능성"/>
 			<HanSubst from="ᄮᅡ" to="사내"/>
 			<HanSubst from="ᄮᅢ" to="낚시"/>
@@ -2690,7 +2886,7 @@
 			<HanSubst from="ᄮᅴ" to="시는 "/>
 			<HanSubst from="ᄮᅵ" to="시내"/>
 			<HanSubst from="ᄮᅵᆯ" to="실내"/>
-			<HanSubst from="ᄯᅠ" to="! "/>
+			<HanSubst from="ᄯᅠ" to="? "/>
 			<HanSubst from="ᄯᅠᆨ" to="세력"/>
 			<HanSubst from="ᄯᅠᆫ" to="신라"/>
 			<HanSubst from="ᄯᅠᆸ" to="스럽"/>
@@ -2719,6 +2915,7 @@
 			<HanSubst from="ᄱᅠᆯ" to="말씀"/>
 			<HanSubst from="ᄱᅠᆰ" to="목숨"/>
 			<HanSubst from="ᄱᅠᆸ" to="모습"/>
+			<HanSubst from="ᄱᅠᆺ" to=" 수만 있"/>
 			<HanSubst from="ᄱᅠᆼ" to="생명"/>
 			<HanSubst from="ᄱᅡ" to="사무"/>
 			<HanSubst from="ᄱᅡᆯ" to="사물"/>
@@ -2857,7 +3054,7 @@
 			<HanSubst from="ᄋᅠᆨ" to="음악"/>
 			<HanSubst from="ᄋᅠᆫ" to="어떤 "/>
 			<HanSubst from="ᄋᅠᆬ" to="인물"/>
-			<HanSubst from="ᄋᅠᆭ" to="오랫동안"/>
+			<HanSubst from="ᄋᅠᆭ" to="지 않"/>
 			<HanSubst from="ᄋᅠᆯ" to="일어"/>
 			<HanSubst from="ᄋᅠᆰ" to="움직"/>
 			<HanSubst from="ᄋᅠᆷ" to="음식"/>
@@ -2979,7 +3176,7 @@
 			<HanSubst from="ᅌᅠᆹ" to="없는 "/>
 			<HanSubst from="ᅌᅠᆺ" to="있는 "/>
 			<HanSubst from="ᅌᅠᆼ" to="내용"/>
-			<HanSubst from="ᅌᅡ" to="이나 "/>
+			<HanSubst from="ᅌᅡ" to="아니"/>
 			<HanSubst from="ᅌᅡᆯ" to="이날"/>
 			<HanSubst from="ᅌᅢ" to="아내"/>
 			<HanSubst from="ᅌᅥ" to="어머니"/>
