@@ -401,6 +401,7 @@
 			<UnitMix unit="JONG" a="N_" b="SS" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="J_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
 			<UnitMix unit="JONG" a="D_" b="G_" to="GS"/>
 			<UnitMix unit="JONG" a="D_" b="RH" to="RT"/>
@@ -416,7 +417,9 @@
 			<UnitMix unit="JONG" a="R_" b="Z_" to="RZ"/>
 			<UnitMix unit="JONG" a="R_" b="Q_" to="G_"/>
 			<UnitMix unit="JONG" a="R_" b="C_" to="GG"/>
-			<UnitMix unit="JONG" a="R_" b="P_" to="T_"/>
+			<UnitMix unit="JONG" a="R_" b="T_" to="RT"/>
+			<UnitMix unit="JONG" a="R_" b="P_" to="RP"/>
+			<UnitMix unit="JONG" a="R_" b="H_" to="RH"/>
 			<UnitMix unit="JONG" a="RG" b="SS" to="GS"/>
 			<UnitMix unit="JONG" a="RB" b="SS" to="T_"/>
 			<UnitMix unit="JONG" a="RS" b="G_" to="RGS"/>

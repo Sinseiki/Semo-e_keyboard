@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <InputEntry>
-	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_T_EDITABLE|VAR_N_EXTEND|ADVSCH_KEEP_NONHANGUL" remark="&#x01;세모이(세벌식 모아치기 e) 단모음 - 만든이 : 신세기&#x0D;&#x0A;&#x0D;&#x0A;- 기존 세모이 직결식 자판을 모바일 용 9열 자판으로 바꾼 형태입니다. &#x0D;&#x0A;- 같은 글쇠를 반복해서 눌러서 윗글쇠를 입력할 수 있게 되어 있습니다." name="세벌식 모아치기 e 단모음" object="CAdvancedScheme">
+	<InputSchemeSetting flag="VAR_C_COMPOTYPE|VAR_T_EDITABLE|VAR_N_EXTEND|ADVSCH_KEEP_NONHANGUL" remark="&#x01;세모이(세벌식 모아치기 e) 단모음 - 만든이 : 신세기&#x0D;&#x0A;&#x0D;&#x0A;- 기존 세모이 직결식 자판을 모바일 용 9열 자판으로 바꾼 형태입니다. &#x0D;&#x0A;- 같은 글쇠를 반복해서 눌러서 윗글쇠를 입력할 수 있게 되어 있습니다.&#x0D;&#x0A;&#x0D;&#x0A;자세한 입력법은 https://blog.naver.com/eekdland/224337347460 를 참고해주세요." name="세벌식 모아치기 e 단모음" object="CAdvancedScheme">
 		<KeyTable name="" flag="0" from="33" to="126">
 			<Key at="0x21" value="0x21"/>
 			<Key at="0x22" value="0x22"/>
@@ -416,6 +416,7 @@
 			<UnitMix unit="JONG" a="N_" b="SS" to="H_"/>
 			<UnitMix unit="JONG" a="N_" b="Z_" to="NZ"/>
 			<UnitMix unit="JONG" a="N_" b="Q_" to="NH"/>
+			<UnitMix unit="JONG" a="N_" b="J_" to="NJ"/>
 			<UnitMix unit="JONG" a="N_" b="H_" to="NH"/>
 			<UnitMix unit="JONG" a="NJ" b="N_" to="RH"/>
 			<UnitMix unit="JONG" a="D_" b="G_" to="GS"/>
@@ -434,7 +435,9 @@
 			<UnitMix unit="JONG" a="R_" b="Z_" to="RZ"/>
 			<UnitMix unit="JONG" a="R_" b="Q_" to="G_"/>
 			<UnitMix unit="JONG" a="R_" b="C_" to="GG"/>
-			<UnitMix unit="JONG" a="R_" b="P_" to="T_"/>
+			<UnitMix unit="JONG" a="R_" b="T_" to="RT"/>
+			<UnitMix unit="JONG" a="R_" b="P_" to="RP"/>
+			<UnitMix unit="JONG" a="R_" b="H_" to="RH"/>
 			<UnitMix unit="JONG" a="RG" b="SS" to="GS"/>
 			<UnitMix unit="JONG" a="RM" b="M_" to="RT"/>
 			<UnitMix unit="JONG" a="RB" b="B_" to="RP"/>
