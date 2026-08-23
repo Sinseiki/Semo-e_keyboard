@@ -506,7 +506,7 @@ rule-based input system + dictionary
 
 구현을 위한 자판의 규격은 다음 링크에서 보실 수 있습니다.
 
-https://blog.naver.com/eekdland/30187905646
+https://raw.githubusercontent.com/Sinseiki/Semo-e_keyboard/refs/heads/main/세벌식%20모아치기%20e%20개발%20규격.pdf
 
 ---
 
