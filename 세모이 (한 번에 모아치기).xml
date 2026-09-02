@@ -235,7 +235,7 @@
 			<UnitMix unit="CHO" a="G_" b="S_" to="SG"/>
 			<UnitMix unit="CHO" a="G_" b="Q_" to="GG"/>
 			<UnitMix unit="CHO" a="G_" b="QQ" to="QG"/>
-			<UnitMix unit="CHO" a="G_" b="J_" to="GC"/>
+			<UnitMix unit="CHO" a="G_" b="J_" to="CK"/>
 			<UnitMix unit="CHO" a="G_" b="H_" to="K_"/>
 			<UnitMix unit="CHO" a="GG" b="G_" to="K_"/>
 			<UnitMix unit="CHO" a="N_" b="G_" to="BT"/>
@@ -279,8 +279,8 @@
 			<UnitMix unit="CHO" a="M_" b="R_" to="RM"/>
 			<UnitMix unit="CHO" a="M_" b="B_" to="MB"/>
 			<UnitMix unit="CHO" a="M_" b="S_" to="SM"/>
-			<UnitMix unit="CHO" a="M_" b="J_" to="MJ"/>
-			<UnitMix unit="CHO" a="M_" b="H_" to="HM"/>
+			<UnitMix unit="CHO" a="M_" b="J_" to="MS"/>
+			<UnitMix unit="CHO" a="M_" b="H_" to="QM"/>
 			<UnitMix unit="CHO" a="B_" b="G_" to="BG"/>
 			<UnitMix unit="CHO" a="B_" b="N_" to="BQ"/>
 			<UnitMix unit="CHO" a="B_" b="D_" to="BD"/>
@@ -353,11 +353,11 @@
 			<UnitMix unit="CHO" a="QQ" b="Jw" to="JJw"/>
 			<UnitMix unit="CHO" a="QQ" b="H_" to="HH"/>
 			<UnitMix unit="CHO" a="V_" b="B_" to="BBQ"/>
-			<UnitMix unit="CHO" a="J_" b="G_" to="GC"/>
+			<UnitMix unit="CHO" a="J_" b="G_" to="CK"/>
 			<UnitMix unit="CHO" a="J_" b="N_" to="PQ"/>
 			<UnitMix unit="CHO" a="J_" b="D_" to="DJ"/>
 			<UnitMix unit="CHO" a="J_" b="R_" to="RJ"/>
-			<UnitMix unit="CHO" a="J_" b="M_" to="MJ"/>
+			<UnitMix unit="CHO" a="J_" b="M_" to="MS"/>
 			<UnitMix unit="CHO" a="J_" b="B_" to="BJ"/>
 			<UnitMix unit="CHO" a="J_" b="BS" to="Jw"/>
 			<UnitMix unit="CHO" a="J_" b="S_" to="SJ"/>
@@ -381,7 +381,7 @@
 			<UnitMix unit="CHO" a="H_" b="N_" to="X_"/>
 			<UnitMix unit="CHO" a="H_" b="D_" to="T_"/>
 			<UnitMix unit="CHO" a="H_" b="R_" to="RH"/>
-			<UnitMix unit="CHO" a="H_" b="M_" to="HM"/>
+			<UnitMix unit="CHO" a="H_" b="M_" to="QM"/>
 			<UnitMix unit="CHO" a="H_" b="B_" to="P_"/>
 			<UnitMix unit="CHO" a="H_" b="S_" to="SB"/>
 			<UnitMix unit="CHO" a="H_" b="Q_" to="QT"/>
@@ -2080,106 +2080,6 @@
 			<HanSubst from="ᄁᆢ" to="거의 "/>
 			<HanSubst from="ᄁᆢᆫ" to="근원"/>
 			<HanSubst from="ᄁᆢᆯ" to="걸음"/>
-			<HanSubst from="ᅠᆨ" to="중국"/>
-			<HanSubst from="ᅠᆩ" to="충격"/>
-			<HanSubst from="ᅠᇺ" to="건축"/>
-			<HanSubst from="ᅠᆫ" to="친구"/>
-			<HanSubst from="ᅠᆬ" to="관찰"/>
-			<HanSubst from="ᅠᆭ" to="괜찮"/>
-			<HanSubst from="ᅠᆯ" to="경찰"/>
-			<HanSubst from="ᅠᆲ" to="껍질"/>
-			<HanSubst from="ᅠᆵ" to="중소기업"/>
-			<HanSubst from="ᅠᆷ" to="지금"/>
-			<HanSubst from="ᅠᆸ" to="갑자기 "/>
-			<HanSubst from="ᅠᆺ" to="거짓"/>
-			<HanSubst from="ᅠᆼ" to="가장 "/>
-			<HanSubst from="ᅠᇀ" to="잠깐"/>
-			<HanSubst from="ᅡ" to="자기"/>
-			<HanSubst from="ᅡᆨ" to="작가"/>
-			<HanSubst from="ᅡᆫ" to="관계자"/>
-			<HanSubst from="ᅡᆭ" to="장관"/>
-			<HanSubst from="ᅡᆷ" to="참가"/>
-			<HanSubst from="ᅡᆼ" to="공장"/>
-			<HanSubst from="ᅢ" to="가지"/>
-			<HanSubst from="ᅢᆨ" to="개인적"/>
-			<HanSubst from="ᅢᆫ" to="전개"/>
-			<HanSubst from="ᅢᆼ" to="경쟁"/>
-			<HanSubst from="ᅥ" to="저기"/>
-			<HanSubst from="ᅥᆨ" to="걱정"/>
-			<HanSubst from="ᅥᆫ" to="조건"/>
-			<HanSubst from="ᅥᆷ" to="검찰"/>
-			<HanSubst from="ᅥᆸ" to="접근"/>
-			<HanSubst from="ᅥᆼ" to="가정"/>
-			<HanSubst from="ᅦ" to="구체적"/>
-			<HanSubst from="ᅦᆼ" to="제공"/>
-			<HanSubst from="ᅧ" to="가져"/>
-			<HanSubst from="ᅧᆨ" to="자격"/>
-			<HanSubst from="ᅧᆯ" to="결정"/>
-			<HanSubst from="ᅧᆼ" to="경제"/>
-			<HanSubst from="ᅨ" to="체계"/>
-			<HanSubst from="ᅩ" to="최고"/>
-			<HanSubst from="ᅩᆨ" to="가족"/>
-			<HanSubst from="ᅩᆫ" to="기존"/>
-			<HanSubst from="ᅩᆭ" to="주인공"/>
-			<HanSubst from="ᅩᆼ" to="각종"/>
-			<HanSubst from="ᅪ" to="과정"/>
-			<HanSubst from="ᅪᆨ" to="과학자"/>
-			<HanSubst from="ᅪᆫ" to="관점"/>
-			<HanSubst from="ᅪᆼ" to="강조"/>
-			<HanSubst from="ᅬ" to="초기"/>
-			<HanSubst from="ᅬᆨ" to="귀족"/>
-			<HanSubst from="ᅬᆫ" to="최근 "/>
-			<HanSubst from="ᅬᆼ" to="굉장"/>
-			<HanSubst from="ᅭ" to="종교"/>
-			<HanSubst from="ᅭᆫ" to="자전거"/>
-			<HanSubst from="ᅭᆷ" to="감정"/>
-			<HanSubst from="ᅭᆼ" to="교장"/>
-			<HanSubst from="ᅮ" to="구조"/>
-			<HanSubst from="ᅮᆨ" to="축구"/>
-			<HanSubst from="ᅮᆫ" to="기준"/>
-			<HanSubst from="ᅮᆭ" to="주인공"/>
-			<HanSubst from="ᅮᆯ" to="줄기"/>
-			<HanSubst from="ᅮᆼ" to="중간"/>
-			<HanSubst from="ᆉ" to="자꾸 "/>
-			<HanSubst from="ᆉᆫ" to="장군"/>
-			<HanSubst from="ᆉᆼ" to="광주"/>
-			<HanSubst from="ᅯ" to="전국"/>
-			<HanSubst from="ᅯᆨ" to="과학적"/>
-			<HanSubst from="ᅯᆫ" to="정권"/>
-			<HanSubst from="ᅰᆨ" to="국제"/>
-			<HanSubst from="ᅱ" to="치게"/>
-			<HanSubst from="ᅲ" to="규정"/>
-			<HanSubst from="ᅳ" to="그저 "/>
-			<HanSubst from="ᅳᆨ" to="자극"/>
-			<HanSubst from="ᅳᆫ" to="근처"/>
-			<HanSubst from="ᅳᆯ" to="즐거운 "/>
-			<HanSubst from="ᅳᆷ" to="자금"/>
-			<HanSubst from="ힻ" to="계층"/>
-			<HanSubst from="ힼ" to="조그"/>
-			<HanSubst from="ᆕ" to="그중"/>
-			<HanSubst from="ᅴ" to="그렇지"/>
-			<HanSubst from="ᅴᆷ" to="금지"/>
-			<HanSubst from="ᅵ" to="까지 "/>
-			<HanSubst from="ᅵᆫ" to="전기"/>
-			<HanSubst from="ᅵᆭ" to="긴장"/>
-			<HanSubst from="ᅵᆯ" to="거칠"/>
-			<HanSubst from="ᅵᆴ" to="김정"/>
-			<HanSubst from="ᅵᆷ" to="김치"/>
-			<HanSubst from="ᅵᆼ" to="지경"/>
-			<HanSubst from="ᆘ" to="과제"/>
-			<HanSubst from="ᆘᆼ" to="강제"/>
-			<HanSubst from="ힿ" to="제거"/>
-			<HanSubst from="ힿᆯ" to="계절"/>
-			<HanSubst from="ퟄ" to="여기저기"/>
-			<HanSubst from="ퟄᆼ" to="경제적"/>
-			<HanSubst from="ᆞ" to="글자"/>
-			<HanSubst from="ᆞᆨ" to="극장"/>
-			<HanSubst from="ᆞᆷ" to="그림자"/>
-			<HanSubst from="ᆞᆼ" to="증가"/>
-			<HanSubst from="ᆢ" to="적극"/>
-			<HanSubst from="ᆢᆨ" to="적극적"/>
-			<HanSubst from="ᆢᆫ" to="증권"/>
-			<HanSubst from="ᆢᆼ" to="증거"/>
 			<HanSubst from="ᄂᅠᆨ" to="녀석"/>
 			<HanSubst from="ᄂᅠᆫ" to="내년"/>
 			<HanSubst from="ᄂᅠᆬ" to="눈길"/>
@@ -2559,39 +2459,39 @@
 			<HanSubst from="ᄜᅮ" to="부모"/>
 			<HanSubst from="ᄜᅮᆫ" to="부문"/>
 			<HanSubst from="ᄜᅵᆼ" to="분명히 "/>
-			<HanSubst from="ᅠᆨ" to="민족"/>
-			<HanSubst from="ᅠᇺ" to="만족"/>
-			<HanSubst from="ᅠᆫ" to="지만 "/>
-			<HanSubst from="ᅠᆭ" to="장면"/>
-			<HanSubst from="ᅠᆯ" to="정말"/>
-			<HanSubst from="ᅠᆷ" to="마침 "/>
-			<HanSubst from="ᅠᆺ" to="잘못"/>
-			<HanSubst from="ᅡ" to="마자 "/>
-			<HanSubst from="ᅡᆨ" to="마지막"/>
-			<HanSubst from="ᅡᆫ" to="마찬가지"/>
-			<HanSubst from="ᅡᆭ" to="창문"/>
-			<HanSubst from="ᅡᆯ" to="주말"/>
-			<HanSubst from="ᅡᆼ" to="전망"/>
-			<HanSubst from="ᅢ" to="재미"/>
-			<HanSubst from="ᅥ" to="마저 "/>
-			<HanSubst from="ᅥᆨ" to="무척 "/>
-			<HanSubst from="ᅥᆫ" to="먼저"/>
-			<HanSubst from="ᅦ" to="문제"/>
-			<HanSubst from="ᅦᆷ" to="문제점"/>
-			<HanSubst from="ᅧ" to="며칠"/>
-			<HanSubst from="ᅧᆫ" to="자면 "/>
-			<HanSubst from="ᅨ" to="제목"/>
-			<HanSubst from="ᅩᆨ" to="목적"/>
-			<HanSubst from="ᅬ" to="조미료"/>
-			<HanSubst from="ᅮ" to="주민"/>
-			<HanSubst from="ᅮᆫ" to="문자"/>
-			<HanSubst from="ᅮᆼ" to="민중"/>
-			<HanSubst from="ᆉ" to="마주 "/>
-			<HanSubst from="ᅯ" to="주먹"/>
-			<HanSubst from="ᅯᆫ" to="전문"/>
-			<HanSubst from="ᅵ" to="마치 "/>
-			<HanSubst from="ᅵᆫ" to="민주"/>
-			<HanSubst from="ᅵᆯ" to="질문"/>
+			<HanSubst from="ꥱᅠᆨ" to="민족"/>
+			<HanSubst from="ꥱᅠᇺ" to="만족"/>
+			<HanSubst from="ꥱᅠᆫ" to="지만 "/>
+			<HanSubst from="ꥱᅠᆭ" to="장면"/>
+			<HanSubst from="ꥱᅠᆯ" to="정말"/>
+			<HanSubst from="ꥱᅠᆷ" to="마침 "/>
+			<HanSubst from="ꥱᅠᆺ" to="잘못"/>
+			<HanSubst from="ꥱᅡ" to="마자 "/>
+			<HanSubst from="ꥱᅡᆨ" to="마지막"/>
+			<HanSubst from="ꥱᅡᆫ" to="마찬가지"/>
+			<HanSubst from="ꥱᅡᆭ" to="창문"/>
+			<HanSubst from="ꥱᅡᆯ" to="주말"/>
+			<HanSubst from="ꥱᅡᆼ" to="전망"/>
+			<HanSubst from="ꥱᅢ" to="재미"/>
+			<HanSubst from="ꥱᅥ" to="마저 "/>
+			<HanSubst from="ꥱᅥᆨ" to="무척 "/>
+			<HanSubst from="ꥱᅥᆫ" to="먼저"/>
+			<HanSubst from="ꥱᅦ" to="문제"/>
+			<HanSubst from="ꥱᅦᆷ" to="문제점"/>
+			<HanSubst from="ꥱᅧ" to="며칠"/>
+			<HanSubst from="ꥱᅧᆫ" to="자면 "/>
+			<HanSubst from="ꥱᅨ" to="제목"/>
+			<HanSubst from="ꥱᅩᆨ" to="목적"/>
+			<HanSubst from="ꥱᅬ" to="조미료"/>
+			<HanSubst from="ꥱᅮ" to="주민"/>
+			<HanSubst from="ꥱᅮᆫ" to="문자"/>
+			<HanSubst from="ꥱᅮᆼ" to="민중"/>
+			<HanSubst from="ꥱᆉ" to="마주 "/>
+			<HanSubst from="ꥱᅯ" to="주먹"/>
+			<HanSubst from="ꥱᅯᆫ" to="전문"/>
+			<HanSubst from="ꥱᅵ" to="마치 "/>
+			<HanSubst from="ꥱᅵᆫ" to="민주"/>
+			<HanSubst from="ꥱᅵᆯ" to="질문"/>
 			<HanSubst from="ᄝᅠ" to="! "/>
 			<HanSubst from="ᄝᅠᆫ" to="논문"/>
 			<HanSubst from="ᄝᅠᆯ" to="눈물"/>
@@ -3125,6 +3025,23 @@
 			<HanSubst from="ꥶퟄᆷ" to="어려움"/>
 			<HanSubst from="ꥶᆞ" to="아름"/>
 			<HanSubst from="ꥶᆢ" to="어른"/>
+			<HanSubst from="ᅃᅠᆨ" to="문학"/>
+			<HanSubst from="ᅃᅠᆷ" to="만큼 "/>
+			<HanSubst from="ᅃᅠᆼ" to="희망"/>
+			<HanSubst from="ᅃᅡᆫ" to="가만히 "/>
+			<HanSubst from="ᅃᅢ" to="치마"/>
+			<HanSubst from="ᅃᅦ" to="매체"/>
+			<HanSubst from="ᅃᅧᆫ" to="화면"/>
+			<HanSubst from="ᅃᅪ" to="만화"/>
+			<HanSubst from="ᅃᅮᆫ" to="흥미로운 "/>
+			<HanSubst from="ᅃᆉᆫ" to="문화재"/>
+			<HanSubst from="ᅃᅰ" to="물체"/>
+			<HanSubst from="ᅃᅳᆨ" to="측면"/>
+			<HanSubst from="ᅃᅳᆷ" to="그만큼"/>
+			<HanSubst from="ᅃᅳᆼ" to="흥미"/>
+			<HanSubst from="ᅃᅵ" to="미터"/>
+			<HanSubst from="ᅃᅵᆷ" to="침묵"/>
+			<HanSubst from="ᅃᆘ" to="카메라"/>
 			<HanSubst from="ᅊᅠᆨ" to="역할"/>
 			<HanSubst from="ᅊᅠᇺ" to="확인"/>
 			<HanSubst from="ᅊᅠᆫ" to="차원"/>
@@ -3283,6 +3200,106 @@
 			<HanSubst from="ᄎힿ" to="체험"/>
 			<HanSubst from="ᄎퟄ" to="전혀 "/>
 			<HanSubst from="ᄎᆢ" to="저희"/>
+			<HanSubst from="ᅒᅠᆨ" to="중국"/>
+			<HanSubst from="ᅒᅠᆩ" to="충격"/>
+			<HanSubst from="ᅒᅠᇺ" to="건축"/>
+			<HanSubst from="ᅒᅠᆫ" to="친구"/>
+			<HanSubst from="ᅒᅠᆬ" to="관찰"/>
+			<HanSubst from="ᅒᅠᆭ" to="괜찮"/>
+			<HanSubst from="ᅒᅠᆯ" to="경찰"/>
+			<HanSubst from="ᅒᅠᆲ" to="껍질"/>
+			<HanSubst from="ᅒᅠᆵ" to="중소기업"/>
+			<HanSubst from="ᅒᅠᆷ" to="지금"/>
+			<HanSubst from="ᅒᅠᆸ" to="갑자기 "/>
+			<HanSubst from="ᅒᅠᆺ" to="거짓"/>
+			<HanSubst from="ᅒᅠᆼ" to="가장 "/>
+			<HanSubst from="ᅒᅠᇀ" to="잠깐"/>
+			<HanSubst from="ᅒᅡ" to="자기"/>
+			<HanSubst from="ᅒᅡᆨ" to="작가"/>
+			<HanSubst from="ᅒᅡᆫ" to="관계자"/>
+			<HanSubst from="ᅒᅡᆭ" to="장관"/>
+			<HanSubst from="ᅒᅡᆷ" to="참가"/>
+			<HanSubst from="ᅒᅡᆼ" to="공장"/>
+			<HanSubst from="ᅒᅢ" to="가지"/>
+			<HanSubst from="ᅒᅢᆨ" to="개인적"/>
+			<HanSubst from="ᅒᅢᆫ" to="전개"/>
+			<HanSubst from="ᅒᅢᆼ" to="경쟁"/>
+			<HanSubst from="ᅒᅥ" to="저기"/>
+			<HanSubst from="ᅒᅥᆨ" to="걱정"/>
+			<HanSubst from="ᅒᅥᆫ" to="조건"/>
+			<HanSubst from="ᅒᅥᆷ" to="검찰"/>
+			<HanSubst from="ᅒᅥᆸ" to="접근"/>
+			<HanSubst from="ᅒᅥᆼ" to="가정"/>
+			<HanSubst from="ᅒᅦ" to="구체적"/>
+			<HanSubst from="ᅒᅦᆼ" to="제공"/>
+			<HanSubst from="ᅒᅧ" to="가져"/>
+			<HanSubst from="ᅒᅧᆨ" to="자격"/>
+			<HanSubst from="ᅒᅧᆯ" to="결정"/>
+			<HanSubst from="ᅒᅧᆼ" to="경제"/>
+			<HanSubst from="ᅒᅨ" to="체계"/>
+			<HanSubst from="ᅒᅩ" to="최고"/>
+			<HanSubst from="ᅒᅩᆨ" to="가족"/>
+			<HanSubst from="ᅒᅩᆫ" to="기존"/>
+			<HanSubst from="ᅒᅩᆭ" to="주인공"/>
+			<HanSubst from="ᅒᅩᆼ" to="각종"/>
+			<HanSubst from="ᅒᅪ" to="과정"/>
+			<HanSubst from="ᅒᅪᆨ" to="과학자"/>
+			<HanSubst from="ᅒᅪᆫ" to="관점"/>
+			<HanSubst from="ᅒᅪᆼ" to="강조"/>
+			<HanSubst from="ᅒᅬ" to="초기"/>
+			<HanSubst from="ᅒᅬᆨ" to="귀족"/>
+			<HanSubst from="ᅒᅬᆫ" to="최근 "/>
+			<HanSubst from="ᅒᅬᆼ" to="굉장"/>
+			<HanSubst from="ᅒᅭ" to="종교"/>
+			<HanSubst from="ᅒᅭᆫ" to="자전거"/>
+			<HanSubst from="ᅒᅭᆷ" to="감정"/>
+			<HanSubst from="ᅒᅭᆼ" to="교장"/>
+			<HanSubst from="ᅒᅮ" to="구조"/>
+			<HanSubst from="ᅒᅮᆨ" to="축구"/>
+			<HanSubst from="ᅒᅮᆫ" to="기준"/>
+			<HanSubst from="ᅒᅮᆭ" to="주인공"/>
+			<HanSubst from="ᅒᅮᆯ" to="줄기"/>
+			<HanSubst from="ᅒᅮᆼ" to="중간"/>
+			<HanSubst from="ᅒᆉ" to="자꾸 "/>
+			<HanSubst from="ᅒᆉᆫ" to="장군"/>
+			<HanSubst from="ᅒᆉᆼ" to="광주"/>
+			<HanSubst from="ᅒᅯ" to="전국"/>
+			<HanSubst from="ᅒᅯᆨ" to="과학적"/>
+			<HanSubst from="ᅒᅯᆫ" to="정권"/>
+			<HanSubst from="ᅒᅰᆨ" to="국제"/>
+			<HanSubst from="ᅒᅱ" to="치게"/>
+			<HanSubst from="ᅒᅲ" to="규정"/>
+			<HanSubst from="ᅒᅳ" to="그저 "/>
+			<HanSubst from="ᅒᅳᆨ" to="자극"/>
+			<HanSubst from="ᅒᅳᆫ" to="근처"/>
+			<HanSubst from="ᅒᅳᆯ" to="즐거운 "/>
+			<HanSubst from="ᅒᅳᆷ" to="자금"/>
+			<HanSubst from="ᅒힻ" to="계층"/>
+			<HanSubst from="ᅒힼ" to="조그"/>
+			<HanSubst from="ᅒᆕ" to="그중"/>
+			<HanSubst from="ᅒᅴ" to="그렇지"/>
+			<HanSubst from="ᅒᅴᆷ" to="금지"/>
+			<HanSubst from="ᅒᅵ" to="까지 "/>
+			<HanSubst from="ᅒᅵᆫ" to="전기"/>
+			<HanSubst from="ᅒᅵᆭ" to="긴장"/>
+			<HanSubst from="ᅒᅵᆯ" to="거칠"/>
+			<HanSubst from="ᅒᅵᆴ" to="김정"/>
+			<HanSubst from="ᅒᅵᆷ" to="김치"/>
+			<HanSubst from="ᅒᅵᆼ" to="지경"/>
+			<HanSubst from="ᅒᆘ" to="과제"/>
+			<HanSubst from="ᅒᆘᆼ" to="강제"/>
+			<HanSubst from="ᅒힿ" to="제거"/>
+			<HanSubst from="ᅒힿᆯ" to="계절"/>
+			<HanSubst from="ᅒퟄ" to="여기저기"/>
+			<HanSubst from="ᅒퟄᆼ" to="경제적"/>
+			<HanSubst from="ᅒᆞ" to="글자"/>
+			<HanSubst from="ᅒᆞᆨ" to="극장"/>
+			<HanSubst from="ᅒᆞᆷ" to="그림자"/>
+			<HanSubst from="ᅒᆞᆼ" to="증가"/>
+			<HanSubst from="ᅒᆢ" to="적극"/>
+			<HanSubst from="ᅒᆢᆨ" to="적극적"/>
+			<HanSubst from="ᅒᆢᆫ" to="증권"/>
+			<HanSubst from="ᅒᆢᆼ" to="증거"/>
 			<HanSubst from="ᄏᅠᆨ" to="개혁"/>
 			<HanSubst from="ᄏᅠᆫ" to="환경"/>
 			<HanSubst from="ᄏᅠᆬ" to="결혼"/>
@@ -3344,23 +3361,6 @@
 			<HanSubst from="ᄒᅠᇂ" to="하얗"/>
 			<HanSubst from="ᄒᆘ" to="하게 "/>
 			<HanSubst from="ᄒퟄᆫ" to="현저"/>
-			<HanSubst from="ᅠᆨ" to="문학"/>
-			<HanSubst from="ᅠᆷ" to="만큼 "/>
-			<HanSubst from="ᅠᆼ" to="희망"/>
-			<HanSubst from="ᅡᆫ" to="가만히 "/>
-			<HanSubst from="ᅢ" to="치마"/>
-			<HanSubst from="ᅦ" to="매체"/>
-			<HanSubst from="ᅧᆫ" to="화면"/>
-			<HanSubst from="ᅪ" to="만화"/>
-			<HanSubst from="ᅮᆫ" to="흥미로운 "/>
-			<HanSubst from="ᆉᆫ" to="문화재"/>
-			<HanSubst from="ᅰ" to="물체"/>
-			<HanSubst from="ᅳᆨ" to="측면"/>
-			<HanSubst from="ᅳᆷ" to="그만큼"/>
-			<HanSubst from="ᅳᆼ" to="흥미"/>
-			<HanSubst from="ᅵ" to="미터"/>
-			<HanSubst from="ᅵᆷ" to="침묵"/>
-			<HanSubst from="ᆘ" to="카메라"/>
 			<HanSubst from="ᅙᅠᆨ" to="학년"/>
 			<HanSubst from="ᅙᅠᆫ" to="키는 "/>
 			<HanSubst from="ᅙᅠᆯ" to="하늘"/>

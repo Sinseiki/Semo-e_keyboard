@@ -109,7 +109,7 @@
 			<UnitMix unit="CHO" a="G_" b="S_" to="SG"/>
 			<UnitMix unit="CHO" a="G_" b="Q_" to="GG"/>
 			<UnitMix unit="CHO" a="G_" b="QQ" to="QG"/>
-			<UnitMix unit="CHO" a="G_" b="J_" to="GC"/>
+			<UnitMix unit="CHO" a="G_" b="J_" to="CK"/>
 			<UnitMix unit="CHO" a="G_" b="H_" to="K_"/>
 			<UnitMix unit="CHO" a="N_" b="G_" to="BT"/>
 			<UnitMix unit="CHO" a="N_" b="D_" to="ND"/>
@@ -150,8 +150,8 @@
 			<UnitMix unit="CHO" a="M_" b="R_" to="RM"/>
 			<UnitMix unit="CHO" a="M_" b="B_" to="MB"/>
 			<UnitMix unit="CHO" a="M_" b="S_" to="SM"/>
-			<UnitMix unit="CHO" a="M_" b="J_" to="MJ"/>
-			<UnitMix unit="CHO" a="M_" b="H_" to="HM"/>
+			<UnitMix unit="CHO" a="M_" b="J_" to="MS"/>
+			<UnitMix unit="CHO" a="M_" b="H_" to="QM"/>
 			<UnitMix unit="CHO" a="B_" b="G_" to="BG"/>
 			<UnitMix unit="CHO" a="B_" b="N_" to="BQ"/>
 			<UnitMix unit="CHO" a="B_" b="D_" to="BD"/>
@@ -221,11 +221,11 @@
 			<UnitMix unit="CHO" a="QQ" b="Jw" to="JJw"/>
 			<UnitMix unit="CHO" a="QQ" b="H_" to="HH"/>
 			<UnitMix unit="CHO" a="V_" b="B_" to="BBQ"/>
-			<UnitMix unit="CHO" a="J_" b="G_" to="GC"/>
+			<UnitMix unit="CHO" a="J_" b="G_" to="CK"/>
 			<UnitMix unit="CHO" a="J_" b="N_" to="PQ"/>
 			<UnitMix unit="CHO" a="J_" b="D_" to="DJ"/>
 			<UnitMix unit="CHO" a="J_" b="R_" to="RJ"/>
-			<UnitMix unit="CHO" a="J_" b="M_" to="MJ"/>
+			<UnitMix unit="CHO" a="J_" b="M_" to="MS"/>
 			<UnitMix unit="CHO" a="J_" b="B_" to="BJ"/>
 			<UnitMix unit="CHO" a="J_" b="BS" to="Jw"/>
 			<UnitMix unit="CHO" a="J_" b="S_" to="SJ"/>
@@ -247,7 +247,7 @@
 			<UnitMix unit="CHO" a="H_" b="N_" to="X_"/>
 			<UnitMix unit="CHO" a="H_" b="D_" to="T_"/>
 			<UnitMix unit="CHO" a="H_" b="R_" to="RH"/>
-			<UnitMix unit="CHO" a="H_" b="M_" to="HM"/>
+			<UnitMix unit="CHO" a="H_" b="M_" to="QM"/>
 			<UnitMix unit="CHO" a="H_" b="B_" to="P_"/>
 			<UnitMix unit="CHO" a="H_" b="S_" to="SB"/>
 			<UnitMix unit="CHO" a="H_" b="Q_" to="QT"/>
