@@ -299,7 +299,6 @@
 			<UnitMix unit="JUNG" a="E_" b="E_" to="YE"/>
 			<UnitMix unit="JUNG" a="E_" b="YEO" to="IYAE"/>
 			<UnitMix unit="JUNG" a="E_" b="O_" to="YE"/>
-			<UnitMix unit="JUNG" a="E_" b="OI" to="IYE"/>
 			<UnitMix unit="JUNG" a="E_" b="YOI" to="OE"/>
 			<UnitMix unit="JUNG" a="E_" b="U_" to="WE"/>
 			<UnitMix unit="JUNG" a="E_" b="YUI" to="YUYE"/>
@@ -325,7 +324,6 @@
 			<UnitMix unit="JUNG" a="O_" b="YEO" to="YAE"/>
 			<UnitMix unit="JUNG" a="O_" b="O_" to="YO"/>
 			<UnitMix unit="JUNG" a="O_" b="U_" to="YU"/>
-			<UnitMix unit="JUNG" a="O_" b="WI" to="IYE"/>
 			<UnitMix unit="JUNG" a="O_" b="EU" to="EUO"/>
 			<UnitMix unit="JUNG" a="O_" b="I_" to="OI"/>
 			<UnitMix unit="JUNG" a="O_" b="FI" to="YAO"/>
@@ -343,14 +341,15 @@
 			<UnitMix unit="JUNG" a="U_" b="E_" to="WE"/>
 			<UnitMix unit="JUNG" a="U_" b="YEO" to="YEOU"/>
 			<UnitMix unit="JUNG" a="U_" b="O_" to="YU"/>
-			<UnitMix unit="JUNG" a="U_" b="OI" to="IYE"/>
 			<UnitMix unit="JUNG" a="U_" b="U_" to="YU"/>
 			<UnitMix unit="JUNG" a="U_" b="EU" to="EUU"/>
 			<UnitMix unit="JUNG" a="U_" b="I_" to="WI"/>
 			<UnitMix unit="JUNG" a="U_" b="500" to="YU"/>
 			<UnitMix unit="JUNG" a="UEO" b="I_" to="WE"/>
 			<UnitMix unit="JUNG" a="WI" b="EO" to="WE"/>
+			<UnitMix unit="JUNG" a="WI" b="E_" to="IYE"/>
 			<UnitMix unit="JUNG" a="WI" b="O_" to="IYE"/>
+			<UnitMix unit="JUNG" a="WI" b="U_" to="IYE"/>
 			<UnitMix unit="JUNG" a="WI" b="500" to="IYE"/>
 			<UnitMix unit="JUNG" a="YU" b="I_" to="IYE"/>
 			<UnitMix unit="JUNG" a="YUI" b="A_" to="AU"/>
@@ -396,7 +395,6 @@
 			<UnitMix unit="JUNG" a="500" b="YEO" to="YAE"/>
 			<UnitMix unit="JUNG" a="500" b="O_" to="YO"/>
 			<UnitMix unit="JUNG" a="500" b="U_" to="YU"/>
-			<UnitMix unit="JUNG" a="500" b="WI" to="IYE"/>
 			<UnitMix unit="JUNG" a="500" b="EU" to="YA"/>
 			<UnitMix unit="JUNG" a="500" b="I_" to="OI"/>
 			<UnitMix unit="JUNG" a="500" b="FI" to="YAO"/>
@@ -449,6 +447,7 @@
 			<UnitMix unit="JONG" a="RS" b="SS" to="GG"/>
 			<UnitMix unit="JONG" a="RS" b="501" to="RGS"/>
 			<UnitMix unit="JONG" a="RS" b="506" to="RBS"/>
+			<UnitMix unit="JONG" a="RS" b="507" to="J_"/>
 			<UnitMix unit="JONG" a="RH" b="R_" to="K_"/>
 			<UnitMix unit="JONG" a="RH" b="503" to="RT"/>
 			<UnitMix unit="JONG" a="RH" b="506" to="RP"/>
@@ -1830,7 +1829,6 @@
 			<HanSubst from="ᄂᆞᆯ" to="낮은 "/>
 			<HanSubst from="ᄂᆞᆼ" to="않는 "/>
 			<HanSubst from="ᄂᆡ" to="내는 "/>
-			<HanSubst from="ᄂᆢ" to="느냐? "/>
 			<HanSubst from="ᄕᅠ" to=", "/>
 			<HanSubst from="ᄕᅠᆫ" to="는데"/>
 			<HanSubst from="ᄕᅠᆺ" to="인터넷"/>
@@ -1931,7 +1929,6 @@
 			<HanSubst from="ᅞᅡ" to="따라"/>
 			<HanSubst from="ᅞᅡᆯ" to="달라"/>
 			<HanSubst from="ᅞᅢ" to="대로 "/>
-			<HanSubst from="ᅞᅤ" to="고려"/>
 			<HanSubst from="ᅞᅥ" to="따라서 "/>
 			<HanSubst from="ᅞᅦ" to="텔레비전"/>
 			<HanSubst from="ᅞᅩ" to="따로 "/>
@@ -2009,7 +2006,6 @@
 			<HanSubst from="ꥣᆉ" to="투자"/>
 			<HanSubst from="ꥣᅯᆫ" to="전도"/>
 			<HanSubst from="ꥣᅳᆨ" to="특징"/>
-			<HanSubst from="ꥣᅳᆫ" to="든지"/>
 			<HanSubst from="ꥣᅳᆼ" to="등장"/>
 			<HanSubst from="ꥣᅵ" to="지도"/>
 			<HanSubst from="ꥣᅵᆫ" to="진단"/>
@@ -2061,7 +2057,6 @@
 			<HanSubst from="ꥤᅳᆫ" to="근로"/>
 			<HanSubst from="ꥤᅳᆷ" to="기름"/>
 			<HanSubst from="ꥤᅳᆺ" to="그릇"/>
-			<HanSubst from="ꥤힼ" to="그러므로 "/>
 			<HanSubst from="ꥤᆕ" to="구름"/>
 			<HanSubst from="ꥤᅴ" to="그리"/>
 			<HanSubst from="ꥤᅵ" to="거리"/>
@@ -2287,7 +2282,6 @@
 			<HanSubst from="ᄞᅵᆨ" to="기본적"/>
 			<HanSubst from="ᄞᅵᆼ" to="비행기"/>
 			<HanSubst from="ᄞᆘ" to="카페"/>
-			<HanSubst from="ᄞᆞᆨ" to="비극"/>
 			<HanSubst from="ᄠᅠ" to=". "/>
 			<HanSubst from="ᄠᅠᆨ" to="특별"/>
 			<HanSubst from="ᄠᅠᆫ" to="대부분"/>
@@ -2673,7 +2667,6 @@
 			<HanSubst from="ᄶᅰ" to="중세"/>
 			<HanSubst from="ᄶᅰᆨ" to="숙제"/>
 			<HanSubst from="ᄶᅱ" to="제시"/>
-			<HanSubst from="ᄶᅱᆨ" to="주식"/>
 			<HanSubst from="ᄶᅱᆼ" to="성취"/>
 			<HanSubst from="ᄶᅲ" to="소주"/>
 			<HanSubst from="ᄶᅴ" to="시리즈"/>
@@ -2814,7 +2807,6 @@
 			<HanSubst from="ᅊᅵ" to="이해"/>
 			<HanSubst from="ᅊᅵᆯ" to="일치"/>
 			<HanSubst from="ᅊᅵᆸ" to="입학"/>
-			<HanSubst from="ᅊᆘ" to="카메라"/>
 			<HanSubst from="ᅊힿ" to="헤어"/>
 			<HanSubst from="ᅊퟄ" to="여전히"/>
 			<HanSubst from="ᅊᆞ" to="의학"/>
@@ -2987,7 +2979,6 @@
 			<HanSubst from="ᅒᅮ" to="구조"/>
 			<HanSubst from="ᅒᅮᆨ" to="축구"/>
 			<HanSubst from="ᅒᅮᆫ" to="기준"/>
-			<HanSubst from="ᅒᅮᆭ" to="주인공"/>
 			<HanSubst from="ᅒᅮᆯ" to="줄기"/>
 			<HanSubst from="ᅒᅮᆼ" to="중간"/>
 			<HanSubst from="ᅒᆉ" to="자꾸 "/>
@@ -3062,7 +3053,6 @@
 			<HanSubst from="ᄑᅠᆯ" to="필요"/>
 			<HanSubst from="ᄑᅠᆷ" to="포함"/>
 			<HanSubst from="ᄑᅠᆼ" to="표정"/>
-			<HanSubst from="ᄑᆉᆫ" to="후반"/>
 			<HanSubst from="ᄑᆉᆯ" to="발휘"/>
 			<HanSubst from="ᄑퟄ" to="표현"/>
 			<HanSubst from="ᅗᅠᆨ" to="작년"/>
