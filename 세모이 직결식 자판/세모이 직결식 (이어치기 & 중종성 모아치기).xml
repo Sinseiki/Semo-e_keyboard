@@ -2951,7 +2951,7 @@
 			<HanSubst from="ᅊᅵᆯ" to="일치"/>
 			<HanSubst from="ᅊᅵᆸ" to="입학"/>
 			<HanSubst from="ᅊힿ" to="헤어"/>
-			<HanSubst from="ᅊퟄ" to="여전히"/>
+			<HanSubst from="ᅊퟄ" to="여전히 "/>
 			<HanSubst from="ᅊᆞ" to="의학"/>
 			<HanSubst from="ᅌᅠᆫ" to="오는 "/>
 			<HanSubst from="ᅌᅠᆭ" to="안녕"/>
@@ -3131,7 +3131,7 @@
 			<HanSubst from="ᅒᅯᆨ" to="과학적"/>
 			<HanSubst from="ᅒᅯᆫ" to="정권"/>
 			<HanSubst from="ᅒᅰᆨ" to="국제"/>
-			<HanSubst from="ᅒᅱ" to="치게"/>
+			<HanSubst from="ᅒᅱ" to="치게 "/>
 			<HanSubst from="ᅒᅲ" to="규정"/>
 			<HanSubst from="ᅒᅳ" to="그저 "/>
 			<HanSubst from="ᅒᅳᆨ" to="자극"/>
