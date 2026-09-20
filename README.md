@@ -614,7 +614,6 @@ https://raw.githubusercontent.com/Sinseiki/Semo-e_keyboard/refs/heads/main/세�
 | [두벌식 줄맞춤 e (두줄이)](https://github.com/Sinseiki/Dujul-e_keyboard) | 표준 두벌식 응용 효율 개선 자판 |
 | [두벌식 겹받침 e (두겹이)](https://github.com/Sinseiki/Dugyeob-e_keyboard) | 표준 두벌식 배열 기반 개선 자판 |
 | [두벌식 자판 모아치기](https://github.com/Sinseiki/Dubeolsik_Moachigi) | 두벌식 자판의 모아치기 연구 |
-| [세벌식 ROS-e (ROSE)](https://github.com/Sinseiki/ros-e_keyboard) | 영어 모아치기 및 순서 교정 자판 |
 | [타자 피로도 분석기](https://github.com/Sinseiki/typing-fatigue-analyzer) | 자판 연구를 위한 타자 피로도 분석 도구 |
 
 ※ 타자 피로도 분석기는 [Hyunjun Ji](https://github.com/isty2e) 님의 분석기를 기반으로 연구 및 수정되었습니다.
