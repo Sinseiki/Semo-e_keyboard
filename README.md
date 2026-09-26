@@ -610,7 +610,7 @@ https://raw.githubusercontent.com/Sinseiki/Semo-e_keyboard/refs/heads/main/세�
 
 | 이름 | 설명 |
 | --- | --- |
-| [**세벌식 모아치기 e (세모이)**](https://github.com/Sinseiki/Semo-e_keyboard) | **입력을 압축하는 준속기 겸용 자판** |
+| [**세벌식 모아치기 e (세모이)**](https://github.com/Sinseiki/Semo-e_keyboard) | **입력을 압축하는 준속기 자판** |
 | [두벌식 줄맞춤 e (두줄이)](https://github.com/Sinseiki/Dujul-e_keyboard) | 표준 두벌식 응용 효율 개선 자판 |
 | [두벌식 겹받침 e (두겹이)](https://github.com/Sinseiki/Dugyeob-e_keyboard) | 표준 두벌식 배열 기반 개선 자판 |
 | [두벌식 자판 모아치기](https://github.com/Sinseiki/Dubeolsik_Moachigi) | 두벌식 자판의 모아치기 연구 |
